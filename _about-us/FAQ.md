@@ -11,10 +11,10 @@ Mondays to Fridays 8 am to 5 pm excluding weekends and public holidays. 
 
 **2\. What are the school gates' operating hours?** 
 
-Gates Opening Hours (During School Term Only)
+<p style="text-align: center;">Gates Opening Hours (During School Term Only)</p>
 
-For All Visitors Including Parents And Contractors  
+<p style="text-align: center;">For All Visitors Including Parents And Contractors</p>
 
-Please Use Main Gate
+<p style="text-align: center;">Please Use Main Gate</p>
 
-Main Gate: 6.15am – 7pm (Mon to Fri)
+<p style="text-align: center;">Main Gate: 6.15am – 7pm (Mon to Fri)</p>
