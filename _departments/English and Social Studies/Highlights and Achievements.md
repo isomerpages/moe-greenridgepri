@@ -4,7 +4,7 @@ permalink: /departments/English-and-Social-Studies/highlights-and-achievements/
 description: ""
 third_nav_title: English and Social Studies
 ---
-# Please upload the 2 videos interview of the winning students  to youtube
+# Please upload the 2 videos interview of the NUS High Oratorical Challenge winners  to youtube
 # Highlights and Achievements
 
 **NUS High Oratorical Challenge**
