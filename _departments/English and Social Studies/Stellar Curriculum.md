@@ -5,3 +5,4 @@ description: ""
 third_nav_title: English and Social Studies
 ---
 # Stellar Curriculum
+**Primary 1 and 2**
