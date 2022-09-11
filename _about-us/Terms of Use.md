@@ -27,7 +27,7 @@ description: ""
 
 2\. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that the website is free of infection by computer viruses or other unauthorized software.
   
-**Hyperlinks ** 
+**Hyperlinks** 
 
 1\. We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from the website. Access to any other site is at your own risk.
 
