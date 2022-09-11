@@ -5,6 +5,8 @@ description: ""
 ---
 # Principal's Message
 
+![](/images/About%20Us/P_Mdm%20Flora%20Ong.jpg)
+
 Welcome to Greenridge Primary School! 
 
 We advocate Positive Education that draws on individual strengths and personal motivation to promote teaching and learning. In empowering students to think beyond themselves, we help to foster values and develop growth mindsets, that allow children to see that they can form purpose and impact on others. 
