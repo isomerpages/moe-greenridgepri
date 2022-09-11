@@ -57,6 +57,8 @@ We strive to nurture confident language learners who have the love for the cultu
 
 ##### Mother Tongue Fortnight 2015
 
+# Consider removing this part
+
 #### Chinese New Year Celebration
 
 
