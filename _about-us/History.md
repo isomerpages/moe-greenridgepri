@@ -5,9 +5,13 @@ description: ""
 ---
 # History
 
-![](/images/About%20Us/history1.jpg)
+|   |   |
+|---|---|
+| ![](/images/About%20Us/history1.jpg)  | ![](/images/About%20Us/history3.jpg)  |
 
-![](/images/About%20Us/history3.jpg)
+
+
+
 
 ![](/images/About%20Us/history2.jpg)
 
