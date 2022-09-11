@@ -8,7 +8,7 @@ third_nav_title: Mother Tongue Department
 
 ![](/images/Departments/Mother%20Tongue%20Department/Chinese/CHINESE_P1.jpg)
 
-### Vision & Mission
+### Vision &amp; Mission
 
 #### Mission
 
@@ -22,7 +22,7 @@ We strive to nurture confident language learners who have the love for the cultu
 
 |           Designation          |                                                                   Name                                                                  |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| P1&P2 Year Head                | Mdm Pek Shu San                                                                                                                         |
+| P1&amp;P2 Year Head                | Mdm Pek Shu San                                                                                                                         |
 |   Level Head Chinese Language  | Mrs Heng-Wang Yingshan                                                                                                                  |
 | P1 Level Representative        | Ms Neo Jie Ying                                                                                                                         |
 | P2 Level Representative        | Mdm Chiang Yen                                                                                                                          |
@@ -61,7 +61,9 @@ We strive to nurture confident language learners who have the love for the cultu
 
 #### Chinese New Year Celebration
 
-# Upload the slide show images to google slides
+# Upload the slide show images to google slides (see sample)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vToxjo31hiqMi_kD0Dp0FVGGcnrhzlKb5kP6zv-FShXtbULRLOd59E7GEaAHoTcUwoHa3nz__8gknpv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Mother Tongue Fortnight
 
