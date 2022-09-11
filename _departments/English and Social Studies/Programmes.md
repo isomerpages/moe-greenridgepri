@@ -29,9 +29,18 @@ As part of their experiential learning, the Primary 2 students go to Jurong Bird
 
 ![](/images/Departments/English%20and%20Social%20Studies/Programmes/v2.jpg)
 
+**Speech & Drama**
+
+The lower primary Speech and Drama programme is part of the English curriculum that complements the school’s English programme. It engages students in activities that develop students’ confidence and speaking skills so that they are more articulate and expressive. With skills that they have learnt over the span of two years, the primary 2 students put up a fantastic performance for their parents and peers.
+
 ![](/images/Departments/English%20and%20Social%20Studies/Programmes/v3.jpg)
 
 ![](/images/Departments/English%20and%20Social%20Studies/Programmes/v4.jpg)
+
+**Primary 3 and P4**  
+**Play Appreciation**
+
+The department organises a yearly outing to give the students an opportunity to appreciate and enjoy a play. In 2017, the primary 3 and 4 students watched the play “Coraline” in term 2. This spellbinding production of Neil Gaiman's award-winning masterpiece had everyone on the edge of their seats with its standout puppetry and creative staging.
 
 ![](/images/Departments/English%20and%20Social%20Studies/Programmes/v5.jpg)
 
