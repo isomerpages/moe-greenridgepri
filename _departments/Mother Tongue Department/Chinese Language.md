@@ -71,7 +71,7 @@ We strive to nurture confident language learners who have the love for the cultu
 
 Click below for more information :
 
-*   [Info to Parents for P5P6 CL Curriculum \[CL version\]](https://greenridgepri.moe.edu.sg/qql/slot/u547/Holistic%20Curriculum/Departments/Mother%20Tongue/Mandarin/P5P6_Curriculum.ppt)
-*   [Comprehension Notes](https://greenridgepri.moe.edu.sg/qql/slot/u547/Holistic%20Curriculum/Departments/Mother%20Tongue/Mandarin/compre_notes.ppt)
+*   [Info to Parents for P5P6 CL Curriculum \[CL version\]](https://go.gov.sg/p5p6-curriculum)
+*   [Comprehension Notes](https://go.gov.sg/comprehension-notes)
 *   [Sharing on Composition](https://go.gov.sg/sharing-on-composition)
 *   <a href="Chinese_Lang_New_Curriculum">Chinese Language New Curriculum slides</a>
