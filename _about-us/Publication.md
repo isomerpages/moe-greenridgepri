@@ -40,6 +40,26 @@ description: ""
 </table>
 
 
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="" target = "_blank"> <img src="/images/About%20Us/Publication/2016.jpg"
+     style="width:100%"></a></td>
+    <td><a href="" target = "_blank"> <img src="/images/About%20Us/Publication/2015.jpg"
+     style="width:100%"></a></td>
+    <td><a href="" target = "_blank"> <img src="/images/About%20Us/Publication/2014.jpg"
+     style="width:100%"></a></td>
+  </tr>
+</tbody>
+</table>
+
 		 
 <b>3) <u>WE STories</u></b>
 
