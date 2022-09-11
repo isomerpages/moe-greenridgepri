@@ -5,7 +5,7 @@ description: ""
 ---
 # News
 
-**Media Coverage on GRPS National Day Celebrations 2020**  
+<b><u>Media Coverage on GRPS National Day Celebrations 2020</u></b>
 
 We are happy to share with you that our school was exclusively featured on 7th August via local TV news channels on the unique way of how we conduct and commemorate this year's national day observance ceremony and celebrations. 
 
