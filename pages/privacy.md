@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-### **Privacy Statement**
+# Privacy Statement
 
 This is a Greenridge Primary School website.  
   
