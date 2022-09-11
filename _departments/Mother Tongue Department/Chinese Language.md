@@ -32,7 +32,7 @@ We strive to nurture confident language learners who have the love for the cultu
 | P6 Level Representative        | Mdm Kong Kit Ling                                                                                                                       |
 | P5 P6 HCL Level Representative | Mdm Wang Jiajia                                                                                                                         |
 | P5 P6 FCL Level Representative | Mdm Chua Sze Ying                                                                                                                       |
-| Members                        | Ms Wong Hui Lin<br><br>Mdm Yap Eik Teng<br>Mdm Tan Pei Ling<br>Mdm Shi Cunyu<br>Mr Lee Sou Wee <br>Mdm Li Hong Ying <br>Ms Ng Siew Qing |
+| Members                        | Ms Wong Hui Lin<br>Mdm Yap Eik Teng<br>Mdm Tan Pei Ling<br>Mdm Shi Cunyu<br>Mr Lee Sou Wee <br>Mdm Li Hong Ying <br>Ms Ng Siew Qing |
 
 ### Programmes (Level)
 
