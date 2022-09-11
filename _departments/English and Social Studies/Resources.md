@@ -4,7 +4,7 @@ permalink: /departments/English-and-Social-Studies/resources/
 description: ""
 third_nav_title: English and Social Studies
 ---
-# Recommend to check and confirm the link for Information and Parent Resources on STELLAR. Current link does not lead to a site that matches the description: http://www.stellarliteracy.sg/
+# Recommend to check and confirm the link for Information and Parent Resources on STELLAR. Current link states that the domain name is for sale: http://www.stellarliteracy.sg/
 # Resources
 ### Writing Guide
 
