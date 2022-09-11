@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English and Social Studies/Programmes.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
       - English and Social Studies/Vision & Mission.md
