@@ -17,3 +17,6 @@ We aspire to make the learning of language, culture and values fun and meaningfu
 #### Vision
 
 We strive to nurture confident language learners who have the love for the culture.
+
+### Department Teachers
+
