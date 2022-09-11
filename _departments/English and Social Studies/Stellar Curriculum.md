@@ -14,3 +14,19 @@ third_nav_title: English and Social Studies
 Reading big books together
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v1.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v2.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v3.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v4.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v5.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v6.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v7.png)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v8.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v9.jpg)
