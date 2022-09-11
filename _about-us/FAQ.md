@@ -51,7 +51,7 @@ Mondays to Fridays 8 am to 5 pm excluding weekends and public holidays. 
     <td style="text-align: center;">Closed</td>
   </tr>
   <tr>
-    <td style="text-align: center;">Gate 3*<br>Gate 7<br></td>
+    <td style="text-align: center;">Gate 3*<br><br>Gate 7<br></td>
     <td style="text-align: center;"> 6.50  – 7.30 am<br>1.30 to 1.45 pm</td>
     <td style="text-align: center;">6.50  – 7.30 am<br>1.30 to 1.45 pm</td>
     <td style="text-align: center;">Closed  </td>
