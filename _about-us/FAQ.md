@@ -69,7 +69,11 @@ Parents are allowed to drop off their children inside the school foyer before 7a
 
 **3\. What are the operating hours and website of the media resource library?**
   
-
+|                   |                        |
+|-------------------|------------------------|
+| Monday – Thursday |  7.30 a.m. – 4.30 p.m. |
+| Friday            | 7.30 a.m. – 4.00 p.m.  |
+| Closed for lunch  | 12.30 p.m. - 1.00 p.m. |
 
 **4\. When can parents/guardians buy things from the bookshop?**
 
