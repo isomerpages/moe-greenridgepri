@@ -63,7 +63,7 @@ We strive to nurture confident language learners who have the love for the cultu
 
 # Upload the slide show images to google slides (see sample)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vToxjo31hiqMi_kD0Dp0FVGGcnrhzlKb5kP6zv-FShXtbULRLOd59E7GEaAHoTcUwoHa3nz__8gknpv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="760" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vToxjo31hiqMi_kD0Dp0FVGGcnrhzlKb5kP6zv-FShXtbULRLOd59E7GEaAHoTcUwoHa3nz__8gknpv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Mother Tongue Fortnight
 
