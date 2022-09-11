@@ -66,3 +66,34 @@ Mondays to Fridays 8 am to 5 pm excluding weekends and public holidays. 
 <p style="text-align: center;"><b><i>Note: After 1.45pm, students can make use of Gate 1A (near Security Post) to leave the school.</i></b></p>
 
 Parents are allowed to drop off their children inside the school foyer before 7am or during wet weather by 7.25am. During school holidays, only the main gate will be opened from 7am to 7pm (Mon - Fri)
+
+**3\. What are the operating hours and website of the media resource library?**
+  
+
+
+**4\. When can parents/guardians buy things from the bookshop?**
+
+School Textbooks / Shoes / Stationery. Operating hours: Monday ~ Friday: 9 am to 4.00pm. Website: [http://thecontinentalbookcentre.blogspot.com](http://thecontinentalbookcentre.blogspot.com/)  
+  
+
+**5\. What are the operating hours for the dental clinic?**
+
+Tel: 67662367  
+Operating hours: Monday - Friday: 8.00am to 5.00pm  
+  
+
+**6\. Who is the vendor of the school's bus service?** 
+
+JK 59 Pte Ltd  
+Tel: 64655959  
+  
+
+**7\. Who is the vendor of the school uniform & PE attire?**
+
+Shirley Seasons Wear  
+7030 Ang Mo Kio Ave 5, #04-55, Northstar, Singapore 569880  
+  
+
+**8\. Are student care services available in GRPS?**
+
+We are pleased to inform you that Star Campus Pte Ltd has been awarded to operate the Student Care Centre in Greenridge Primary School. For any enquiries, kindly email to: [greenridgescc@starcampus.org](https://greenridgepri.moe.edu.sg/about-us/greenridgescc@starcampus.org)
