@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - English and Social Studies/English and Social Studies Department.md
       - English and Social Studies/.keep
       - Departments.md
