@@ -29,3 +29,9 @@ We aspire to make the learning of language, culture and values fun and meaningfu
 #### Vision
 
 We strive to nurture confident language learners who have the love for the culture.
+
+### Programmes (Level)
+
+### Hari Raya 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQkdS6YLJ-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
