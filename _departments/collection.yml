@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - English and Social Studies/Stellar Curriculum.md
-      - English and Social Studies/Vision & Mission.md
-      - English and Social Studies/English and Social Studies Department.md
       - English and Social Studies/.keep
+      - English and Social Studies/English and Social Studies Department.md
+      - English and Social Studies/Vision & Mission.md
+      - English and Social Studies/Stellar Curriculum.md
       - Departments.md
