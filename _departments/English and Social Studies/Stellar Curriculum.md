@@ -15,11 +15,23 @@ Reading big books together
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v1.jpg)
 
+**STELLAR- Modified Learning Experience Approach (MLEA)**
+
+Pre-writing experience: Making ice-cream sundaes.
+
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v2.jpg)
+
+Pre-writing experience: Bubble party and life cycle of a butterfly.
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v3.jpg)
 
+The shared experiences provided the context and content for the children to think and talk about. With the help of the teacher who transcribes the children's input, the students come up with a piece of class writing. This will become the basis for group writing, when the children work in small groups, before they go on to individual writing.
+
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v4.jpg)
+
+****STELLAR- Learning Centres (LC)****  
+
+To reinforce the students’ language skills, teachers create specific mini lessons in the Reading Centre, Word Study Centre and Listening Centre for the students to participate in.
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v5.jpg)
 
