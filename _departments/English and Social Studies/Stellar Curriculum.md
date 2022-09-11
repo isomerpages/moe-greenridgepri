@@ -12,3 +12,5 @@ third_nav_title: English and Social Studies
 **STELLAR- Shared Book Reading (SBA)**
 
 Reading big books together
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v1.jpg)
