@@ -20,9 +20,9 @@ description: ""
 
 <p style="text-align: center;"><a href="/files/About%20Us/P6_FT_2022.pdf" target="_blank">Primary 6 Form Teachers</a></p>
 
+<p style="text-align: center;"><a href="/files/About%20Us/Adjunct_Teachers_2022.pdf" target="_blank">Adjunct Teachers</a></p>
 
 
-[Adjunct Teachers
 [Allied Educators & School Counsellor]f)  
 
 [Executive & Administrative Staff (EAS)]
