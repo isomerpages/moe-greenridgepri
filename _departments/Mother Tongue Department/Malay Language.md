@@ -18,3 +18,14 @@ third_nav_title: Mother Tongue Department
 | Mdm Nurhudha           | P6 Level Rep                                        |
 | Ms Siti Nurhamizah     | P3 Level Rep<br>P3 HML Level representative         |
 | Ms Syahiratul Wathiqah | P5 FMT Level Rep                                    |
+
+
+### Vision & Mission
+
+**Mission**
+
+We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
+  
+**Vision**
+
+We strive to nurture confident language learners who have the love for the culture.
