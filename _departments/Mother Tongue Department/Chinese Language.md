@@ -33,3 +33,16 @@ We strive to nurture confident language learners who have the love for the cultu
 | P5 P6 HCL Level Representative | Mdm Wang Jiajia                                                                                                                         |
 | P5 P6 FCL Level Representative | Mdm Chua Sze Ying                                                                                                                       |
 | Members                        | Ms Wong Hui Lin<br><br>Mdm Yap Eik Teng<br>Mdm Tan Pei Ling<br>Mdm Shi Cunyu<br>Mr Lee Sou Wee <br>Mdm Li Hong Ying <br>Ms Ng Siew Qing |
+
+### Programmes (Level)
+
+|            Programmes           |  Level | Time frame |
+|-------------------------------|:------:|:----------:|
+| CNY Celebration                 |  P1-P6 |   Term 1   |
+| Project ACE (Ongoing)           |  P5-P6 |  Term 1-4  |
+| Reading Programme               | P1-P6  |  Term 1-4  |
+| Mother Tongue Fortnight         | P1-P6  |   Term 3   |
+| P2 MTL Workshop on Oracy Skills |   P2   |   Term 3   |
+| P3 Camp                         |   P3   |   Term 3   |
+| P4 Storytelling showcase        |   P4   |   Term 3   |
+| Mid-Autumn Festival celebration | P1-P6  |   Term 4   |
