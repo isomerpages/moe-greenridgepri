@@ -7,7 +7,7 @@ description: ""
 
 <b>1) <u>Yearbooks</u></b>
 
-<p style="text-align: left;"><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target = "_blank"> <img src="/images/About%20Us/Publication/YB2015.jpg"
+<p style="text-align: left;"><a href="" target = "_blank"> <img src="/images/About%20Us/Publication/YB2015.jpg"
      style="width:50%"></a></p>
 
 <b>2) <u>Newsletters</u></b>
