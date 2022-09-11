@@ -22,8 +22,8 @@ description: ""
 
 <p style="text-align: center;"><a href="/files/About%20Us/Adjunct_Teachers_2022.pdf" target="_blank">Adjunct Teachers</a></p>
 
+<p style="text-align: center;"><a href="/files/About%20Us/Allied%20Educators_Counsellor_2022.pdf" target="_blank">Allied Educators & School Counsellor</a></p>
 
-[Allied Educators & School Counsellor]f)  
+<p style="text-align: center;"><a href="/files/About%20Us/EAS_2022.pdf" target="_blank">Executive & Administrative Staff (EAS)</a></p>
 
-[Executive & Administrative Staff (EAS)]
-[Support Staff]
+<p style="text-align: center;"><a href="/files/About%20Us/SupportStaff.pdf" target="_blank">Support Staff</a></p>
