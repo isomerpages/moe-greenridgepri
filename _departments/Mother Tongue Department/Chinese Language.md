@@ -20,3 +20,16 @@ We strive to nurture confident language learners who have the love for the cultu
 
 ### Department Teachers
 
+|           Designation          |                                                                   Name                                                                  |
+|:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+| P1&P2 Year Head                | Mdm Pek Shu San                                                                                                                         |
+|   Level Head Chinese Language  | Mrs Heng-Wang Yingshan                                                                                                                  |
+| P1 Level Representative        | Ms Neo Jie Ying                                                                                                                         |
+| P2 Level Representative        | Mdm Chiang Yen                                                                                                                          |
+| P3 Level Representative        | Mdm Zhang Wei Hua                                                                                                                       |
+| P4 Level Representative        | Mdm Chan Siew Woon                                                                                                                      |
+| P5 Level Representative        | Ms Ang Him Lui                                                                                                                          |
+| P6 Level Representative        | Mdm Kong Kit Ling                                                                                                                       |
+| P5 P6 HCL Level Representative | Mdm Wang Jiajia                                                                                                                         |
+| P5 P6 FCL Level Representative | Mdm Chua Sze Ying                                                                                                                       |
+| Members                        | Ms Wong Hui Lin<br><br>Mdm Yap Eik Teng<br>Mdm Tan Pei Ling<br>Mdm Shi Cunyu<br>Mr Lee Sou Wee <br>Mdm Li Hong Ying <br>Ms Ng Siew Qing |
