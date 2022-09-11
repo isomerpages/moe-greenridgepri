@@ -8,8 +8,18 @@ description: ""
 
 <p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
 
+<p style="text-align: center;"><a href="/files/About%20Us/P1_FT_2022.pdf" target="_blank">Primary 1 Form Teachers</a></p>
 
-[Primary 1 Form Teachers]
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+
 
 [Primary 2 Form Teachers]
 
