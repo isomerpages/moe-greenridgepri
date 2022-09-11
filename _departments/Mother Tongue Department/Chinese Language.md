@@ -54,3 +54,5 @@ We strive to nurture confident language learners who have the love for the cultu
 ![](/images/Departments/Mother%20Tongue%20Department/Chinese/Chinese%20Language%20New%20Curriculum_2.jpeg)
 
 ![](/images/Departments/Mother%20Tongue%20Department/Chinese/Chinese%20Language%20New%20Curriculum_3.jpeg)
+
+##### Mother Tongue Fortnight 2015
