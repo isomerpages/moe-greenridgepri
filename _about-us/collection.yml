@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Open House.md
       - Principal's Message.md
       - Mission, Vision & Values.md
       - School Crest, School Song.md
@@ -13,3 +12,4 @@ collections:
       - Staff.md
       - Student Care Centre.md
       - Contact Us.md
+      - Open House.md
