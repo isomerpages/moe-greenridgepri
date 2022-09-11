@@ -3,7 +3,7 @@ title: Publication
 permalink: /about-us/publication/
 description: ""
 ---
-# Year book 2015 pdf, WEST publication 2018, 2019, 2020 > 5MB
+# Year book 2015 pdf, Newsletter 2014,15,16,17,18, WEST publication 2018, 2019, 2020 > 5MB
 # Publication
 
 <b>1) <u>Yearbooks</u></b>
