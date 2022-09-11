@@ -30,3 +30,9 @@ Reading big books together
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v8.jpg)
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v9.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10b.jpg)
+
+![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/11.jpg)
