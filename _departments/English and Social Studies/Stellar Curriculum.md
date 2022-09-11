@@ -74,8 +74,6 @@ The core values are as follows:-
 | Integrity and Responsibility | Graciousness and<br><br>Public-spiritedness | Harmony and Resilience |
 
 
-<p style="text-align: justify;">Selected pieces are displayed on the notice board in the Quiet Zone. This is to showcase the students’ boundless creativity and to stimulate them to think about what they can do to make our society a better place for all.</p>
-
 <img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg"
      style="width:50%; float:left">
 
@@ -83,6 +81,8 @@ The core values are as follows:-
      style="width:50%">
 
 <p style="text-align: center;">Notice Board to display the core values for the term</p>
+
+<p style="text-align: justify;">Selected pieces are displayed on the notice board in the Quiet Zone. This is to showcase the students’ boundless creativity and to stimulate them to think about what they can do to make our society a better place for all.</p>
 
 <img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg"
      style="width:50%; float:left">
