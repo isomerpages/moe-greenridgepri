@@ -67,9 +67,11 @@ Students are given differentiated support at various points of instruction to op
 
 Primary 4, 5 and 6 students subscribe to the Little Red Dot (LRD) yearly. It is to inculcate the habit of reading newspapers from young and to expose them to news and current events, with elements of social emotional learning, values education and National Education. Teachers will use the newspaper articles to lead the class in discussions about the values that are reflected in the articles. After the discussion, students will have to write a reflection on their takeaway and moral stand on the issues discussed. Each term, the English Department will focus on 2 core values.
 
-  
-
 The core values are as follows:-
+
+|         School Term 1        |              School Term 2              |      School Term 3     |
+|:----------------------------:|:---------------------------------------:|:----------------------:|
+| Integrity and Responsibility | Graciousness and<br><br>Public-spiritedness | Harmony and Resilience |
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg)
 
