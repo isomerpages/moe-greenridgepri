@@ -21,7 +21,7 @@ We strive to nurture confident language learners who have the love for the cultu
 ### Department Teachers
 
 |           Designation          |                                                                   Name                                                                  |
-|:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | P1&P2 Year Head                | Mdm Pek Shu San                                                                                                                         |
 |   Level Head Chinese Language  | Mrs Heng-Wang Yingshan                                                                                                                  |
 | P1 Level Representative        | Ms Neo Jie Ying                                                                                                                         |
