@@ -49,7 +49,15 @@ Sustained Silent Reading (SSR) is a regularly scheduled, fixed period of time in
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v7.png)
 
+**Book Talk**  
+
+As part of formative assessment, primary 3 students do a Book Talk on their favourite book. It gives them an opportunity to share about their favourite books with their classmates and also builds their confidence in public speaking.
+
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v8.jpg)
+
+**Differentiated Instruction (DI)**  
+
+Students are given differentiated support at various points of instruction to optimise their learning. Appropriate activities are designed to support, reinforce and extend their learning.
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v9.jpg)
 
