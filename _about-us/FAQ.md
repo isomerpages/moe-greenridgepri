@@ -77,7 +77,8 @@ Parents are allowed to drop off their children inside the school foyer before 7a
 
 **4\. When can parents/guardians buy things from the bookshop?**
 
-School Textbooks / Shoes / Stationery. Operating hours: Monday ~ Friday: 9 am to 4.00pm. Website: [http://thecontinentalbookcentre.blogspot.com](http://thecontinentalbookcentre.blogspot.com/)  
+School Textbooks / Shoes / Stationery. Operating hours: Monday ~ Friday: 9 am to 4.00pm.  
+Website: [http://thecontinentalbookcentre.blogspot.com](http://thecontinentalbookcentre.blogspot.com/)  
   
 
 **5\. What are the operating hours for the dental clinic?**
