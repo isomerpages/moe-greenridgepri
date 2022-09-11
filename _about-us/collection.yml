@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - News.md
       - Principal's Message.md
       - Mission, Vision & Values.md
       - School Crest, School Song.md
       - History.md
       - School Virtual Tour.md
       - Publication.md
+      - News.md
