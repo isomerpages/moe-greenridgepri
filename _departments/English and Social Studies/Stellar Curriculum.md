@@ -29,7 +29,7 @@ Pre-writing experience: Bubble party and life cycle of a butterfly.
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v4.jpg)
 
-****STELLAR- Learning Centres (LC)****  
+**STELLAR- Learning Centres (LC)**  
 
 <p style="text-align: justify;">To reinforce the students’ language skills, teachers create specific mini lessons in the Reading Centre, Word Study Centre and Listening Centre for the students to participate in.</p>
 
