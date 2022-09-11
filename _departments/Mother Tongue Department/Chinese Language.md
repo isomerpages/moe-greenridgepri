@@ -74,4 +74,4 @@ Click below for more information :
 *   [Info to Parents for P5P6 CL Curriculum \[CL version\]](https://go.gov.sg/p5p6-curriculum)
 *   [Comprehension Notes](https://go.gov.sg/comprehension-notes)
 *   [Sharing on Composition](https://go.gov.sg/sharing-on-composition)
-*   <a href="Chinese_Lang_New_Curriculum">Chinese Language New Curriculum slides</a>
+*   <a href="#Chinese_Lang_New_Curriculum">Chinese Language New Curriculum slides</a>
