@@ -46,3 +46,11 @@ We strive to nurture confident language learners who have the love for the cultu
 | P3 Camp                         |   P3   |   Term 3   |
 | P4 Storytelling showcase        |   P4   |   Term 3   |
 | Mid-Autumn Festival celebration | P1-P6  |   Term 4   |
+
+#### Chinese Language New Curriculum
+
+![](/images/Departments/Mother%20Tongue%20Department/Chinese/Chinese%20Language%20New%20Curriculum_1.jpeg)
+
+![](/images/Departments/Mother%20Tongue%20Department/Chinese/Chinese%20Language%20New%20Curriculum_2.jpeg)
+
+![](/images/Departments/Mother%20Tongue%20Department/Chinese/Chinese%20Language%20New%20Curriculum_3.jpeg)
