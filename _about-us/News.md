@@ -3,6 +3,7 @@ title: News
 permalink: /about-us/news/
 description: ""
 ---
+# Link for Vasantham News does not lead to the intended URL anymore
 # News
 
 <b><u>Media Coverage on GRPS National Day Celebrations 2020</u></b>
