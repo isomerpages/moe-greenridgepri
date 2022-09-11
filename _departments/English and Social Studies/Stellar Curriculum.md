@@ -82,6 +82,14 @@ The core values are as follows:-
 <img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10b.jpg"
      style="width:50%">
 
+<p style="text-align: center;">Notice Board to display the core values for the term</p>
+
+<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg"
+     style="width:50%; float:left">
+
+<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10b.jpg"
+     style="width:50%">
+
 <p style="text-align: center;">Sharing their insights and reflections on the articles</p>
 
 <p style="text-align: justify;">In addition, selected students with the best piece of work will be given a chance to share their insights with the school as part of our pre-assembly programme</p>
