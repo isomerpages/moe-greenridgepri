@@ -48,12 +48,11 @@ description: ""
 <a href="https://online.fliphtml5.com/obrr/vrmu/#p=2" target = "_blank"> <img src="/images/About%20Us/Publication/WE2021.jpg"
      style="width:40%"></a>
 
-<a href="https://online.fliphtml5.com/obrr/vrmu/#p=2" target = "_blank"> <img src="/images/About%20Us/Publication/WestStories2020.jpg"
+<a href="" target = "_blank"> <img src="/images/About%20Us/Publication/WestStories2020.jpg"
      style="width:40%"></a>
 		 
-<a href="https://online.fliphtml5.com/obrr/vrmu/#p=2" target = "_blank"> <img src="/images/About%20Us/Publication/WESS2019.jpg"
+<a href="" target = "_blank"> <img src="/images/About%20Us/Publication/WESS2019.jpg"
      style="width:40%"></a>
 		 
-<a href="https://online.fliphtml5.com/obrr/vrmu/#p=2" target = "_blank"> <img src="/images/About%20Us/Publication/WEStories.jpg"
+<a href="" target = "_blank"> <img src="/images/About%20Us/Publication/WEStories.jpg"
      style="width:40%"></a>
-
