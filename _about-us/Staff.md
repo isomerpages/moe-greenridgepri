@@ -10,26 +10,17 @@ description: ""
 
 <p style="text-align: center;"><a href="/files/About%20Us/P1_FT_2022.pdf" target="_blank">Primary 1 Form Teachers</a></p>
 
-<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Primary 2 Form Teachers</a></p>
 
-<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Primary 3 Form Teachers</a></p>
 
-<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Primary 4 Form Teachers</a></p>
 
-<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Primary 5 Form Teachers</a></p>
 
-<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Key Personnel</a></p>
+<p style="text-align: center;"><a href="/files/About%20Us/KP_2022.pdf" target="_blank">Primary 6 Form Teachers</a></p>
 
 
-[Primary 2 Form Teachers]
-
-[Primary 3 Form Teachers]
-
-Primary 4 Form Teachers
-
-[Primary 5 Form Teachers]
-
-[Primary 6 Form Teachers]
 
 [Adjunct Teachers
 [Allied Educators & School Counsellor]f)  
