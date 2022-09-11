@@ -44,6 +44,14 @@ The department organises a yearly outing to give the students an opportunity to 
 
 ![](/images/Departments/English%20and%20Social%20Studies/Programmes/v5.jpg)
 
+**Literature Programme**
+
+The primary 3 and 4 Literature Programme is unique to Greenridge Primary School. In term 3, the first three weeks are dedicated to reading a children’s classic like ‘Frindle’ and ‘Charlotte’s Web’ to instil the love for the English language. Activities based on the books are then completed by the students. Some of these activities include Readers’ Theatre, plasticine modelling, story-retelling, character development exercises and creating powerpoint slides.
+
 ![](/images/Departments/English%20and%20Social%20Studies/Programmes/v6.jpg)
+
+**Creative Writing Programme**
+
+Creative Writing programme is conducted to stimulate the imagination of our budding writers.
 
 ![](/images/Departments/English%20and%20Social%20Studies/Programmes/v7.jpg)
