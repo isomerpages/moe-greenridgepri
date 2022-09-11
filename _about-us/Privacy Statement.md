@@ -3,8 +3,8 @@ title: Privacy Statement
 permalink: /about-us/privacy-statement/
 description: ""
 ---
-# Privacy Statement
-
+#### Privacy Statement
+opop
 This is a Greenridge Primary School website.  
   
 Thank you for examining our privacy statement. If you are only browsing this website, we do not capture data that allows us to identify you individually. If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation.  
