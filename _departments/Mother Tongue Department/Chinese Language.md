@@ -61,6 +61,8 @@ We strive to nurture confident language learners who have the love for the cultu
 
 #### Chinese New Year Celebration
 
-
+# Upload the slide show images to google slides
 
 #### Mother Tongue Fortnight
+
+# Upload the slide show images to google slides
