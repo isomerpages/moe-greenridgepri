@@ -4,6 +4,7 @@ permalink: /about-us/staff/
 description: ""
 ---
 # Staff
+<p style="text-align: center;"><a href="/our-special-programme/ELIXiR/" target="_blank">here</a></p>
 
 [School Leaders](http://greenridgepri.moe.edu.sg/qql/slot/u547/About%20Us/Staff/2022/SLs.pdf)  
 
