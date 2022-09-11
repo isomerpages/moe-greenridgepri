@@ -31,9 +31,9 @@ description: ""
      style="width:50%"></a></td>
     <td><a href="/files/About%20Us/GRPS%20Newsletter%202020.pdf" target = "_blank"> <img src="/images/About%20Us/Publication/2020NewsletterCover.jpg"
      style="width: 100%"></a></td>
-    <td><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target = "_blank"> <img src="/images/About%20Us/Publication/Newsletter2022.png"
+    <td><a href="" target = "_blank"> <img src="/images/About%20Us/Publication/2018.jpg"
      style="width:50%"></a></td>
-    <td><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target = "_blank"> <img src="/images/About%20Us/Publication/Newsletter2022.png"
+    <td><a href="" target = "_blank"> <img src="/images/About%20Us/Publication/2017.jpg"
      style="width:50%"></a></td>
   </tr>
 </tbody>
