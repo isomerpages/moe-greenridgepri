@@ -5,7 +5,7 @@ description: ""
 ---
 # Terms of Use
 
-**Agreement – Terms  **
+**Agreement – Terms**
 
 1\. Thank you for visiting this website (“Greenridge Primary School's website”). The Website is owned and maintained by West View Primary School.
 
@@ -13,15 +13,15 @@ description: ""
 
 3\. Greenridge Primary School reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
   
-**Access to the Website  **
+**Access to the Website**
 
 1\. The accessibility and operation of the website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of the website.
 
-**Relying on Information  **
+**Relying on Information**
 
 1\. The materials located on the website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MOE.
 
-**Security  **
+**Security**
 
 1\. Where appropriate we use available technology to protect the security of communications made through the website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through the website.
 
