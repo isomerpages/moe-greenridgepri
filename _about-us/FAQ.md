@@ -18,3 +18,5 @@ Mondays to Fridays 8 am to 5 pm excluding weekends and public holidays. 
 <p style="text-align: center;">Please Use Main Gate</p>
 
 <p style="text-align: center;">Main Gate: 6.15am – 7pm (Mon to Fri)</p>
+
+Parents are allowed to drop off their children inside the school foyer before 7am or during wet weather by 7.25am. **During school holidays, only the main gate will be opened from 7am to 7pm (Mon - Fri)**
