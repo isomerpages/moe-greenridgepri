@@ -2,3 +2,12 @@ logo: /images/school-logo.png
 links:
   - title: About Us
     collection: about-us
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: principals-message
+        url: /about-us/principals-message/
+      - title: Mission, Vision & Values
+        url: /about-us/mission-vision-n-values/
+      - title: Submenu Title
+        url: https://greenridgepri.moe.edu.sg/qql/slot/u547/About%20Us/SCC2022.pdf
