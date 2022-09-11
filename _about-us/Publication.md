@@ -14,7 +14,7 @@ description: ""
 <b>2) <u>Newsletters</u></b>
 
 <p style="text-align: center;"><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target = "_blank"> <img src="/images/About%20Us/Publication/Newsletter2022.png"
-     style="width:50%"></a></p>
+     style="width:30%"></a></p>
 
 <table>
 <thead>
