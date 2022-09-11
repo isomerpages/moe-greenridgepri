@@ -7,8 +7,8 @@ description: ""
 
 ### School Crest
 
-
-![](/images/school-logo.png)
+<img src="/images/school-logo.png"
+     style="width:40%">
 
 ### School Badge
 
