@@ -32,9 +32,9 @@ description: ""
     <td><a href="/files/About%20Us/GRPS%20Newsletter%202020.pdf" target = "_blank"> <img src="/images/About%20Us/Publication/2020NewsletterCover.jpg"
      style="width: 100%"></a></td>
     <td><a href="" target = "_blank"> <img src="/images/About%20Us/Publication/2018.jpg"
-     style="width:50%"></a></td>
+     style="width:100%"></a></td>
     <td><a href="" target = "_blank"> <img src="/images/About%20Us/Publication/2017.jpg"
-     style="width:50%"></a></td>
+     style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
