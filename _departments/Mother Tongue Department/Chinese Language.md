@@ -47,7 +47,7 @@ We strive to nurture confident language learners who have the love for the cultu
 | P4 Storytelling showcase        |   P4   |   Term 3   |
 | Mid-Autumn Festival celebration | P1-P6  |   Term 4   |
 
-#### Chinese Language New Curriculum
+#### <a id="Chinese_Lang_New_Curriculum">Chinese Language New Curriculum</a>
 
 ![](/images/Departments/Mother%20Tongue%20Department/Chinese/Chinese%20Language%20New%20Curriculum_1.jpeg)
 
@@ -66,3 +66,12 @@ We strive to nurture confident language learners who have the love for the cultu
 #### Mother Tongue Fortnight
 
 # Upload the slide show images to google slides
+
+### Resources
+
+Click below for more information :
+
+*   [Info to Parents for P5P6 CL Curriculum \[CL version\]](https://greenridgepri.moe.edu.sg/qql/slot/u547/Holistic%20Curriculum/Departments/Mother%20Tongue/Mandarin/P5P6_Curriculum.ppt)
+*   [Comprehension Notes](https://greenridgepri.moe.edu.sg/qql/slot/u547/Holistic%20Curriculum/Departments/Mother%20Tongue/Mandarin/compre_notes.ppt)
+*   [Sharing on Composition](https://greenridgepri.moe.edu.sg/qql/slot/u547/Holistic%20Curriculum/Departments/Mother%20Tongue/Mandarin/compo.ppt)
+*   <a href="/our-special-programme/ELIXiR/" target="_blank">Chinese Language New Curriculum slides</a>
