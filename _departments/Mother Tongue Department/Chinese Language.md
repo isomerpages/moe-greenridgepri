@@ -74,4 +74,4 @@ Click below for more information :
 *   [Info to Parents for P5P6 CL Curriculum \[CL version\]](https://greenridgepri.moe.edu.sg/qql/slot/u547/Holistic%20Curriculum/Departments/Mother%20Tongue/Mandarin/P5P6_Curriculum.ppt)
 *   [Comprehension Notes](https://greenridgepri.moe.edu.sg/qql/slot/u547/Holistic%20Curriculum/Departments/Mother%20Tongue/Mandarin/compre_notes.ppt)
 *   [Sharing on Composition](https://greenridgepri.moe.edu.sg/qql/slot/u547/Holistic%20Curriculum/Departments/Mother%20Tongue/Mandarin/compo.ppt)
-*   <a href="/our-special-programme/ELIXiR/" target="_blank">Chinese Language New Curriculum slides</a>
+*   <a href="Chinese_Lang_New_Curriculum" target="_blank">Chinese Language New Curriculum slides</a>
