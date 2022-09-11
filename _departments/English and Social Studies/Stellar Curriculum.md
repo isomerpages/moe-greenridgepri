@@ -35,7 +35,17 @@ To reinforce the students’ language skills, teachers create specific mini less
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v5.jpg)
 
+**Show & Tell (Primary 1 and 2)**  
+
+To build the students’ self-confidence in public speaking, Show & Tell was introduced as a form of formative assessment for the lower primary students.
+
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v6.jpg)
+
+**Primary 3 and 4**
+
+**Sustained Silent Reading (SSR)**
+
+Sustained Silent Reading (SSR) is a regularly scheduled, fixed period of time in which everyone in the room reads a book of his/her choice quietly and without any interruptions. It encourages the students to develop a love for reading.
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v7.png)
 
