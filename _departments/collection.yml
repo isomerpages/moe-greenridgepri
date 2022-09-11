@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Departments.md
+      - English and Social Studies/Highlights and Achievements.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
       - English and Social Studies/Vision & Mission.md
