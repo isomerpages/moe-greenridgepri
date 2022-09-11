@@ -29,8 +29,8 @@ description: ""
   <tr>
     <td><a href="https://heyzine.com/flip-book/ee8b43b9d8.html#page/2" target = "_blank"> <img src="/images/About%20Us/Publication/Grps25Annv.png"
      style="width:100%"></a></td>
-    <td><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target = "_blank"> <img src="/images/About%20Us/Publication/Newsletter2022.png"
-     style="width: 100%"></a></td>
+    <td><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target = "_blank"> <img src="/images/About%20Us/Publication/2020NewsletterCover.jpg"
+     style="width: 150%"></a></td>
     <td><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target = "_blank"> <img src="/images/About%20Us/Publication/Newsletter2022.png"
      style="width:50%"></a></td>
     <td><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target = "_blank"> <img src="/images/About%20Us/Publication/Newsletter2022.png"
