@@ -76,9 +76,11 @@ The core values are as follows:-
 
 <p style="text-align: justify;">Selected pieces are displayed on the notice board in the Quiet Zone. This is to showcase the students’ boundless creativity and to stimulate them to think about what they can do to make our society a better place for all.</p>
 
-![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg)
+<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg"
+     style="width:50%; float:left">
 
-![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10b.jpg)
+<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10b.jpg"
+     style="width:50%">
 
 <p style="text-align: center;">Sharing their insights and reflections on the articles</p>
 
