@@ -79,3 +79,7 @@ The photos below are the winning projects selected from our school internal SCSA
 |       Vijayakumar Yeswanthan       |     1st     | ![](/images/Departments/Science%20Department/2019_sony%20toy%20whizkid_a.jpg) |
 |       Faithe Odelia De Souza       |     2nd     | ![](/images/Departments/Science%20Department/2019_sony%20toy%20whizkid_b.jpg) |
 | Fateen WardinaTay Tghee Hiang  |      3rd    | ![](/images/Departments/Science%20Department/2019_sony%20toy%20whizkid_c.jpg) |
+
+<b><u>Science Achievement – 2017</u></b>
+
+<p style="text-align: center;"><u>Junior Science Whiz Challenge</u></p>
