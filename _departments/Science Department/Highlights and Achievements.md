@@ -73,3 +73,9 @@ The photos below are the winning projects selected from our school internal SCSA
 |      Phua Jun Hean    |      3rd    |  ![](/images/Departments/Science%20Department/2019_sony%20toy%20junior%20whizkid_c.jpg) |
 
 <p style="text-align: center;"><u>Sony Creative Toys Award (Whizkid)</u></p>
+
+|                Name                | Achievement |   |
+|:----------------------------------:|:-----------:|:-:|
+|       Vijayakumar Yeswanthan       |     1st     | # |
+|       Faithe Odelia De Souza       |     2nd     | # |
+| Fateen WardinaTay Tghee Hiang  |      3rd    | # |
