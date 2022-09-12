@@ -11,35 +11,20 @@ third_nav_title: Student Well Being
 
 <u>Positive Discipline in the Classroom<br>By Jane Nelson<br>Chapter 1 (a summary by Mdm Jannah)<br>An Encouragement Model</u>
 
-  
-
 “A child needs encouragement like a plant needs water. It is essential to healthy growth and development. “   
 – Rudolf Dreikurs
 
-  
-
 Positive Discipline consists of methods that involve students in focusing on solutions instead of being the recipients of punishments and rewards. 
 
-  
-
-Positive Discipline will make your life easier. Really! If you are a kind and firm teacher who focuses on academics along with teaching social and emotional skills, you are already on board.
-
-  
+Positive Discipline will make your life easier. Really! If you are a kind and firm teacher who focuses on academics along with teaching social and emotional skills, you are already on board. 
 
 Positive Discipline – trained teachers create classrooms where young people are treated with respect, have the courage and excitement to love learning, and have the opportunity to learn the skills they need for a successful life.
 
-  
-
 The Positive Discipline vision is about schools where children never experience humiliation when they fail but instead feel empowered by the opportunity to learn from their mistakes in a safe environment.
 
-  
-
-Three Empowering Beliefs that Help Children Succeed in School and in Life :
-
-I am capable.
-
-I contribute in meaningful ways, and I am genuinely needed.
-
+Three Empowering Beliefs that Help Children Succeed in School and in Life :   
+I am capable.   
+I contribute in meaningful ways, and I am genuinely needed.   
 I use my personal power to make choices that positively influence what happens to me and my community.
 
   
