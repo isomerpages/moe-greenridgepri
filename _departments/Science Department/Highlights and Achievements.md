@@ -7,9 +7,10 @@ third_nav_title: Science Department
 # Highlights/Achievements
 <b><u>Science Achievement – 2020</u></b>
 
-![](/images/Departments/Science%20Department/logo.png)
-
-![](/images/Departments/Science%20Department/Timothy.jpg)
+<img src="/images/Departments/Science%20Department/logo.png"
+     style="width:40%">
+<img src="/images/Departments/Science%20Department/Timothy.jpg"
+     style="width:40%">
 
 In 2020, our student, Timothy Yeo from 4 Respect, was selected by the Singapore Science Centre as the Finalist WhizKid Category for the Sony Creative Science Award (SCSA). The video below shows him reflecting on his SCSA journey.
 
