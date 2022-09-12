@@ -22,3 +22,5 @@ The photos below are the winning projects selected from our school internal SCSA
 <b><u>Science Achievement – 2019</u></b>
 
 <p style="text-align: center;"><u>Young Science Whiz</u></p>
+
+![](/images/Departments/Science%20Department/2019_young%20science%20whiz_a.jpg)
