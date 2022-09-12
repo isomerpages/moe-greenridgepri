@@ -52,7 +52,7 @@ This programme aimed to develop language and communication skills through incorp
 
 <b><u>P1-P6(expect P3) MTL Fortnight</u></b>
 
-#### Upload images to google slides according to the example: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
 
 Every year, GRPS will dedicate two weeks for MTL Fortnight Programme. This programme gives the opportunity for pupils to do various activities to instil the love of learning about the mother tongue language and culture. Pupils were more confident and proficient communicators of the Mother Tongue language. To promote this, the ML unit had prepared various interesting activities for the pupils. 
 
