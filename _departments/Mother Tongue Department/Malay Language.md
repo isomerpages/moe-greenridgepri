@@ -56,11 +56,7 @@ This programme aimed to develop language and communication skills through incorp
 
 Every year, GRPS will dedicate two weeks for MTL Fortnight Programme. This programme gives the opportunity for pupils to do various activities to instil the love of learning about the mother tongue language and culture. Pupils were more confident and proficient communicators of the Mother Tongue language. To promote this, the ML unit had prepared various interesting activities for the pupils. 
 
-Apart from these, we also had level wide activities such as the P3-P6 Writing Competition, Introduction 
-
-of Malay Folk Tales in CCE lessons and Recess Activity where the pupils learnt how to tie the kain samping. 
-
-The Malay pupils enjoyed learning about Malay language and culture in a fun way.
+Apart from these, we also had level wide activities such as the P3-P6 Writing Competition, Introduction of Malay Folk Tales in CCE lessons and Recess Activity where the pupils learnt how to tie the kain samping. The Malay pupils enjoyed learning about Malay language and culture in a fun way.
 
 <b><u>Hari Raya Concert</u></b>
 
