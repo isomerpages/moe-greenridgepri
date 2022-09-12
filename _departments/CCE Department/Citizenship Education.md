@@ -27,7 +27,7 @@ third_nav_title: CCE Department
 
 #### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
 
-**3) Racial Harmony Day ** 
+**3) Racial Harmony Day** 
 
 <p style="text-align: justify;">On 21 July each year, schools commemorate Racial Harmony Day (RHD) to mark the anniversary of the 1964 racial riots. On this day, students will reflect on and celebrate Singapore as a harmonious society built on a rich diversity of cultures. RHD serves as a reminder that promoting social cohesion and racial harmony requires collaborative efforts from our educators, students and stakeholders. </p>
 
