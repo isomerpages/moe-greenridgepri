@@ -27,18 +27,10 @@ I am capable.
 I contribute in meaningful ways, and I am genuinely needed.   
 I use my personal power to make choices that positively influence what happens to me and my community.
 
-  
-
-  
-
-Four Empowering Skills that Help Children Succeed in School and in Life :
-
-I have discipline and self-control.
-
-I can work respectfully with others.
-
-I understand how my behaviour affects others.
-
+Four Empowering Skills that Help Children Succeed in School and in Life :   
+I have discipline and self-control.   
+I can work respectfully with others.   
+I understand how my behaviour affects others.   
 I can develop wisdom and judgment skills through daily practice.
 
   
