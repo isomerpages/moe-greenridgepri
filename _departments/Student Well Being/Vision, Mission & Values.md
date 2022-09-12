@@ -8,7 +8,8 @@ third_nav_title: Student Well Being
 
 ### VISION
 
-Every Greenridgean will RISE and EXCEL (Be Resilient, HaS Initiative, Be Self-Confident and Be Empowered)  
+Every Greenridgean will RISE and EXCEL   
+(Be Resilient, HaS Initiative, Be Self-Confident and Be Empowered)  
 (Be Exemplary, Caring and Engaged Leader)  
 
 ### MISSION
