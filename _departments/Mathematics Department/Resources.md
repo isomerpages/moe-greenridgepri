@@ -26,9 +26,7 @@ Thinking Blocks teaches pupils how to model and solve word problems
 
 [http://www.theteachersguide.com/InteractiveSitesMathSmartBoard.htm](http://www.theteachersguide.com/InteractiveSitesMathSmartBoard.htm)
 
-**  
-Lower Primary  
-**  
+<b><u>Lower Primary</u></b>
 
 **Numbers**
 
