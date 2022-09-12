@@ -2,4 +2,5 @@ collections:
   student-well-being-resources:
     output: true
     order:
+      - Share A Story.md
       - Positive Discipline (Chapter Summary).md
