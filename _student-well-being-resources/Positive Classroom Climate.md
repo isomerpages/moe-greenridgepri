@@ -130,3 +130,7 @@ Effective teachers are good role models for their pupils. Just as teachers have
 |   |                           sincere and open;                           |
 |   | maintaining good relationships with pupils even after punishment; and |
 |   |                     actively listening to pupils.                     |
+
+Pupil Well-Being & Development Department 2014
+
+Adapted from MOE Discipline Resource Kit
