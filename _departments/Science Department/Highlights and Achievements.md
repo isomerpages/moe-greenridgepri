@@ -86,6 +86,6 @@ The photos below are the winning projects selected from our school internal SCSA
 
 |                                                                  Name                                                                 |  Achievement  |
 |:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
-| Kikkeri Srinivas Samarth<br>Mukeshmithran Samithurai<br>Yap Yuan Xi<br>Jong Jia Cheng<br>Samantha Tan Mei JiaChennavaram Bala Dheeraj | Participation |
+| Kikkeri Srinivas Samarth<br><br>Mukeshmithran Samithurai<br><br>Yap Yuan Xi<br><br>Jong Jia Cheng<br><br>Samantha Tan Mei JiaChennavaram Bala Dheeraj | Participation |
 
 <p style="text-align: center;"><u>Singapore Primary Science Olympiad</u></p>
