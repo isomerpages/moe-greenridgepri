@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Science Department/Science Department.md
-      - Science Department/.keep
       - Departments.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
@@ -33,3 +31,5 @@ collections:
       - CCE Department/Character Education.md
       - CCE Department/Citizenship Education.md
       - CCE Department/MOE Sexuality Education in School.md
+      - Science Department/.keep
+      - Science Department/Science Department.md
