@@ -65,7 +65,7 @@ When the momentum is broken the, class moves from being 95% or 100% on task to 0
 **Feedback and self-evaluation -** Effective teachers seek feedback from pupils, colleagues and supervisors and reflect on the effectiveness of their lessons. Feedback from pupils would indicate to teachers whether the pupils have really learnt. Practical feedback - both affirmative and corrective - on teaching techniques, and classroom organisation and management from colleagues and supervisors can help teachers to improve.  
   
   
-**Provide opportunities for appropriate behaviour, praise & feedback**  
+**Provide opportunities for appropriate behaviour, praise & feedback**   
 Pupils need to have their little successes recognised and rewarded. When teachers rely less on punitive action, and more on the use of appropriate reinforcers, they promote positive behaviours.  
   
 When discussing a pupil’s misbehaviour, make it clear that it is the behaviour, not the pupil, that is unacceptable. Be firm, yet compassionate. Praise what they do well and encourage improvement and effort.  
@@ -79,8 +79,7 @@ Use praise effectively. Verbal praise can be effective in encouraging positive 
 Rewards must be varied to be effective. The same reward loses its ability to motivate if used repeatedly.  
   
   
-**Understand the causes of disciplinary problems and acquire techniques to deal with them**
-
+**Understand the causes of disciplinary problems and acquire techniques to deal with them**   
 Teachers need to look beyond the misbehaviour to the underlying causes. Often the causes are due to ineffective organisation of classroom routine and teaching, peer relationships, and attitudes of teachers, pupils and parents. When teachers have an understanding of such causes and are skilful in handling misdemeanours, pupil behaviour improves.  
   
 The teacher should focus on the behaviour and not the intention behind a perceived misdemeanour. Emphasising on the why of an act arouses a defensive posture whereas pinpointing the inappropriateness of it helps pupils to develop more socially appropriate behaviour.  
@@ -90,7 +89,8 @@ While the focus is on the misbehaviour, it is important to understand the emotio
 Understanding the developmental needs of children and teenagers will also help the teacher to reach out to them and teach them the value of discipline. Children and teenagers need to feel that someone is in charge and will define limits for them.  
   
   
-**Have a sense of humour**Make efforts to inject fun and humour into the classroom. It could take the form of a quiz, a riddle or the occasional joke. When used appropriately, humour allows pupils to see the human and fun side of the teacher. Relationships with pupils can be greatly enhanced through this approach.  
+**Have a sense of humour**   
+Make efforts to inject fun and humour into the classroom. It could take the form of a quiz, a riddle or the occasional joke. When used appropriately, humour allows pupils to see the human and fun side of the teacher. Relationships with pupils can be greatly enhanced through this approach.  
   
 A good sense of humour is contagious and definitely works towards building a good rapport with pupils.  
   
