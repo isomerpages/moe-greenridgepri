@@ -9,13 +9,7 @@ third_nav_title: Student Well Being
 ### Positive Discipline (Chapter Summary)
 
 
-Positive Discipline in the Classroom
-
-By Jane Nelson
-
-Chapter 1 (a summary by Mdm Jannah)
-
-An Encouragement Model 
+<u>Positive Discipline in the Classroom<br>By Jane Nelson<br>Chapter 1 (a summary by Mdm Jannah)<br>An Encouragement Model</u>
 
   
 
