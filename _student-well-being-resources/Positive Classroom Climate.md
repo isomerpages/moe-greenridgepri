@@ -54,7 +54,7 @@ When the momentum is broken the, class moves from being 95% or 100% on task to 0
   
 **Use effective teaching strategies**  
   
-Good lesson plans -** Effective teachers organise lessons with clear objectives, appropriate introductions and a good summary. These help pupils focus their attention, retain key points and link the lesson with prior knowledge. In addition, getting ready teaching resources maximises the use of curriculum time and minimises opportunities for misbehaviour.  
+**Good lesson plans -** Effective teachers organise lessons with clear objectives, appropriate introductions and a good summary. These help pupils focus their attention, retain key points and link the lesson with prior knowledge. In addition, getting ready teaching resources maximises the use of curriculum time and minimises opportunities for misbehaviour.  
   
 **Understanding pupils’ learning process -** Effective teachers are able to break up complex learning materials into manageable “chunks” to facilitate learning. They select teaching methods and set tasks that are appropriate to varying pupil abilities and help them to construct meaning out of what they learn and extend their existing knowledge. Effective teachers are also flexible and know that what works for one class may not work for another.  
   
