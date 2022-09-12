@@ -79,7 +79,9 @@ Use praise effectively. Verbal praise can be effective in encouraging positive 
 Rewards must be varied to be effective. The same reward loses its ability to motivate if used repeatedly.  
   
   
-**Understand the causes of disciplinary problems and acquire techniques to deal with them**Teachers need to look beyond the misbehaviour to the underlying causes. Often the causes are due to ineffective organisation of classroom routine and teaching, peer relationships, and attitudes of teachers, pupils and parents. When teachers have an understanding of such causes and are skilful in handling misdemeanours, pupil behaviour improves.  
+**Understand the causes of disciplinary problems and acquire techniques to deal with them**
+
+Teachers need to look beyond the misbehaviour to the underlying causes. Often the causes are due to ineffective organisation of classroom routine and teaching, peer relationships, and attitudes of teachers, pupils and parents. When teachers have an understanding of such causes and are skilful in handling misdemeanours, pupil behaviour improves.  
   
 The teacher should focus on the behaviour and not the intention behind a perceived misdemeanour. Emphasising on the why of an act arouses a defensive posture whereas pinpointing the inappropriateness of it helps pupils to develop more socially appropriate behaviour.  
   
