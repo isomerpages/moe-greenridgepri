@@ -15,6 +15,8 @@ third_nav_title: CCE Department
 
 <p style="text-align: justify;">On the actual day, pupils had an assembly talk that highlighted the main events that happened 74 years ago and on the importance of the five aspects of total defence. During recess, pupils experienced eating rice porridge with sweet potatoes - the same food that people ate during the Japanese occupation. As part of recess activities, the pupils learnt how to dress small cuts and wounds, perform the “Stop, Drop and Roll” as part of a drill should their clothes catch fire. Pupils also contributed recyclables to show how they can play a part for a sustainable Singapore.</p>
 
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
 <u><b>2) International Friendship Day</b></u>
 
 <p style="text-align: justify;">Greenridge Primary students celebrated International Friendship Day (IFD) on 6th April. This year, the theme for IFD was ‘Celebrating the ASEAN Community’. We want our students to learn, appreciate and celebrate the shared successes, robust growth and resilience of the ASEAN people. </p>
@@ -23,14 +25,20 @@ third_nav_title: CCE Department
 
 <p style="text-align: justify;">The P1 and P3 students were given a family time cards for parents to share their positive experience with their international friends. The students also enjoyed an enriching assembly programme where a lot of information of ASEAN’s success was shared and how they are going to grow up and contribute to that community in future. During recess, students learn of some food sources that come from other countries and how to greet and say ‘Thank you’ in ASEAN languages.</p>
 
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
 **3) Racial Harmony Day ** 
 
 <p style="text-align: justify;">On 21 July each year, schools commemorate Racial Harmony Day (RHD) to mark the anniversary of the 1964 racial riots. On this day, students will reflect on and celebrate Singapore as a harmonious society built on a rich diversity of cultures. RHD serves as a reminder that promoting social cohesion and racial harmony requires collaborative efforts from our educators, students and stakeholders. </p>
 
 <p style="text-align: justify;">Prior to RHD, students had CCE lesson where they learn the importance of working and living harmoniously with people of all races. The P4 students had a cohort experience of being a ‘Racial Harmony Ambassador’ and promoting racial harmony among their friends and neighbours. Students wrote messages to their friends, thanking them for being their pillars of strength in times of need. On the day of the event, parent volunteers came together to set up learning booths to teach the students the significance of each race’s unique traditions and practices. Overall, the students had a very good time learning and appreciating each other’s race.</p>
 
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
 **4) National Day Celebration 2020**  
 
 National Day was celebrated in our school on 7 August.  
   
 <p style="text-align: justify;">Due to the COVID-19 pandemic situation and the implementation of safe-distancing measures, the National Day Observance Ceremony was live-streamed to the classrooms. Following that, the students were given a short history lesson about Singapore and they were treated to a pre-recorded skit on the importance of staying united as a nation to emerge strong to overcome crises together. The students were also engaged in an art-and-craft cum singing session. The school was pleased to announce that the National Day programme and activities were featured on our local media on Channel 5, Channel 8, Malay and Tamil news and Channel News Asia.</p>
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
