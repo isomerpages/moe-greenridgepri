@@ -17,7 +17,6 @@ third_nav_title: Mother Tongue Department
 |               Level Rep P1 & P4             |  Mdm Kamisah<br>kamisah_abdul_rajah@moe.edu.sg<br>   |
 |           Level Rep P2, P3 & P6FTL          |      <br>Ms Preyaa<br>v_s_mohanapreyaa@moe.edu.sg    |
 
-
 ### Vision & Mission
 
 #### Vision
@@ -30,3 +29,6 @@ We strive to nurture confident language learners who have the love for the cultu
 *   **Stretch Goal:** to be the Language and Culture Learning Centre of the Nation
 *   **Long-Term Goal:** to be the model of teaching and learning practices in the West Zone.
 *   **Short-Term Goal:** To maintain Quality & Quantity passes above national average in the PSLE.
+
+### Programmes (2022)
+
