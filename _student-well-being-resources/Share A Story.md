@@ -22,7 +22,6 @@ With that, Thomas Jefferson turned his horse around and made his way back to the
 
 Anonymous From Brian Cavanaugh’s The Sower Seeds            
 
-  
 
 <p style="text-align: center;"><b>Cipher in the Snow</b></p>
 
