@@ -18,3 +18,7 @@ In 2020, our student, Timothy Yeo from 4 Respect, was selected by the Singapore
 The photos below are the winning projects selected from our school internal SCSA Competition. Well done!
 
 #### Upload image slideshow to google slides according to the example in this page: https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/
+
+<b><u>Science Achievement – 2019</u></b>
+
+<p style="text-align: center;"><u>Young Science Whiz</u></p>
