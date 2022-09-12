@@ -34,3 +34,16 @@ The photos below are the winning projects selected from our school internal SCSA
 |  Dallas Win (Koe Yongwei) |              Silver             |
 |        Tan Jun Yee        |              Silver             |
 |    Ang Kai Yue Stanley    |  Silver<br>Supreme Science Whiz |
+
+<p style="text-align: center;"><u>Maths and Science Challenge</u></p>
+
+|           Name          |   Achievement   |
+|:-----------------------:|:---------------:|
+|   Lim Hao Quan Damien   |  Accomplishment |
+|      Ong Kai Xiang      |  Accomplishment |
+|       Yap Yuan Yuan     |  Accomplishment |
+|        Liu Yaxin        |  Accomplishment |
+|         Tan Yu          |  Accomplishment |
+|   Arumugam Maghalakshmi |  Accomplishment |
+|        Lek Yi Zhen      |  Accomplishment |
+|  Sowpati Jayneeta Betsy |  Accomplishment |
