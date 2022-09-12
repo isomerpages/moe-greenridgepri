@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE Department/Character Education.md
       - CCE Department/.keep
       - CCE Department/CCE Department.md
       - CCE Department/Vision & Mission.md
