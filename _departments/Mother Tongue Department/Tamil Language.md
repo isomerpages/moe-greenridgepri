@@ -32,3 +32,12 @@ We strive to nurture confident language learners who have the love for the cultu
 
 ### Programmes (2022)
 
+|                Programmes                |      Level      |      Time frame      |
+|----------------------------------------|---------------|--------------------|
+|  <br>Reading Programme<br>               |  <br>P1-P6      |  <br>Term 1 – Term 4 |
+|  <br>Project ACE (Ongoing)<br>           |  <br>P1-P6      |  <br>Term 1 –Term 4  |
+|  <br>Mother Tongue Fortnight             |  <br>P1-P6<br>  |  <br>Term 3          |
+|  <br>P2 MTL Workshop on Oracy skills<br> |  <br>P2         |  <br>Term 3          |
+|  <br>P3 Camp<br>                         |  <br>P3<br>     |  <br>Term 3          |
+|  <br>P4 Storytelling Showcase<br>        |  <br>P4         |  <br>Term 3          |
+|  <br>Deepavali celebration<br>           |  <br>P1 – P6    |  <br>Term 4          |
