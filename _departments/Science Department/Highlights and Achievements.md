@@ -97,3 +97,8 @@ The photos below are the winning projects selected from our school internal SCSA
 | Tan Yi Hui | Silver (Individual) |
 
 <p style="text-align: center;"><u>Sony Creative Toys Award</u></p>
+
+|       Name      |    Award    |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|
+|                                                                                                KOW LANSEY<br>NIRANJANA VIPINDAS<br>QWEK TSUN RUI                                                                                                | Distinction |
+| AYUSH DARSHEEL<br>BALAMURUGAN PRIYADHARSHINI<br>TAI LE XING<br>TAVIS KUNG CHENG XUAN<br>ASHER GAN<br>DAHIYAH BINTE DAUD<br>CHEONG RUI TING EMBER (ZHONG RUITING)<br>CHEONG MUN KEI<br>FATEEN WAHEEDAH BINTE ABDUL RASHID<br>JERALYN ZHOU JIAMIN |    Merit    |
