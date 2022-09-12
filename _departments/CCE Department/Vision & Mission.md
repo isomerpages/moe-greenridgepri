@@ -29,10 +29,7 @@ The opportunities for these skills are embedded and supported through the school
 
   
 
-All these efforts enable our pupils to attain our school vision of being an ‘Engaged Learners, Caring Leaders’.
-
-1 - Harmony (MOE), Public-spirited (School)
-
-2 - Respect (MOE), Care (MOE), Gracious (School)
-
+All these efforts enable our pupils to attain our school vision of being an ‘Engaged Learners, Caring Leaders’.   
+1 - Harmony (MOE), Public-spirited (School)   
+2 - Respect (MOE), Care (MOE), Gracious (School)   
 3 - Responsibility (MOE & School), Resilience (MOE), Integrity (MOE)
