@@ -13,8 +13,7 @@ third_nav_title: Student Well Being
 
   
 
-“A child needs encouragement like a plant needs water. It is essential to healthy growth and development. “
-
+“A child needs encouragement like a plant needs water. It is essential to healthy growth and development. “   
 – Rudolf Dreikurs
 
   
