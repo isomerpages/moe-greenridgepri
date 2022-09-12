@@ -12,7 +12,7 @@ Thinking Blocks teaches pupils how to model and solve word problems
 
 [http://www.mathplayground.com/thinkingblocks.html](http://www.mathplayground.com/thinkingblocks.html)
 
-**Upper Primary**
+<b><u>Upper Primary</u></b>
 
 [http://www.internet4classrooms.com/skills-6th-mathbuilders.htm](http://www.internet4classrooms.com/skills-6th-mathbuilders.htm)
 
