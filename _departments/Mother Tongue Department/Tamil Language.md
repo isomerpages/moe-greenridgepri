@@ -43,3 +43,9 @@ We strive to nurture confident language learners who have the love for the cultu
 |  <br>Deepavali celebration<br>           |  <br>P1 – P6    |  <br>Term 4          |
 
 <p style="text-align: center;"><b><u>Students at Work</u></b></p>
+
+![](/images/Departments/Mother%20Tongue%20Department/Tamil/TD1.jpg)
+
+![](/images/Departments/Mother%20Tongue%20Department/Tamil/TD2.jpg)
+
+![](/images/Departments/Mother%20Tongue%20Department/Tamil/TD3.jpg)
