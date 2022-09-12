@@ -65,3 +65,9 @@ The photos below are the winning projects selected from our school internal SCSA
 |             <br>Chanel LeongKoh Kayla <br>            |  Individual Bronze Award |
 
 <p style="text-align: center;"><u>Sony Creative Toys Award (Junior Whizkid)</u></p>
+
+|          Name         | Achievement |    |
+|:---------------------:|:-----------:|:--:|
+| Richard Tee Yong Jian |     1st     | ![](/images/Departments/Science%20Department/2019_sony%20toy%20junior%20whizkid_a.jpg)  |
+|      Timothy Yeo      |     2nd     |  ![](/images/Departments/Science%20Department/2019_sony%20toy%20junior%20whizkid_b.jpg) |
+|      Phua Jun Hean    |      3rd    |  ![](/images/Departments/Science%20Department/2019_sony%20toy%20junior%20whizkid_c.jpg) |
