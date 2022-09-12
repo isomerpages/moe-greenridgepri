@@ -4,7 +4,7 @@ permalink: /departments/Mathematics-Department/resources/
 description: ""
 third_nav_title: Mathematics Department
 ---
-# links Numbers (first 2 links), Fraction and time broken
+# links: Numbers (first 2 links), Fraction and time broken
 # Resources
 
 ### More Resources
