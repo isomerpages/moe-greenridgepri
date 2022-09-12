@@ -1,4 +1,5 @@
 collections:
   student-well-being-resources:
     output: true
-    order: []
+    order:
+      - Positive Discipline (Chapter Summary).md
