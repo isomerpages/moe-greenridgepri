@@ -34,6 +34,6 @@ We strive to nurture confident language learners who have the love for the cultu
 
 ### Hari Raya 2021
 
-Display error when embeding Dance video for CCA dance page (link still works and will bring you to youtube). FOUND IN https://dunmansec.moe.edu.sg/our-student-development-programme/cca-programme/performing-arts/modern-dance
+Display error when embeding video for the page (link still works and will bring you to youtube). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQkdS6YLJ-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
