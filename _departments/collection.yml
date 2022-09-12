@@ -2,10 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - CCE Department/Character Education.md
-      - CCE Department/.keep
-      - CCE Department/CCE Department.md
-      - CCE Department/Vision & Mission.md
       - Departments.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
@@ -29,3 +25,7 @@ collections:
       - Mathematics Department/Programmes.md
       - Mathematics Department/Resources.md
       - Mathematics Department/Achievements.md
+      - CCE Department/.keep
+      - CCE Department/Character Education.md
+      - CCE Department/CCE Department.md
+      - CCE Department/Vision & Mission.md
