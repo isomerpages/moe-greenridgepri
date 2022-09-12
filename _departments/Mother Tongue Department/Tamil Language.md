@@ -53,3 +53,5 @@ We strive to nurture confident language learners who have the love for the cultu
 ### Resources
 
 ![](/images/Departments/Mother%20Tongue%20Department/Tamil/tamil%20resources.jpg)
+
+<a href="/files/Departments/Mother%20Tongue/MurasuAnjal.pdf" target="_blank">Murasu Anjal Guide</a>
