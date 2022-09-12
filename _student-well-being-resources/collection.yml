@@ -2,6 +2,7 @@ collections:
   student-well-being-resources:
     output: true
     order:
+      - Positive Classroom Climate.md
       - Positive Discipline (Chapter Summary).md
       - Share A Story.md
       - Good Classroom Practices.md
