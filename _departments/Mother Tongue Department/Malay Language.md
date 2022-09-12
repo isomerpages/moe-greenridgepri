@@ -66,7 +66,7 @@ To celebrate the festive season of Hari Raya Puasa, selected pupils from P1 to P
 
 The P3 and P4 pupils went through a story telling showcase during the MT curriculum time. With the theme Harmony, pupils prepared a story to showcase to their peers.
 
-**Resources**
+### Resources
 
 |                |                                    |
 |:--------------:|:----------------------------------:|
