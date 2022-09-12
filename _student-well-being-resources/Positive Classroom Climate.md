@@ -111,3 +111,11 @@ When conducting such meetings:
 |   |                                                                 Work on a plan of change from the suggested solutions.                                                                |
 |   |                                                                 Agree to monitor and review the plan at a later date.                                                                 |
 |   |                                                                 Encourage active participation by recognising efforts.                                                                |
+
+Create leadership opportunities for as many pupils as possible. Pupils who are in leadership roles are more likely to identify with the school. Other student leaders can include career representatives in each class. They will take charge of disseminating information pertaining to career and higher education. They can help plan a school-based Career Day, play host to speakers or be involved in the production of a career newsletter.  
+  
+With the emphasis on IT-based lessons, schools can have IT representatives in every class. The computer knowledge of our pupils can be put to good use. Class representatives can also help plan the Community Involvement Programme. Involving the pupils meaningfully creates opportunities for growth and learning. When they are actively engaged in activities, there is also less time for mischief.  
+  
+  
+**Role Models**  
+Effective teachers are good role models for their pupils. Just as teachers have certain expectation of pupils, pupils also have expectations of teachers. Studies have indicated the following aspects of teacher behaviour which are viewed as important by pupils:
