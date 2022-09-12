@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - CCE Department/Vision & Mission.md
-      - CCE Department/CCE Department.md
       - CCE Department/.keep
+      - CCE Department/CCE Department.md
+      - CCE Department/Vision & Mission.md
       - Departments.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
