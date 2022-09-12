@@ -63,3 +63,5 @@ The photos below are the winning projects selected from our school internal SCSA
 | Chen Jia Xuan<br>Chong Qiao LiPoon Zhe En, Joshua<br> |   Individual Gold Award  |
 | Kiew Tian Le ErnestJessie Tan<br>                     |  Individual Silver Award |
 |             <br>Chanel LeongKoh Kayla <br>            |  Individual Bronze Award |
+
+<p style="text-align: center;"><u>Sony Creative Toys Award (Junior Whizkid)</u></p>
