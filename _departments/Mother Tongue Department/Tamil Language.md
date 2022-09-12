@@ -49,3 +49,7 @@ We strive to nurture confident language learners who have the love for the cultu
 ![](/images/Departments/Mother%20Tongue%20Department/Tamil/TD2.jpg)
 
 ![](/images/Departments/Mother%20Tongue%20Department/Tamil/TD3.jpg)
+
+### Resources
+
+![](/images/Departments/Mother%20Tongue%20Department/Tamil/tamil%20resources.jpg)
