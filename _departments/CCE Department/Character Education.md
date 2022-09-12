@@ -39,3 +39,5 @@ VIA is an integral component of Character and Citizenship Education in our schoo
 | P4    | Community |          P1 Buddy Programme &<br>Clean Buddy Workshop          |
 | P5    |   Nation  |                      I am a Dengue Fighter                     |
 | P6    |   World   | Recycle @ Bt Panjang &<br>Intergenerational Learning Programme |
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
