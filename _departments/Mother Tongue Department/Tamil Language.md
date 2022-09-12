@@ -41,3 +41,5 @@ We strive to nurture confident language learners who have the love for the cultu
 |  <br>P3 Camp<br>                         |  <br>P3<br>     |  <br>Term 3          |
 |  <br>P4 Storytelling Showcase<br>        |  <br>P4         |  <br>Term 3          |
 |  <br>Deepavali celebration<br>           |  <br>P1 – P6    |  <br>Term 4          |
+
+<p style="text-align: center;"><b><u>Students at Work</u></b></p>
