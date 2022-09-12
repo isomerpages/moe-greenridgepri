@@ -24,3 +24,13 @@ The photos below are the winning projects selected from our school internal SCSA
 <p style="text-align: center;"><u>Young Science Whiz</u></p>
 
 ![](/images/Departments/Science%20Department/2019_young%20science%20whiz_a.jpg)
+
+
+|            Name           |           Achievement           |
+|:-------------------------:|:-------------------------------:|
+|      Yuvan Sivanandan     |          Participation          |
+|       Yap Zhi Cheng       |          Participation          |
+|       Tan Chuan Sheng     |          Participation          |
+|  Dallas Win (Koe Yongwei) |              Silver             |
+|        Tan Jun Yee        |              Silver             |
+|    Ang Kai Yue Stanley    |  Silver<br>Supreme Science Whiz |
