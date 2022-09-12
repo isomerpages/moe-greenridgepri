@@ -13,3 +13,7 @@ JTTH is the school’s flagship programme to inculcate good values and character
 As for the Primary 5 and 6 pupils, they are issued with a Values Advocate Card with pre-existing tasks. Upper primary pupils are encouraged to explicitly display positive values and behaviours and advocate it to their fellow friend and family at home.
 
 #### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
+<u><b>Value of the Month</b></u>
+
+Every month, pupils are exposed to a new focused value for the month (VOTH). These values comprise of the school and CCE core values. During the presentation, teachers provide definition and specific example to show what the values mean so that pupils can understand and internalise those values.
