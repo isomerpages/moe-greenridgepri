@@ -38,3 +38,8 @@ A group of newly selected Primary 3 – Primary 5 prefects and all current prefe
   
 Earlene Ng Yu Hui from 6 Humility was officially appointed as the Head Prefect for 2016 where she led the rest of the prefects on stage in reciting the Prefect’s Pledge.
 
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
+**STAR CLASS AWARD**
+
+![](/images/Departments/Student%20Well%20Being/4%20respect%20(Annoucement%20of%20winners).jpg)
