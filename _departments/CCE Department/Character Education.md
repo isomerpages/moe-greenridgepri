@@ -11,3 +11,5 @@ third_nav_title: CCE Department
 JTTH is the school’s flagship programme to inculcate good values and character in pupils. Primary to Primary 4 pupils are given a ‘bear card’ at the beginning of the year. When children display positive values or behaviours, they are given bear stickers to reaffirm their good behaviour. 
 
 As for the Primary 5 and 6 pupils, they are issued with a Values Advocate Card with pre-existing tasks. Upper primary pupils are encouraged to explicitly display positive values and behaviours and advocate it to their fellow friend and family at home.
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
