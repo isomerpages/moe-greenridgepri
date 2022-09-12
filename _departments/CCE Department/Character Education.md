@@ -30,3 +30,12 @@ A million minutes of graciousness is a programme that provides a platform for pu
 <u><b>Values in Action</b></u>
 
 VIA is an integral component of Character and Citizenship Education in our school. Values in Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA also fosters student ownership over how they contribute to the community. The 6 year VIA plan for our school can be found below:
+
+| Level | Domain    |                            Programme                           |
+|:-----:|-----------|:--------------------------------------------------------------:|
+| P1    |    Self   |                     Clean Classrooms @ GRPS                    |
+| P2    |    Home   |                      Clean Canteen @ GRPS                      |
+| P3    |   School  |                     Happy Restrooms @ GRPS                     |
+| P4    | Community |          P1 Buddy Programme &<br>Clean Buddy Workshop          |
+| P5    |   Nation  |                      I am a Dengue Fighter                     |
+| P6    |   World   | Recycle @ Bt Panjang &<br>Intergenerational Learning Programme |
