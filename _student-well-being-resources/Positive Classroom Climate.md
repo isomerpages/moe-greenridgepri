@@ -117,5 +117,6 @@ Create leadership opportunities for as many pupils as possible. Pupils who are i
 With the emphasis on IT-based lessons, schools can have IT representatives in every class. The computer knowledge of our pupils can be put to good use. Class representatives can also help plan the Community Involvement Programme. Involving the pupils meaningfully creates opportunities for growth and learning. When they are actively engaged in activities, there is also less time for mischief.  
   
   
-**Role Models**  
+**Role Models**
+
 Effective teachers are good role models for their pupils. Just as teachers have certain expectation of pupils, pupils also have expectations of teachers. Studies have indicated the following aspects of teacher behaviour which are viewed as important by pupils:
