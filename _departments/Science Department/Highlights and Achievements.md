@@ -89,3 +89,11 @@ The photos below are the winning projects selected from our school internal SCSA
 | Kikkeri Srinivas Samarth<br><br>Mukeshmithran Samithurai<br><br>Yap Yuan Xi<br><br>Jong Jia Cheng<br><br>Samantha Tan Mei JiaChennavaram Bala Dheeraj | Participation |
 
 <p style="text-align: center;"><u>Singapore Primary Science Olympiad</u></p>
+
+![](/images/Departments/Science%20Department/2017_science%20olympaid_1.jpg)
+
+|    Name    |        Award        |
+|:----------:|:-------------------:|
+| Tan Yi Hui | Silver (Individual) |
+
+<p style="text-align: center;"><u>Sony Creative Toys Award</u></p>
