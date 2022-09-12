@@ -55,3 +55,11 @@ The photos below are the winning projects selected from our school internal SCSA
 
 | ![](/images/Departments/Science%20Department/2018_international%20young%20whizzes%20challenge_a.jpg) | ![](/images/Departments/Science%20Department/2018_international%20young%20whizzes%20challenge_b.jpg) |
 |:----:|:-----------:|
+
+<br>
+
+|                          Name                         |        Achievement       |
+|:-----------------------------------------------------:|:------------------------:|
+| Chen Jia Xuan<br>Chong Qiao LiPoon Zhe En, Joshua<br> |   Individual Gold Award  |
+| Kiew Tian Le ErnestJessie Tan<br>                     |  Individual Silver Award |
+|             <br>Chanel LeongKoh Kayla <br>            |  Individual Bronze Award |
