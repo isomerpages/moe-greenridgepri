@@ -83,3 +83,7 @@ The photos below are the winning projects selected from our school internal SCSA
 <b><u>Science Achievement – 2017</u></b>
 
 <p style="text-align: center;"><u>Junior Science Whiz Challenge</u></p>
+
+|                                                                  Name                                                                 |  Achievement  |
+|:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
+| Kikkeri Srinivas Samarth<br>Mukeshmithran Samithurai<br>Yap Yuan Xi<br>Jong Jia Cheng<br>Samantha Tan Mei JiaChennavaram Bala Dheeraj | Participation |
