@@ -33,27 +33,13 @@ I can work respectfully with others.
 I understand how my behaviour affects others.   
 I can develop wisdom and judgment skills through daily practice.
 
-  
-
 Positive Discipline is effective when teachers are willing to give up control over students and instead work with them in a cooperative manner. 
-
-  
 
 Teachers who learn how to ask more questions and give fewer lectures develop a real curiosity about their students’ thoughts and opinions.
 
-  
-
 When students are encouraged to express their opinions, are given choices instead of edicts, and use group problem solving, the classroom atmosphere improves and becomes one of cooperation, collaboration, and mutual respect.
 
-  
-
-Positive Discipline in the Classroom
-
-By Jane Nelson
-
-Chapter 2 (a summary by Ethan Yeo)
-
-A Paradigm Shift
+<u>Positive Discipline in the Classroom<br>By Jane Nelson<br>Chapter 2 (a summary by Ethan Yeo)<br>A Paradigm Shift</u>
 
   
 
