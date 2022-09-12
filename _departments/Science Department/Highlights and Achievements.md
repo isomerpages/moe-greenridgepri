@@ -13,6 +13,8 @@ third_nav_title: Science Department
 
 In 2020, our student, Timothy Yeo from 4 Respect, was selected by the Singapore Science Centre as the Finalist WhizKid Category for the Sony Creative Science Award (SCSA). The video below shows him reflecting on his SCSA journey.
 
-### upload video to youtube
+#### upload video to youtube
 
 The photos below are the winning projects selected from our school internal SCSA Competition. Well done!
+
+#### Upload image slideshow to google slides according to the example in this page: https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/
