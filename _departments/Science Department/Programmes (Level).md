@@ -57,11 +57,7 @@ The purpose of Science Club is to promote interest in science among all GRPS stu
 *   Parents' Workshop            
 *   Science Termly Pop Quiz
 
-  
-
 **Maths and Science Week 2020**   
-
-  
 
 This year, the Maths and Science Week would be held from 2-8 April in 2020. It aims to promote students' interest in Science and to showcase their self-researched Science experiments. Curiosity, resilience and the joy of learning takes centre stage as the students show off their experiments as Young Recess Scientists.
 
