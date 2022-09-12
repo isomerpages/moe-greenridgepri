@@ -15,7 +15,7 @@ third_nav_title: Student Well Being
 | Case Management Team (CMT)                 | Mr Muhd Khairon Bin Yunus                                                                                                            |
 |  School Counsellor          | Ms Shimmie Ramachandran            |
 | Allied Educators (AED LBS)<br>(Learning and Behavioural Support)                  | Ms Junainah Bte Sadar<br>Ms Donna Lim Wei Yi      |
-|  <br>Social Emotional Learning (SEL) Social Skills      | Mdm Pek Shu San           |
+|  Social Emotional Learning (SEL) Social Skills      | Mdm Pek Shu San           |
 | Peer Support and Relationships     | Mr See Kok Ching<br>Mdm Wang Yingshan            |
 | Rating Tool for Social and Emotional Competency (RTSEC)      | Mr Poh Choon Wee <br>Mr Muhd Khairon Bin Yunus       |
 | Star Class Award                         | Ms Shimmie Ramachandran<br>Ms Junainah Bte Sadar<br>Ms Donna Lim Wei Yi       |
