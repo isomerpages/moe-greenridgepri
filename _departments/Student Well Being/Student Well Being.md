@@ -19,9 +19,14 @@ third_nav_title: Student Well Being
 
 ![](/images/Departments/Student%20Well%20Being/Framework.png)
 
+Positive Education is an approach to education that draws on Positive Psychology emphasis of individual strengths and personal motivation to promote learning. Greenridge Primary School’s Positive Education approach aims to create a culture of well-being at the heart of quality education. Through our vision of Engaged Learners and Caring Leaders, the implementation of our Positive Education Programme, teaches students life skills beyond the classroom to increase their learning capacity and help them build happy and successful lives in a positive community.  
+  
+Our Positive Education Framework @ GRPS is adapted from Martin Seligman’s PERMA model, and can be seen as a road map of what our students want and need in order to flourish and be successful. These include Positive Emotions, Engagement, Quality Relationships, a Sense of Purpose and Meaning, and the Accomplishment of Goals. Build on the foundation of our school values of Integrity, Graciousness, Responsibility and Public-Spiritedness, it is about empowering our students to strengthen their Resilience in ways that support the self and others.  
+  
+Drawing on the PERMA model, together with our Character and Citizenship Education (CCE), the Positive Education programme at GRPS applies a Feel it, Show it and Live it approach to implementation. In the classroom, students focus on identifying their strengths, building positive emotions, resilience and fostering positive, supportive relationships. Classroom exercises and activities include the Gratitude Package, Evidence-Based Activities and Energy Bus Exercises that are done during FTGP Periods and Assembly Programmes.
+
 ![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_2.jpg)
 
 ![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_3.jpg)
 
 ![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_4.jpg)
-
