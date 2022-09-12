@@ -6,13 +6,13 @@ third_nav_title: Student Well Being
 ---
 # Highlights/Activities
 
-**Pre Assembly Social Talks**
+<b><u>Pre Assembly Social Talks</u></b>
 
 Pre-assembly social skills talks are conducted for P1 to P4 students every week. Students will be equipped with skills to relate with their peers more positively, enhancing social cohesion. When the environment is positive, students will be able to manage academic stress better. Students with challenges can then become better learners when their social and emotional needs are addressed.
 
 ![](/images/Departments/Student%20Well%20Being/Pre%20Assembly%20Social%20Talks.jpg)
 
-**R.I.S.E & Shine Programme**
+<b><u>R.I.S.E & Shine Programme</u></b>
 
 |   |   |
 |:-:|---|
@@ -30,7 +30,7 @@ During the interaction they learnt about Chef Eric Teo’s personal struggles an
 
 The R.I.S.E & Shine Programme is still ongoing in school with the support of the pupils, teachers and parents. The programme hopes to walk through similar journeys with more students in the future to maximise their potential and ensure that they “Rise and Shine”.
 
-**Prefects’ Investiture**
+<b><u>Prefects’ Investiture</u></b>
 
 The Prefectorial Board is the pinnacle leadership development body in the school and its purpose is to identify, develop and nurture students who have the potential to be among the top echelon of the student leadership body. They are given opportunities to be actively involved and engaged in various aspects of school administration as well leading student service learning initiatives in the school with the aim of grooming them into excellent service leaders.  
   
@@ -40,6 +40,6 @@ Earlene Ng Yu Hui from 6 Humility was officially appointed as the Head Prefect f
 
 #### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
 
-**STAR CLASS AWARD**
+<b><u>STAR CLASS AWARD</u></b>
 
 ![](/images/Departments/Student%20Well%20Being/4%20respect%20(Annoucement%20of%20winners).jpg)
