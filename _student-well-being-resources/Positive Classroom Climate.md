@@ -44,7 +44,6 @@ Eye contact is your most powerful tool in maintaining classroom control. Probabl
 Continuously monitor what is happening in your class. Some researchers refer to this as “having eyes at back of your head.” Always know what is going on in your classroom. Avoid having your back to the class. For example, when working in a small group, sit so you are facing the rest of the class. It is also difficult to monitor the class if you are sitting at your desk. It is generally advisable to move around the room as you teach. Effective and skilful teachers has an aura of self-confidence. He/She is sensitive to students' needs and motivation (based on verbal and non-verbal cues) and can stimulate, direct, and pace interaction with the class. He/She also knows whether or not the class is following the material and uses examples, details, analogies, metaphors, and variety in modes of explanation to make material not only understandable but memorable.
 
   
-  
 **Maximise pupils’ attention and participation**  
 To maximise pupils' attention, it is important to deliver interesting, fast-paced and organised learning experiences. Pupils who are motivated and actively engaged are less likely to disrupt the lesson. However, even the best and well-prepared teacher will occasionally encounter disciplinary problems in the classroom, but these are less frequent and less severe.  
   
@@ -53,7 +52,7 @@ Maintain your lesson momentum and provide for smooth transition from one activit
 When the momentum is broken the, class moves from being 95% or 100% on task to 0%. The teacher then has the additional challenge of recapturing the pupils’ attention.  
   
   
-**Use effective teaching strategies****  
+**Use effective teaching strategies**  
   
 Good lesson plans -** Effective teachers organise lessons with clear objectives, appropriate introductions and a good summary. These help pupils focus their attention, retain key points and link the lesson with prior knowledge. In addition, getting ready teaching resources maximises the use of curriculum time and minimises opportunities for misbehaviour.  
   
