@@ -64,4 +64,4 @@ It started with tragedy on a biting cold February morning. I was driving behind 
 
             A child is a believing creature. Cliff undoubtedly believed them. Suddenly it seemed clear to me: When finally there was nothing left at all for Cliff Evans, he collapsed on a snow bank and went away. The doctor might list “heart failure” as the cause of death, but that wouldn’t change my mind.  
 
-Author Unknown
+<p style="text-align: right;">Author Unknown</p>
