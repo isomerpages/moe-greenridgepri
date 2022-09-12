@@ -66,6 +66,12 @@ To celebrate the festive season of Hari Raya Puasa, selected pupils from P1 to P
 
 The P3 and P4 pupils went through a story telling showcase during the MT curriculum time. With the theme Harmony, pupils prepared a story to showcase to their peers.
 
+**Resources**
+
+|                |                                    |
+|:--------------:|:----------------------------------:|
+| Portal e-Cekap | https://www.mtl.moe.edu.sg/ecekap/ |
+
 ### Hari Raya 2021
 
 Display error when embeding video for the page (link still works and will bring you to youtube). 
