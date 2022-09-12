@@ -41,6 +41,6 @@ To read them, please click on the links provided;
 
 1) [Online Version](http://singteach.nie.edu.sg/issue64-classroom01/)
 
-2) [Printed Version](http://singteach.nie.edu.sg/wp-content/uploads/2018/04/SingTeach_Issue64.pdf)
+2) [Printed Version](/files/Departments/Student%20well%20being/SingTeach_Issue64.pdf)
 
 Thank you.
