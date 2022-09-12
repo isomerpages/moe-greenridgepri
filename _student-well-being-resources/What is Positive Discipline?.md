@@ -19,9 +19,7 @@ Effective discipline…
 
 4) Teaches important social and life skills . (Respect, concern for others, problem solving, and cooperation as well as the skills to contribute to the home, school or larger  community.)
 
-5) Invites children to discover how capable they are. (Encourages the constructive use of
-
-personal power and autonomy.)
+5) Invites children to discover how capable they are. (Encourages the constructive use of personal power and autonomy.)
 
 The Positive Discipline Parenting and Classroom Management models are aimed at developing mutually respectful relationships. Positive Discipline teaches adults to employ kindness and firmness at the same time, and is neither punitive nor permissive.
 
