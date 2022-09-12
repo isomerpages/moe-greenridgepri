@@ -40,6 +40,18 @@ We strive to nurture confident language learners who have the love for the cultu
 |                                Library Period Activities                               |                       All                      |             All year           |
 |                                          E-book                                        |                       All                      |           Per semester         |
 
+**Term 2:**
+
+<b><u>Buddy Reading Programme</u></b>
+
+This programme aimed to instil reading habits as well as aid the pupils in learning to read well. Pupils learnt to blend sounds correctly to form words assisted by their buddies with the facilitation of the teachers. This programme not only instilled better reading skills among the pupils but also encouraged the buddies to be an active contributor to the society, in line with the desired outcomes of education.  
+
+<b><u>P2 Speech and Drama Programme</u></b>
+
+This programme aimed to develop language and communication skills through incorporating role-playing, improvisation and language games which led to a drama performance. Through these activities, students were more affluent and confident speakers. Apart from that, they were also equipped with the Social and Emotional Competencies – skills to prepare them for the 21st century demands. The P1 and P2 pupils went through a series of sessions to equip them with skills for language and communication. With the knowledge gained, pupils showcased a drama performance. Parents were invited to celebrate their milestones in learning.
+
+<b><u>P1-P6(expect P3) MTL Fortnight</u></b>
+
 ### Hari Raya 2021
 
 Display error when embeding video for the page (link still works and will bring you to youtube). 
