@@ -32,6 +32,14 @@ We strive to nurture confident language learners who have the love for the cultu
 
 ### Programmes (Level)
 
+|                                        Programme                                       |                     Level                      |              Dates             |
+|:--------------------------------------------------------------------------------------:|:----------------------------------------------:|:------------------------------:|
+|                                     Buddy Programme                                    |                       P1                       | Ongoing (starting from Term 2) |
+| Speech & Drama<br>MT Camp<br>MT Fortnight<br>Oratorical Showcase<br> Hari Raya Concert | P2<br>P3<br>All (Except P3) <br> P3-P4<br> All |             Term 2             |
+|                                P1-P5 Post Exam Activities                              |                 All (Except P6)                |              Term 4            |
+|                                Library Period Activities                               |                       All                      |             All year           |
+|                                          E-book                                        |                       All                      |           Per semester         |
+
 ### Hari Raya 2021
 
 Display error when embeding video for the page (link still works and will bring you to youtube). 
