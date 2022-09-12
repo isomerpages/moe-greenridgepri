@@ -15,6 +15,13 @@ third_nav_title: Student Well Being
 \-  The informal curriculum, for example, CCA, outdoors education and specific school programme like leadership programmes and camps.  
 \-  To strengthen Teacher Student Relationship, our school has adopted various strategies to focus on the mentor teacher concept so that more attention will be given to individual students throughout their primary school life under the PERI recommendations. In addition, the formation of the Student Development Team and the introduction of the Year Heads in our school since 2015 has further strengthen our school’s capacity to know and cater to the needs of students.  
   
-
-
 <b><u>GRPS Positive Education Framework</u></b>
+
+![](/images/Departments/Student%20Well%20Being/Framework.png)
+
+![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_2.jpg)
+
+![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_3.jpg)
+
+![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_4.jpg)
+
