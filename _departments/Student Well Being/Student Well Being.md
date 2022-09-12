@@ -11,9 +11,9 @@ third_nav_title: Student Well Being
 |        Designation         | Name        |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | <u><b>Positive Education @ GRPS</b></u><br>Year Head P1 & P2<br>Assistant Year Head P2<br>Year Head P3 & P4<br>Assistant Year Head P4<br>Year Head P5 & P6 <br>Assistant Year Head P6 |      <br>Mdm Pek Shu San<br>Ms Mariati Ngahtemin<br>Mdm Nur Jannah Juri<br>Mr Poh Choon Wee<br>Mr See Kok Ching<br>Mdm Wang Yingshan |
-|  <br>Subject Head Discipline                  |  <br>Mr Yeo Wi Kiat           |
+|  Subject Head Discipline                  | Mr Yeo Wi Kiat           |
 | Case Management Team (CMT)                 | Mr Muhd Khairon Bin Yunus                                                                                                            |
-|  <br>School Counsellor          | Ms Shimmie Ramachandran            |
+|  School Counsellor          | Ms Shimmie Ramachandran            |
 | Allied Educators (AED LBS)<br>(Learning and Behavioural Support)                  | Ms Junainah Bte Sadar<br>Ms Donna Lim Wei Yi      |
 |  <br>Social Emotional Learning (SEL) Social Skills      | Mdm Pek Shu San           |
 | Peer Support and Relationships     | Mr See Kok Ching<br>Mdm Wang Yingshan            |
