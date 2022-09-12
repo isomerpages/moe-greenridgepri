@@ -52,6 +52,24 @@ This programme aimed to develop language and communication skills through incorp
 
 <b><u>P1-P6(expect P3) MTL Fortnight</u></b>
 
+#### Upload images to google slides
+
+Every year, GRPS will dedicate two weeks for MTL Fortnight Programme. This programme gives the opportunity for pupils to do various activities to instil the love of learning about the mother tongue language and culture. Pupils were more confident and proficient communicators of the Mother Tongue language. To promote this, the ML unit had prepared various interesting activities for the pupils. 
+
+Apart from these, we also had level wide activities such as the P3-P6 Writing Competition, Introduction 
+
+of Malay Folk Tales in CCE lessons and Recess Activity where the pupils learnt how to tie the kain samping. 
+
+The Malay pupils enjoyed learning about Malay language and culture in a fun way.
+
+<b><u>Hari Raya Concert</u></b>
+
+To celebrate the festive season of Hari Raya Puasa, selected pupils from P1 to P6 put up various performances for the school. The concert was opened with a spectacular Silat performance by 4 pupils. The Malay dancers were graceful in perfoming their Hari Raya song. Pupils were also entertained by the interaction activity where a few students got to dress up their teachers with the Malay traditional costumes. The most interesting part was the finale where we had some teachers parading their beautiful Malay traditional costumes and singing the Hari Raya song together with the P1 pupils.
+
+<b><u>Oratorical Showcase</u></b>
+
+The P3 and P4 pupils went through a story telling showcase during the MT curriculum time. With the theme Harmony, pupils prepared a story to showcase to their peers.
+
 ### Hari Raya 2021
 
 Display error when embeding video for the page (link still works and will bring you to youtube). 
