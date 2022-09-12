@@ -47,3 +47,11 @@ The photos below are the winning projects selected from our school internal SCSA
 |   Arumugam Maghalakshmi |  Accomplishment |
 |        Lek Yi Zhen      |  Accomplishment |
 |  Sowpati Jayneeta Betsy |  Accomplishment |
+
+
+<b><u>Science Achievement – 2018</u></b>
+
+<p style="text-align: center;"><u>International Young Whizzes Challenge</u></p>
+
+| ![](/images/Departments/Science%20Department/2018_international%20young%20whizzes%20challenge_a.jpg) | ![](/images/Departments/Science%20Department/2018_international%20young%20whizzes%20challenge_b.jpg) |
+|:----:|:-----------:|
