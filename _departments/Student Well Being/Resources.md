@@ -52,12 +52,8 @@ What do you need to  bring to be prepared for class?
 Instead of…  
 You know you should have your books and homework ready before you come to class!
 
-  
-
-What is your plan for getting work your work done before class is over?
-
-Instead of… 
-
+What is your plan for getting work your work done before class is over?   
+Instead of…   
 If you don’t get your work done in class, you’ll stay in from recess and get it done then!
 
   
