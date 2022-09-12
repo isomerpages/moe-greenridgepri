@@ -100,3 +100,14 @@ Good discipline requires teamwork which includes seeking the cooperation of pupi
   
 Make full use of meetings with them to discuss an individual pupil’s problem or problems pertaining to the whole class. These pupils’ understanding of the problems can lead to joint solutions that bring about change. The key element is the involvement of peers in generating solutions to problems.  
 When conducting such meetings:
+
+|   |                                                                                                                                                                                       |
+|---|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   | Draw up an agenda before the meeting. Any pupil can ask for an item to be included in the agenda but limit the number of items on the agenda to facilitate more thorough discussions. |
+|   |                                Establish ground rules such as turn-taking, refraining from name-calling and showing commitment to solving the problems.                               |
+|   |                                Do not allow insults, blame and “put-downs”. Instead, encourage them to listen to all ideas and express their feelings.                                |
+|   |                                 Focus on the behaviours that cause the problem and not the persons e.g. What can be done about graffiti on furniture?                                 |
+|   |                                                             Focus on the present and the future. Do not dwell on the past.                                                            |
+|   |                                                                 Work on a plan of change from the suggested solutions.                                                                |
+|   |                                                                 Agree to monitor and review the plan at a later date.                                                                 |
+|   |                                                                 Encourage active participation by recognising efforts.                                                                |
