@@ -41,22 +41,15 @@ When students are encouraged to express their opinions, are given choices instea
 
 <u>Positive Discipline in the Classroom<br>By Jane Nelson<br>Chapter 2 (a summary by Ethan Yeo)<br>A Paradigm Shift</u>
 
-  
-
 Positive Discipline involves a world where teachers don’t use rewards and punishments. The focus becomes the solution to problems and instead of imposing consequences on students, teachers encourage students to think about the consequences of their behavior, and how it affects them and others.
 
 Teachers accustomed to discipline programs based of behaviourism would require a paradigm shift  in their awareness.
 
-In Positive Discipline, kids are invited to think about what to do. Studies have shown that telling usually creates a physiological resistance in the body. The message that is sent to the brain is Resist. By contrast, respectfully asking creates a physiological relaxation of the body, and the message that is sent to the brain is Search for an answer.
+In Positive Discipline, kids are invited to think about what to do. Studies have shown that telling usually creates a physiological resistance in the body. The message that is sent to the brain is Resist. By contrast, respectfully asking creates a physiological relaxation of the body, and the message that is sent to the brain is Search for an answer.  
 
-  
-
-Examples.
-
-What do you need to  bring to be prepared for class?
-
-Instead of…
-
+Examples.  
+What do you need to  bring to be prepared for class?  
+Instead of…  
 You know you should have your books and homework ready before you come to class!
 
   
