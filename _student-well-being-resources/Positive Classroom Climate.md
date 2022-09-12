@@ -120,3 +120,13 @@ With the emphasis on IT-based lessons, schools can have IT representatives in ev
 **Role Models**
 
 Effective teachers are good role models for their pupils. Just as teachers have certain expectation of pupils, pupils also have expectations of teachers. Studies have indicated the following aspects of teacher behaviour which are viewed as important by pupils:
+
+|   |                                                                       |
+|---|:-----------------------------------------------------------------------:|
+|   |              fair in making decisions that affect pupils;             |
+|   |                       neat and properly attired;                      |
+|   |                               courteous;                              |
+|   |               showing respect to pupils as individuals;               |
+|   |                           sincere and open;                           |
+|   | maintaining good relationships with pupils even after punishment; and |
+|   |                     actively listening to pupils.                     |
