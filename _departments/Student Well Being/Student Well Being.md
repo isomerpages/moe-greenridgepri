@@ -4,7 +4,7 @@ permalink: /departments/Student-Well-Being/
 description: ""
 third_nav_title: Student Well Being
 ---
-# Student Well-Being
+# Student Well-Being Overview
 ![](/images/Departments/Student%20Well%20Being/STUDENT%20WELL-BEING_P1.jpg)
 
 
