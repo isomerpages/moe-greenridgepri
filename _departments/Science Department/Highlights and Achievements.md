@@ -60,9 +60,9 @@ The photos below are the winning projects selected from our school internal SCSA
 
 |                          Name                         |        Achievement       |
 |:-----------------------------------------------------:|:------------------------:|
-| Chen Jia Xuan<br>Chong Qiao LiPoon Zhe En, Joshua<br> |   Individual Gold Award  |
-| Kiew Tian Le ErnestJessie Tan<br>                     |  Individual Silver Award |
-|             <br>Chanel LeongKoh Kayla <br>            |  Individual Bronze Award |
+| Chen Jia Xuan<br><br>Chong Qiao Li<br><br>Poon Zhe En, Joshua<br> |   Individual Gold Award  |
+| Kiew Tian Le Ernest<br><br>Jessie Tan<br>                     |  Individual Silver Award |
+|             Chanel Leong<br><br>Koh Kayla <br>            |  Individual Bronze Award |
 
 <p style="text-align: center;"><u>Sony Creative Toys Award (Junior Whizkid)</u></p>
 
@@ -84,7 +84,7 @@ The photos below are the winning projects selected from our school internal SCSA
 
 <p style="text-align: center;"><u>Junior Science Whiz Challenge</u></p>
 
-|                                                                  Name                                                                 |  Achievement  |
+|                Name                |  Achievement  |
 |:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
 | Kikkeri Srinivas Samarth<br><br>Mukeshmithran Samithurai<br><br>Yap Yuan Xi<br><br>Jong Jia Cheng<br><br>Samantha Tan Mei JiaChennavaram Bala Dheeraj | Participation |
 
