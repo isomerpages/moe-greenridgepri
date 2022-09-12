@@ -58,32 +58,21 @@ If you don’t get your work done in class, you’ll stay in from recess and get
 
   
 
-THE ICEBERG ANALOGY OF HUMAN BEHAVIOUR
-
-Positive discipline not  only addresses the tip of the iceberg but also the underwater portion.
-
+THE ICEBERG ANALOGY OF HUMAN BEHAVIOUR   
+Positive discipline not  only addresses the tip of the iceberg but also the underwater portion.   
 Children who misbehave are children who are discouraged. When we address only the behaviour (the part we see) that is only the tip of the iceberg.  We call the part that is hidden under the surface the “belief behind the behaviour.”
 
-  
-
-UNDERSTANDING THE UNDERWATER PART OF THE ICEBERG
-
-Children continuously make subconscious decisions about themselves based on perceptions, or private logic, of their life experiences. Children are not aware they are making these decisions. When children feel safe – when they feel that they belong and are significant – they thrive. They develop into capable people with the characteristics and life skills teachers want them to have.
-
+UNDERSTANDING THE UNDERWATER PART OF THE ICEBERG   
+Children continuously make subconscious decisions about themselves based on perceptions, or private logic, of their life experiences. Children are not aware they are making these decisions. When children feel safe – when they feel that they belong and are significant – they thrive. They develop into capable people with the characteristics and life skills teachers want them to have.   
 We believe that the long-term result of using punishments and rewards to motivate behaviour is discouragement. The long term results of punishment are described as follows:
 
   
 
-Three R’s of Punishment:
-
-1\. Rebellion. “They can’t make me. I’ll do what I want.”
-
-2\. Revenge. “I’ll get even and hurt back, even if it hurts my future.”
-
-3\. Retreat:
-
-a. Low self-esteem: “I must be a bad person.”
-
+Three R’s of Punishment:   
+1\. Rebellion. “They can’t make me. I’ll do what I want.”   
+2\. Revenge. “I’ll get even and hurt back, even if it hurts my future.”   
+3\. Retreat:   
+a. Low self-esteem: “I must be a bad person.”   
 b. Sneaky: “I just won’t get caught next time.”
 
 
