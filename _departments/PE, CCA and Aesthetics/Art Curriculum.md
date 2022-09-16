@@ -20,3 +20,11 @@ third_nav_title: PE, CCA and Aesthetics
 
 
 ### SYF 2021 Art Exhibition
+
+We would like to invite you to join us in celebrating our students’ artistic efforts and achievements at The Singapore Youth Festival (SYF) 2021 Art Exhibition. This event is a national school event organised by the Ministry of Education to provide opportunities for our students to showcase their talents in art and promote art appreciation in our schools and community.  
+  
+Our students from Primary 5 attained the Certificate of Recognition! Their artwork titled “Will you see me again” is about using technology to create awareness on Climate Change. The Mixed Media artwork which uses 3 layers of acrylic sheet with marbling paint to show the different layers on the sea.  
+  
+This year’s exhibition is the first SYF virtual exhibition using immersive 360-degree technology.You will be able to view over 260 selected artworks set against a digitalised backdrop of gallery spaces within National Gallery Singapore.  
+  
+You can view the pictures below or see the whole [virtual exhibition here](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2).
