@@ -124,3 +124,28 @@ Boys
 * “Punk” (layered, tails, shaved, spiky), or sloppy, untidy hairstyles are not allowed.
 * Boys are not allowed to have pierced ears.
 * No sideburns allowed.
+
+
+FOOTWEAR
+
+* Only plain white socks which cover the ankle are permitted.
+* No ‘dancing-type’ footwear should be worn (as shown above).
+* Pupils should wear proper black canvas shoes that provide enough support for sporting activities
+* Only shoes with shoe-laces and Velcro fasteners are allowed.
+* Soles of the shoes cannot be coloured.
+
+  
+
+EYEWEAR 
+
+Spectacles worn by pupils must be functional and should not be a fashion accessory.   
+* The frames should not have any outlandish design or patterns on them.
+* The lenses must not be coloured or tinted.
+* The frame should be in a plain dark colour.
+
+
+PROHIBITED ITEMS
+
+* Any item deemed as a distraction to lessons may be confiscated and banned.
+* No handphones/smartphones/digital media players are permitted. 
+* No exception is given for Learning Journeys, CCAs/events that fall on Saturday or school half-day celebrations, unless permission has been granted by teachers.
