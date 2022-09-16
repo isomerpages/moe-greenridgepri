@@ -25,3 +25,11 @@ third_nav_title: Student Well Being
 Above all, we expect them to lead with an **Others-Centric** mindset: to put others before themselves in their leadership journey.
 
 The five practices translate into the following student commitment or behavior indicators as defined by Kouzes and Posner:
+
+| Practices                | Commitment or Behaviour Indicators                                                                                                                                             |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       Model the Way      | Find your voice by clarifying your personal values. <br>Set the example by aligning actions with shared values.                                                                |
+| Inspired a Shared Vision | Envision the future by imagining exciting and ennobling activities. <br>Enlist others in a common vision by appealing to shared aspirations.                                   |
+|   Challenge the Process  | Search for opportunities by seeking innovative ways to change, grow and improve. <br>Experiment and take risks by constantly generating small wins and learning from mistakes. |
+|   Enable Others to Act   | Foster collaboration by promoting cooperative goals and building trust. <br>Strengthen others by sharing power and discretion.                                                 |
+|    Encourage the Heart   | <br>Recognise contributions by showing appreciation for individual excellence.                                                                                                 |
