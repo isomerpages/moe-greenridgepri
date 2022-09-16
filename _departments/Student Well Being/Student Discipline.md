@@ -101,4 +101,9 @@ Girls
 
 |   |   |
 |---|---|
+| ![](/images/Departments/Student%20Discipline/Girl%201.jpeg)  |  ![](/images/Departments/Student%20Discipline/Girl%202.jpeg)   |
+
+
+|   |   |
+|---|---|
 | ![](/images/Departments/Student%20Discipline/Boy%201.jpeg)  |  ![](/images/Departments/Student%20Discipline/Boy%202.jpeg)   |
