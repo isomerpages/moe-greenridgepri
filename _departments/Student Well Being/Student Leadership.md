@@ -48,3 +48,11 @@ These three avenues are in the classroom, in their respective CCAs, as well as t
 |     *First Aiders*                 |                       ·         Escorts sick pupils to General Office <br>·         Assists teachers in simple first aid. <br>·         Assists teacher in monitoring the physical well-being of classmates                       |
 |       *CCE Champs*        |       ·         Role model for good character and citizenship <br>·         Assists teacher in updating and maintaining the CCE corner             |
 |   *Goodwill Ambassador*     |          ·         Mediate minor conflicts among peers and report major conflicts to teachers. <br>·         Assists school in SKM / FOS events. <br>·         Induct new classmates into the class       |
+
+
+### CCA-Based Leadership
+
+| Leadership Position     | Primary Duties       |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sports & Games<br>Captain <br>Vice-Captain             | <br>Assist the teacher-in-charge in taking attendance of CCA members. <br>Assist in maintaining the discipline of CCA members. <br>Assist in the coaching/modelling of sport skills to be learnt. <br>Conduct orientation for new members. <br>Encourage active participation by members. |
+| Clubs & Societies<br>President <br>Vice-President<br>  | Assist the teacher-in-charge in taking attendance of CCA members. <br>Assist in maintaining the discipline of CCA members. <br>Assist in the coaching/modelling of skills to be learnt. <br>Conduct orientation for new members. <br>Encourage active participation by members.           |
