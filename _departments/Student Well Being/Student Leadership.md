@@ -82,6 +82,10 @@ P4 Level Executive: Celine Kor Shu Han (4 Re)
 
 ![](/images/Departments/Student%20Well%20Being/Prefects_2.jpg)
 
+<p style="text-align: justify;">On 20th April 2017, a group of prefects armed with thongs and garbage bags went around the neighbourhood on foot to show their support for this litter picking activity. Though it was a hot and humid afternoon, but our prefects’ spirits were high. They had so much fun in the process but more importantly, they learnt the importance of keeping our living environment clean and litter free.</p>
+
+<b><u>Kindergarten Visit</u></b>
+
 ![](/images/Departments/Student%20Well%20Being/Prefects_3.jpg)
 
 ![](/images/Departments/Student%20Well%20Being/Prefects_4.jpg)
