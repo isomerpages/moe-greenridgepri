@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - PE, CCA and Aesthetics/PE Curriculum.md
       - PE, CCA and Aesthetics/.keep
       - PE, CCA and Aesthetics/PE, CCA and Aesthetics.md
       - PE, CCA and Aesthetics/Department Teachers.md
       - PE, CCA and Aesthetics/Level Programme PE Art Music.md
+      - PE, CCA and Aesthetics/PE Curriculum.md
       - Departments.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
