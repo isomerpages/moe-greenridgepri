@@ -11,6 +11,8 @@ third_nav_title: Student Well Being
 
 <p style="text-align: center;"><b>Student Leadership Model </b></p>
 
+![](/images/Departments/Student%20Well%20Being/Student%20Leadership%20Model.jpg)
+
 
 In support of the school’s vision, the department has adopted Kouzes and Posner’s (2005) Five Practices of Exemplary Leadership as outcomes for the GRPS Student Leadership Programme. Through the programme, we aim to inculcate in our student leaders the following 5 Practices of Exemplary Leadership:
 
