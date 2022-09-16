@@ -111,6 +111,16 @@ Girls
 * Nails must be short and without nail polish.
 * Length of school skirts should cover the knee caps.
  
+Boys
+ 
 |   |   |
 |---|---|
 | ![](/images/Departments/Student%20Discipline/Boy%201.jpeg)  |  ![](/images/Departments/Student%20Discipline/Boy%202.jpeg)   |
+
+* Hair must be kept short and neat.
+* Hair must not cover the forehead, touch the eyebrows, ears or first collar line.
+* The back of the hair must be sloped.
+* No spiky, gelled hair.
+* “Punk” (layered, tails, shaved, spiky), or sloppy, untidy hairstyles are not allowed.
+* Boys are not allowed to have pierced ears.
+* No sideburns allowed.
