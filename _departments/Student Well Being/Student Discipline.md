@@ -61,20 +61,20 @@ The table below shows the list of offences and their possible consequences.
 <table>
 <thead>
   <tr>
-    <th>Offence / Misbehaviour</th>
-    <th>Possible Consequences</th>
+    <th style="text-align: center;">Offence / Misbehaviour</th>
+    <th style="text-align: center;">Possible Consequences</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td colspan="2">General Misconduct / Unacceptable Behaviour (Minor)</td>
+    <td colspan="2" style="text-align: center;">General Misconduct / Unacceptable Behaviour (Minor)</td>
   </tr>
   <tr>
     <td>- Skipping Classes<br>- Late coming<br>- Persistent improper attire and/or grooming<br>- Littering<br>- Frequent late submission of assignments<br>- Not doing assignments<br>- Disruptive behavior in class<br>- Use of vulgarity / obscene gestures to classmates<br>- Act of mischief ( e.g. deliberate throwing of things at others)</td>
     <td>- Suspension of recess<br>- Corrective work<br>- In-school suspension<br>- Out-of-school suspension</td>
   </tr>
   <tr>
-    <td colspan="2"> Other Serious Offences (Major)</td>
+    <td colspan="2" style="text-align: center;"> Other Serious Offences (Major)</td>
   </tr>
   <tr>
     <td>- Arson <br>- Theft / shoplifting <br>- Vandalism <br>- Use, possession or distribution of inappropriate material (for example pornography) <br>- Fighting / Assault <br>- Gambling <br>- Smoking <br>- Substance Abuse / Inhalant Abuse <br>- Drug Abuse <br>- Abuse of technology <br>- Alcohol abuse <br>- Bullying <br>- Cheating in exams <br>- Disruptive behaviour <br>- Forgery <br>- Gangsterism <br>- Leaving class / school without permission <br>- Open defiance / rudeness <br>- Pornography <br>- Possession of weapons <br>- Sexual misconduct <br>- Smoking <br>- Theft <br>- Truancy <br>- Vandalism <br>- Others</td>
