@@ -96,3 +96,9 @@ General points to note
 * Nails must be kept short and without nail polish.
 * Pupils should not be wearing any form of make-up.
 * Tinting, bleaching and colouring of hair are not allowed.
+
+Girls
+
+|   |   |
+|---|---|
+| ![](/images/Departments/Student%20Discipline/Boy%201.jpeg)  |  ![](/images/Departments/Student%20Discipline/Boy%202.jpeg)   |
