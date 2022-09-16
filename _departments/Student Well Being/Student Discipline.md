@@ -103,7 +103,14 @@ Girls
 |---|---|
 | ![](/images/Departments/Student%20Discipline/Girl%201.jpeg)  |  ![](/images/Departments/Student%20Discipline/Girl%202.jpeg)   |
 
-
+* Fringe must not be touching the eyebrows
+* Hair beyond shoulder length must be in a bun or plaited into one or two plaits.
+* Hair beyond the second collar line must be tied or held back neatly with a black hair band or black hairpins/hairclips.
+* Pupils must not wear any coloured contact lenses or tinted spectacle lenses.
+* A matching pair of small, plain studs or transparent ear sticks may be worn on one ear hole of each ear.
+* Nails must be short and without nail polish.
+* Length of school skirts should cover the knee caps.
+ 
 |   |   |
 |---|---|
 | ![](/images/Departments/Student%20Discipline/Boy%201.jpeg)  |  ![](/images/Departments/Student%20Discipline/Boy%202.jpeg)   |
