@@ -65,7 +65,7 @@ These three avenues are in the classroom, in their respective CCAs, as well as t
 
   
 Head Perfect: Lim Xiao Tian (6 Re)  
-  
+
 Assistant Head Prefects: Mukeshmithran Samithurai (6 Hu) & Muhammad Rai’yaan Arshad (5 Re)  
   
 Prefect Mentors: Low Yeen Jaan (6 Hu) & Goh Quan Feng (6 Re)  
@@ -75,3 +75,13 @@ P6 Level Executive: Charis Yak En Qi (6 Re)
 P5 Level Executives: Amanda Yow Lye Teng (5 Hn) & Chea Hom Tao Triven (5 Hn)  
   
 P4 Level Executive: Celine Kor Shu Han (4 Re)
+
+![](/images/Departments/Student%20Well%20Being/Prefects_1.jpg)
+
+<b><u>Operation WE Clean-Up</u></b>
+
+![](/images/Departments/Student%20Well%20Being/Prefects_2.jpg)
+
+![](/images/Departments/Student%20Well%20Being/Prefects_3.jpg)
+
+![](/images/Departments/Student%20Well%20Being/Prefects_4.jpg)
