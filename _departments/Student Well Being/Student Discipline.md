@@ -91,3 +91,8 @@ General points to note
 |   |   |
 |---|---|
 | ![](/images/Departments/Student%20Discipline/Final%20Full%20Uniform.jpg)  | ![](/images/Departments/Student%20Discipline/Final%20PE%20attire.jpg)  |
+
+* No jewellery or any item of personal adornment is allowed (e.g. bracelets, wristbands, necklaces etc). If a religious item has to be worn, written permission must be obtained from the Principal.
+* Nails must be kept short and without nail polish.
+* Pupils should not be wearing any form of make-up.
+* Tinting, bleaching and colouring of hair are not allowed.
