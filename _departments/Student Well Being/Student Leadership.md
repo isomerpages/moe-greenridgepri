@@ -61,7 +61,7 @@ These three avenues are in the classroom, in their respective CCAs, as well as t
 
 <b><u>Prefects’ Investiture</u></b>
 
-The Prefects Investiture was held on 21st and 22nd February 2017. The Prefectorial Board is currently made up of 14 Primary 3 prefects, 20 Primary 4 prefects, 33 Primary 5 prefects and 26 Primary 6 prefects. The prefects were formally introduced to the school during the investiture. The key appointment holders are
+<p style="text-align: justify;">The Prefects Investiture was held on 21st and 22nd February 2017. The Prefectorial Board is currently made up of 14 Primary 3 prefects, 20 Primary 4 prefects, 33 Primary 5 prefects and 26 Primary 6 prefects. The prefects were formally introduced to the school during the investiture. The key appointment holders are</p>
 
   
 Head Perfect: Lim Xiao Tian (6 Re)  
