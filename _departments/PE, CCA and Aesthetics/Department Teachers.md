@@ -6,6 +6,8 @@ third_nav_title: PE, CCA and Aesthetics
 ---
 # Department Teachers
 
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/PAM_P1.jpg)
+
 |        Designation        |                                                                                     Name                                                                                    |
 |:-------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Head of Department        | Mr Sharudin Bin Abdul Rashid                                                                                                                                                |
