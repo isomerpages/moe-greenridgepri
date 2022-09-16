@@ -14,3 +14,5 @@ description: ""
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/P2%20Art%20Curriculum.jpg)
 
 ### P3 & P4 AISS (Artists in School Scheme)
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
