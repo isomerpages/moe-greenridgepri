@@ -28,3 +28,15 @@ Our students from Primary 5 attained the Certificate of Recognition! Their artwo
 This year’s exhibition is the first SYF virtual exhibition using immersive 360-degree technology.You will be able to view over 260 selected artworks set against a digitalised backdrop of gallery spaces within National Gallery Singapore.  
   
 You can view the pictures below or see the whole [virtual exhibition here](https://www.syf.gov.sg/syf/virtualexhibition/gallery-2).
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/a1.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/a2.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/a3.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/a4.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/a5.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/a6.jpg)
