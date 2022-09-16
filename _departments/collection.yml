@@ -2,11 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - PE, CCA and Aesthetics/.keep
-      - PE, CCA and Aesthetics/PE, CCA and Aesthetics.md
-      - PE, CCA and Aesthetics/Department Teachers.md
-      - PE, CCA and Aesthetics/Level Programme PE Art Music.md
-      - PE, CCA and Aesthetics/PE Curriculum.md
       - Departments.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
@@ -42,8 +37,8 @@ collections:
       - Science Department/Programmes (Level).md
       - Science Department/Highlights and Achievements.md
       - Science Department/Resources.md
-      - Student Well Being/Student Discipline.md
       - Student Well Being/.keep
+      - Student Well Being/Student Discipline.md
       - Student Well Being/Student Well Being Overview.md
       - Student Well Being/Vision, Mission & Values.md
       - Student Well Being/Programmes.md
@@ -51,3 +46,8 @@ collections:
       - Student Well Being/Resources.md
       - Student Well Being/Student Well Being.md
       - Student Well Being/Student Leadership.md
+      - PE, CCA and Aesthetics/.keep
+      - PE, CCA and Aesthetics/PE, CCA and Aesthetics.md
+      - PE, CCA and Aesthetics/Department Teachers.md
+      - PE, CCA and Aesthetics/Level Programme PE Art Music.md
+      - PE, CCA and Aesthetics/PE Curriculum.md
