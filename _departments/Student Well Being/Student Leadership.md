@@ -37,3 +37,14 @@ The five practices translate into the following student commitment or behavior i
 To maximize leadership opportunities, our students across all levels have three avenues in which to they are given the chance to develop their leadership skills. 
 
 These three avenues are in the classroom, in their respective CCAs, as well as through the Prefectorial Board.
+
+### Class Committee
+
+| Leadership Position                          | Primary Duties         |
+|:----------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        *Class Monitors*      |            ·         Assists in class discipline <br>·         Assists in administrative matters <br>·         Leads the class in school events.                 |
+| *Subject Representatives*<br>(EL,MA,SCI,MT,PE) | ·         Assists in collection and distribution of books/worksheets <br>·         Assists in setting up and safekeeping of manipulatives / equipment. <br>·         Assists in respective subject related school / class events. |
+|    *ICT Champs*                  |                     ·         Sets up computer / visualizer for teacher <br>·         Ensures all computers are shut down in computer labs. <br>·         Assists teachers in troubleshooting of AV/IT issues.                    |
+|     *First Aiders*                 |                       ·         Escorts sick pupils to General Office <br>·         Assists teachers in simple first aid. <br>·         Assists teacher in monitoring the physical well-being of classmates                       |
+|       *CCE Champs*        |                ·         Role model for good character and citizenship <br>·         Assists teacher in updating and maintaining the CCE corner             |
+|   *Goodwill Ambassador*     |          ·         Mediate minor conflicts among peers and report major conflicts to teachers. <br>·         Assists school in SKM / FOS events. <br>·         Induct new classmates into the class       |
