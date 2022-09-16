@@ -82,3 +82,12 @@ The table below shows the list of offences and their possible consequences.
   </tr>
 </tbody>
 </table>
+
+
+### Uniform & Attire
+
+General points to note
+
+|   |   |
+|---|---|
+| ![](/images/Departments/Student%20Discipline/Final%20Full%20Uniform.jpg)  | ![](/images/Departments/Student%20Discipline/Final%20PE%20attire.jpg)  |
