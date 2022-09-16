@@ -88,4 +88,10 @@ P4 Level Executive: Celine Kor Shu Han (4 Re)
 
 ![](/images/Departments/Student%20Well%20Being/Prefects_3.jpg)
 
+<p style="text-align: justify;">Our prefects helped to usher and act as guides during the kindergarten visit on 18th May 2017. They brought the different groups of children to tour around the school and gave them a brief introduction of the various special rooms in the school compound. Some of our prefects even prepared stickers to give to the young visitors. It had been a memorable experience for our prefects</p>  
+
+<b><u>Values Brief by Prefects</u></b> 
+
+<p style="text-align: justify;">Every week, prefects will take turn to share with the other pupils on values of the week. These presentations will be done every Tuesday and Wednesday before assembly programme. The Powerpoint slides and scripts are prepared by them based on their understanding of the values that can be found in every pupil’s handbook.</p>
+
 ![](/images/Departments/Student%20Well%20Being/Prefects_4.jpg)
