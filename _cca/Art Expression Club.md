@@ -23,6 +23,8 @@ Our Art Expression Club members have continued to hone their skills a wide ran
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_1.jpg)
 
+Our big team of artists.
+
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_2.jpg)
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_3.jpg)
