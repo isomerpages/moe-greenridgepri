@@ -67,3 +67,24 @@ Other Badges Boys can achieve:
 </table>
 
 <p style="text-align: center;">*Saturdays are for special events.</p>
+
+
+<b><u>Highlights</u></b>
+
+**59J Boys’ Brigade:**
+
+1.   Adventure Quest (P6 Boys only)  
+2.   Character Quest  
+3.   BB CARES  
+4.   Enrolment & Dedication Service  
+5.   Combined Annual Camp
+
+**59th Girls’ Brigade:**
+
+1.   Dr Low Guat Tin Challenge (on alternate year)  
+2.   National Drill Competition (on alternate year)  
+3.   GB Friendship Day  
+4.   Enrolment & Dedication Service  
+5.   Junior Leadership Training Camp (P5 Girls only)  
+6.   Fast Food and Fuzz Camp (P4 Girls only)  
+7.   Combined Annual Camp
