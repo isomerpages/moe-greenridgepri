@@ -30,6 +30,10 @@ Each of these objectives will be covered in 4 lessons for every level, out of wh
 
 Other Badges Boys can achieve:
 
+**Service Badge**
+
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Boys’%20&%20Girls’%20Brigade/Service%20badge.png)
+
+**The Gold Badge**
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Boys’%20&%20Girls’%20Brigade/Gold%20badge.png)
