@@ -65,10 +65,10 @@ Mdm Hasrinah Mohd Hussain & Mrs Vivian Huen
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9d.jpg)
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9e.jpg)
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9f.jpg)
+**4.**    **Core Library Duties – Loaning, Returning, Shelvin**
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9g.jpg)
 
-|   |   |
-|---|---|
-|   |   |
+|   |   |   |
+|---|---|---|
+|![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9f.jpg)   |   |   |
