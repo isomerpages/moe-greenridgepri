@@ -5,6 +5,7 @@ description: ""
 third_nav_title: ICT, MRL, ALP
 ---
 # Cyber Wellness
+
 ### Objective:
 
 To promote responsible use of ICT tools among school population
@@ -29,3 +30,7 @@ The focus of an AUP is to educate students on the responsible use of computer ne
   
 <b><u>Needs Analysis</u></b>    
 A survey is conducted on MC Online to identify the concerns with regards to the cyber wellness issues within school population.
+
+### (A) ICT Champions Training workshop
+
+The ICT department conducted a school wide training workshop for all ICT Champions during the first week of school. They underwent an intensive AVA hands-on training and were also briefed on their new role as Cyber wellness ambassadors in their respective classrooms. The ICT Champions were also given leadership opportunities to create and maintain a Cyber wellness corner in their classroom to promote Cyber wellness to their classmates.
