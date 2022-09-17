@@ -20,3 +20,10 @@ For the Girls, Brigade, please refer to their website [**here**](https://www.gb
 For the Boys’ Brigade, we have the Colour Awards Scheme.
 
 Currently, the awards consist of 6 badges, named in ascending order:
+
+
+We have rolled out the new Badge Work curriculum which was implemented in 2014. It focuses on four main objectives: **Global Awareness, Community Spiritedness, Personal Mastery and Leadership.**  
+
+Each of these objectives will be covered in 4 lessons for every level, out of which 1 lesson will include a **Special Missions** card which they would be required to complete in order to show that they have successfully understood the unit objective. In order to attain a coloured badge, Boys must complete the series of activities and challenges set out in the Badge Work curriculum.
+
+Other Badges Boys can achieve:
