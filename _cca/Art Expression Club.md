@@ -16,3 +16,5 @@ Our Art Expression Club members have continued to hone their skills a wide ran
 *   Mdm Izyan
 *   Mdm Yuhanis
 *   Mdm Azlinda
+
+### Highlight(s) of Activities:
