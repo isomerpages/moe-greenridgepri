@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Wushu.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
@@ -28,3 +27,4 @@ collections:
       - Science Club.md
       - Sport Climbing.md
       - Scouts.md
+      - Wushu.md
