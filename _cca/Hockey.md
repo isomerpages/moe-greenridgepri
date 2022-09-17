@@ -25,4 +25,6 @@ description: ""
 | Mondays, 3.30 pm – 5.30 pm | Parade Square / Field | Face-to-Face (F2F) |
 | Mondays, 3.30 pm – 5.00 pm | Zoom @ Home           | E-CCA (Online)     |
 
+<p style="text-align: center;"><i>*Please refer to our termly consent forms via PG for confirmed dates and mode of CCA.</i></p>
+
 <b><u>Equipment</u></b>
