@@ -24,7 +24,7 @@ Currently, the awards consist of 6 badges, named in ascending order:
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Boys’%20&%20Girls’%20Brigade/Badge2.png)
 
 
-We have rolled out the new Badge Work curriculum which was implemented in 2014. It focuses on four main objectives: **Global Awareness, Community Spiritedness, Personal Mastery and Leadership.**  
+<p style="text-align: justify;">We have rolled out the new Badge Work curriculum which was implemented in 2014. It focuses on four main objectives: <b>Global Awareness, Community Spiritedness, Personal Mastery and Leadership.</b></p>
 
 <p style="text-align: justifyr;">Each of these objectives will be covered in 4 lessons for every level, out of which 1 lesson will include a <b>Special Missions</b> card which they would be required to complete in order to show that they have successfully understood the unit objective. In order to attain a coloured badge, Boys must complete the series of activities and challenges set out in the Badge Work curriculum.</p>
 
