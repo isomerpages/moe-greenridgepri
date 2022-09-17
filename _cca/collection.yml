@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Infocomm Club.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
@@ -20,3 +19,4 @@ collections:
       - Green and Innovation Club.md
       - Guzheng Ensemble.md
       - Hockey.md
+      - Infocomm Club.md
