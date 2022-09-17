@@ -43,3 +43,7 @@ The ICT department conducted a school wide training workshop for all ICT Champio
 On that day, the ICT department gave an assembly talk to the pupils on how to be more responsible when using the internet.
 
 The whole school then recite the “Cyber wellness pledge” to be Gracious, Responsible and Public-Spirited users of the internet. Prizes were also given out to one class in each level which has the best Cyber wellness corner.
+
+**(ii) Cyber Wellness Week**  
+
+In commemoration of The Cyber Wellness Week, an assembly talk was showcased by the ICT department for pupils to create awareness on protecting themselves in cyberspace.
