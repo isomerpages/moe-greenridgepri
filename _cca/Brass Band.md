@@ -4,8 +4,7 @@ permalink: /cca/brass-band/
 description: ""
 ---
 # Brass Band
-Brass Band
-----------
+### Brass Band
 
 The GRPS Brass Band embraces the mantra, 'The Show Must Go On'. This is because their musical journey must go on despite the challenges that may have come their way, especially with the onset of COVID-19.  
 
@@ -46,3 +45,7 @@ National Day Celebration (2018 & 2019)
 
 *   Percussion Ensemble (Live Performance)
 *   Brass Ensemble (Recorded Performance)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/Brass1.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/Brass2.jpg)
