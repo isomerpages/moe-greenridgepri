@@ -13,23 +13,18 @@ In Netball @ GRPS, we aim to develop resilient, committed and discipline players
 Besides training our netballers to meet the physical requirements of the game, they are also educated on the Olympic Values of Friendship, Respect & Excellence which seek to develop positive attitudes and 21st Century Competencies.  
   
 Lastly, we hope to use Netball as a platform to nurture mental strength, team spirit and sportsmanship in every player.  
-  
-  
 
-**Teachers in Charge**
+<b><u>Teachers in Charge</u></b>
 
 *   Ms Loh Shi Ting
 *   Mdm Isnani Norasiken Binte Mohamed Ali 
 *   Ms Ng Siew Qing  
-    
 
-**Days of Training**
+<b><u>Days of Training</u></b>
 
 Monday/Thursday: 3.30 p.m. – 5.30 p.m
 
-  
-
-**Netball in GRPS**
+<b><u>Netball in GRPS</u></b>
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Netball/netball%201.jpg)
 
