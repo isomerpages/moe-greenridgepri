@@ -25,3 +25,5 @@ Our basketball boys who have excelled were talent scouted by secondary schools a
 West Zone Basketball Tournament (2nd in position) (Feb – April 2013)  
 Children’s Day Celebration  
 Chinese New Year Celebration
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Basketball/BSKball.jpg)
