@@ -4,6 +4,8 @@ permalink: /departments/PE-CCA-and-Aesthetics/pe-resources/
 description: ""
 third_nav_title: PE, CCA and Aesthetics
 ---
+
+# Upload all 6 videos to youtube
 # PE Resources
 
 ### NAPFA Station Videos
@@ -14,4 +16,3 @@ third_nav_title: PE, CCA and Aesthetics
 4) Inclined Pull Ups
 5) Shuttle Run
 6) 1.6 Km Run
-
