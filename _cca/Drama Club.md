@@ -36,6 +36,12 @@ Thursdays, 3.30 pm to 5.30 pm
 *   Critical Thinking
 *   Creativity
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Drama%20Club/DC1.jpg)
+<figure>
+	<img src="/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Drama%20Club/DC1.jpg">
+<figcaption>
+	<strong> Collaborating with Secondary School friends for Drama Lesson <br>
+(Feb 2019, before COVID-19 SMM was implemented). </strong>
+	</figcaption>
+</figure>
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Drama%20Club/DC2.jpg)
