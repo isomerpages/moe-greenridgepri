@@ -5,6 +5,6 @@ description: ""
 ---
 # Staff
 
-<b>MOE Service Excellence Award 2021</b>
+<p style="text-align: center;"><b>MOE Service Excellence Award 2021</b></p>
 
-<u><b>Gold</b></u>
+<p style="text-align: center;"><u><b>Gold</b></u></p>
