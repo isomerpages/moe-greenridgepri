@@ -37,8 +37,7 @@ We will be doing activities such as the following:
 
   
   
-**CCA Schedule  
-**  
+### CCA Schedule
 
 **Day**: Thursdays  
 **Time**: 3.30 pm to 5.30 pm **Venue**: Media Resource Library (Olympia Block, 3rd level)  
