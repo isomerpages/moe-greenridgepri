@@ -23,7 +23,7 @@ Overview:
 |  Primary 5 | Collaborative Learning (Composition Writing)<br>• Creating and Sharing Documents on Google Docs<br>• Brainstorming of Ideas<br>• Peer Editing                                     |
 | Primary 6  | Animation (Post PSLE)<br>• Understanding the Basics of Animation<br>• Creating An Animation Clip            |
 
-**Students in Action**
+### **Students in Action**
 
 **Maths and Science Week @ GRPS**
 
