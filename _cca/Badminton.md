@@ -22,3 +22,5 @@ Mdm Chua Sze Ying
 Mdm G. Jayhindy  
 Mdm Kong Kit Ling  
 Ms Serene Lee
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Badminton/Bdminton2022.jpeg)
