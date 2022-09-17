@@ -16,7 +16,7 @@ To promote responsible use of ICT tools among school population
 Theme by Level
 
 | Level |                 Theme                 |    Topics                      |                        Lesson Integration               |
-|:-----:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
+|-----|-------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | P1    | Cyber Safety        | Danger of cyber contacts          | ICT Enrichment, FTGP                     |
 | P2    | Netiquette            | Having good manners online<br>                                                         | ICT Enrichment, FTGP                                                 |
 | P3    | Cyber Safety                          | Stay safe in cyberworld<br>                                                                            | ICT Enrichment, FTGP                                                 |
