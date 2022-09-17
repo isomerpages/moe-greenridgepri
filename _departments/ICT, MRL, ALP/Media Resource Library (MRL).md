@@ -69,3 +69,13 @@ Our focus for Reading Fest will revolve around different genres of books, local 
 Every month, our librarian would prepare book displays and activities linked to different exciting topics or themes e.g. Chinese New Year, Know Your Library, Get to Know OPAC, Books to Movies, Racial Harmony Day, Discovering Genres and etc.  
   
 These book displays help to boost pupils’ interest in the different themes and genres of books and expose them to the new and current collections in the library. The displays also convey meaningful information about the topics/themes.
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/Display1.jpg)
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLDisplay3.jpg)
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLDisplay4.jpg)
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLDisplay5.jpg)
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLDisplay6.jpg)
