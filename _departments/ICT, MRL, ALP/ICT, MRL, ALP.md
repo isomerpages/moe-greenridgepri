@@ -19,3 +19,17 @@ For students engaged in self-directed learning, there will be:
 *   Ownership of Learning
 *   Management and Monitoring of Own Learning
 *   Extension of Own Learning
+
+![](/images/Departments/ICT,%20MRL,%20ALP/ict.png)
+
+**What is Collaborative Learning (CoL)?**
+
+Collaborative learning (CoL) is where students work in pairs or groups to solve a problem or to achieve a common learning objective (Barkley et al., 2005).
+
+For students engaged in collaborative learning, there will be:
+
+*   Effective Group Processes
+*   Individual and Group Accountability of Learning
+
+
+![](/images/Departments/ICT,%20MRL,%20ALP/ict2.png)
