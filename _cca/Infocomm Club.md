@@ -15,3 +15,9 @@ description: ""
 | When                                | CCA Teachers                                                    |
 |-------------------------------------|-----------------------------------------------------------------|
 | Every Monday<br>3.30 pm to 5.30 pm  | Mrs Wong-Lee Biwei<br>Mdm Kamisah<br>Ms Loshini<br>Mdm Rasyidah |
+
+### Highlights of Activities:
+
+|                  |                                                    |
+|------------------|----------------------------------------------------|
+| Term 1 to Term 4 | Game Developer Jr (Intermediate) using Scratch 3.0 |
