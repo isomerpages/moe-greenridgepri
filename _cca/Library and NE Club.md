@@ -73,5 +73,7 @@ Mdm Hasrinah Mohd Hussain & Mrs Vivian Huen
 |---|---|---|
 |![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9f.jpg)   | ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9g.jpg)  | ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/9h.jpg)  |
 
+**3.**    **Co-planning school library events – NLB Book Talks, Mass Book Borrowing**
+
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/9i.jpg) 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/9j.jpg) 
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/9j.jpg)
