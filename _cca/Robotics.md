@@ -24,3 +24,5 @@ Constructionism is the key in this powerful learning environment where students 
 #### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
 
 <p style="text-align: center;"><b>Robots Engaging in Tug of War. Team competition.</b></p>
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide4.jpg)
