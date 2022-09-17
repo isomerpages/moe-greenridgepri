@@ -27,16 +27,32 @@ Our big team of artists.
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_2.jpg)
 
+Awe-inspiring paper tapestry.
+
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_3.jpg)
+
+Expression through visual art.
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_4.jpg)
 
+Our talented artists.
+
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_5.jpg)
+
+Portraiture with a twist.
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_6.jpg)
 
+Rainbow illustration.
+
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_7.jpg)
+
+Receiving patient guidance.
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_8.jpg)
 
+Staging an art competition entry.
+
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_9.jpg)
+
+Talented Artists Programme (TAP) ideas generation.
