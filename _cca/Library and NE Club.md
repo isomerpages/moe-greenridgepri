@@ -42,7 +42,7 @@ We will be doing activities such as the following:
 **Day**: Thursdays  
 **Time**: 3.30 pm to 5.30 pm **Venue**: Media Resource Library (Olympia Block, 3rd level)  
   
-**CCA Teachers**
+### CCA Teachers
 
 Mdm Hasrinah Mohd Hussain & Mrs Vivian Huen  
 
