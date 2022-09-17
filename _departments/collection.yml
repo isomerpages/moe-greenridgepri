@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - ICT, MRL, ALP/ICT, MRL, ALP.md
-      - ICT, MRL, ALP/.keep
       - Departments.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
@@ -58,5 +56,7 @@ collections:
       - PE, CCA and Aesthetics/PAL @ GRPS.md
       - PE, CCA and Aesthetics/PE Resources.md
       - PE, CCA and Aesthetics/CCA.md
+      - ICT, MRL, ALP/.keep
+      - ICT, MRL, ALP/ICT, MRL, ALP.md
       - Teaching & Learning Framework/.keep
       - Teaching & Learning Framework/Teaching and Learning Framework.md
