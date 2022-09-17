@@ -58,6 +58,6 @@ They can also read and write book reviews, look out for book recommendations and
 
 **4.** **LIBRARY PROGRAMMES**
 
-**Reading**
+<b><u>Reading</u></b>
 
 Our focus for Reading Fest will revolve around different genres of books, local writers, values and library skills. Students work in groups to read for information and will be involved in various activities like quizzes, crossword puzzles, book hunt, etc. There will also be SLS lessons assigned to all students during Reading Fests.
