@@ -28,3 +28,33 @@ description: ""
 <p style="text-align: center;"><i>*Please refer to our termly consent forms via PG for confirmed dates and mode of CCA.</i></p>
 
 <b><u>Equipment</u></b>
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">Hockey Stick</th>
+    <th rowspan="3" style="text-align: center;">Provided</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Shin Pads</th>
+  </tr>
+  <tr>
+    <th style="text-align: center;">Hockey Ball</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">Long Socks or School Socks</td>
+    <td rowspan="4" style="text-align: center;">Students to bring their own</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Sports Shoes or School Shoes</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Water Bottle</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Face Towel</td>
+  </tr>
+</tbody>
+</table>
