@@ -63,3 +63,9 @@ We wish to congratulate our ICT Manager, Mr. Muhammad Zulhelmy, for being awarde
 <p style="text-align: center;"><b>Staff Platinum Award</b></p>
 
 The Staff Platinum Award is a school based award bestowed upon our school staff, by fellow Greenridge staff. It is a platform to recognise and affirm our staff who best embody and display the GRPS values. We would like to congratulate the 2019 Staff Platinum Award recipients.
+
+| <u><b>Most Gracious Staff</b></u>   | <u><b>Most Responsible Staff</b></u>  | <u><b>Most Public-spirited Staff</b></u>   |
+|-------------------------------|----------------------------------|------------------------------|
+| <br>#<br>NOR UMNIYATI BTE ALI | #<br>ROHAINI BTE YAHYA           | #<br>ANG LOR NAH             |
+| #<br>ANG HIM LUI              | #<br>FARAH FILZA BTE MUHD RAJAIE | # <br>TAN SWEE LENG SHARON   |
+| #<br>LEK SOI MOI SALLY        | #<br>SIM SIOK HOON               | # <br>MUHD KHAIRON BIN YUNUS |
