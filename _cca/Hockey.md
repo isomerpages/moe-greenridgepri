@@ -21,7 +21,7 @@ description: ""
 <b><u>CCA Schedule</u></b>
 
 | Day / Time                 | Venue                 | Mode of CCA        |
-|----------------------------|-----------------------|--------------------|
+|:----------------------------:|:-----------------------:|:--------------------:|
 | Mondays, 3.30 pm – 5.30 pm | Parade Square / Field | Face-to-Face (F2F) |
 | Mondays, 3.30 pm – 5.00 pm | Zoom @ Home           | E-CCA (Online)     |
 
