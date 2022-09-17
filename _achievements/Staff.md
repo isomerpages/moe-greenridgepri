@@ -120,3 +120,19 @@ Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our 
 
 
 <img src="/images/Achievements/Staff/c1.jpg" style="width:30%">
+
+<p style="text-align: center;"><b>**Caring Teacher Awards 2016**</b></p>
+
+<p style="text-align: center;">Miss Shimmie Ramachandran (Silver)<br>Miss Junainah Binte Sadar (Silver))<br>Miss Noorhayati Bte Mahmood Khan@ Yats Khan (Silver))<br>Mr Muhammad Irsadi Bin Munaris (Silver))<br>Ms Sim Siok Hoon (Silver))<br>Ms Nor Umniyati Binte Ali (Silver))<br>Mdm Siti Maimunah Binte Wahub (Silver))<br>Mdm Rohaini bte Yahya (Silver))<br>Mr Ramli B Md Said (Silver)</p>
+
+Mdm Ang Lor Nah
+
+Ms Cheok Tze Mei
+
+Mdm Jayarani Selvaraju
+
+Ms Low Li Lian
+
+Ms Tan Swee Leng Sharon
+
+<p style="text-align: justify;">Awarded by NIE, the Caring Teacher Award (CTA) pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners.</p>
