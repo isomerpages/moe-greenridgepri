@@ -1,4 +1,5 @@
 collections:
   west-zone-coe-for-cce:
     output: true
-    order: []
+    order:
+      - West Zone COE for CCE.md
