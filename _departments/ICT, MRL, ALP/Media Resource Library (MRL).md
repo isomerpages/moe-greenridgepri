@@ -18,4 +18,10 @@ We have put in place, structures and initiatives to foster a strong reading cult
 
 **1\. LAUNCH OF ‘THE BOOK LOFT’ (MINI LIBRARY) AND READING CORNER**  
 
-In line with our mission to promote a strong reading culture in GRPS, the English Department has created a ‘Book Loft’ at the ground floor of our school. It is at an accessible location, just behind the canteen, where all students will find it convenient to read and borrow books. The Book Loft can house up to 2500 English and Mother Tongue (Fiction and Non-Fiction) books and magazines. There is also a separate reading corner, built near the parade square, furnished with books, magazines and newspapers for students to read at their own leisure. Please see pictures below:
+<p style="text-align: justify;">In line with our mission to promote a strong reading culture in GRPS, the English Department has created a ‘Book Loft’ at the ground floor of our school. It is at an accessible location, just behind the canteen, where all students will find it convenient to read and borrow books. The Book Loft can house up to 2500 English and Mother Tongue (Fiction and Non-Fiction) books and magazines. There is also a separate reading corner, built near the parade square, furnished with books, magazines and newspapers for students to read at their own leisure. Please see pictures below:</p>
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/BookLoft.jpg)
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/Insidebookloft.jpg)
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/ReadingCorner.jpg)
