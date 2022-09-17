@@ -51,6 +51,10 @@ Mdm Hasrinah Mohd Hussain & Mrs Vivian Huen
 
 **1.**   **Book Displays set up by the CCA Students**
 
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
+**2.   Planning and conducting annual Reading Fests**
+
 |   |   |
 |---|---|
 |   |   |
