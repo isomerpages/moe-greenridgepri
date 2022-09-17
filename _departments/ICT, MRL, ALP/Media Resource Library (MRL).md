@@ -81,3 +81,9 @@ These book displays help to boost pupils’ interest in the different themes and
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLDisplay6.jpg)
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLDisplay7.jpg)
+
+<b><u>6. Movie Screenings</u></b>
+
+Books do come alive in movies. Watching movies adapted based on popular books is a great way to have a glimpse into the world of the great writers. These movies also create a lot of curiosity in the children, resulting in them picking up the related books and read them in details. So far, we have an overwhelming response for the movie screenings and around 60 pupils usually join us for movie screenings.
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLScreening.jpg)
