@@ -62,3 +62,27 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<b><u>Links</u></b>
+
+For more information on Hockey in Singapore, please refer to the following links.
+
+*   Singapore Hockey Federation: [https://www.singaporehockey.org/](https://www.singaporehockey.org/)  
+      
+    
+*   ActiveSG Hockey: [https://www.myactivesg.com/sports/hockey](https://www.myactivesg.com/sports/hockey)  
+      
+    
+
+For a better idea of the skills students will be learning during CCA, here are some videos to get you started on your Hockey journey, courtesy of ActiveSG Hockey Academy (AHA).
+
+*   [AHA Home Based Training Mini Episode 3 – 3D Skills](https://www.youtube.com/watch?v=hhz2Qy6AmRo&list=PL1YGXUQ8-dZOW9pmSxUDNFVEgKsshK-wa&index=4)  
+      
+    
+*   [AHA Home Based Training Mini Episode 5 - Agility Exercise incorporated with stick work](https://www.youtube.com/watch?v=bHkcqU6k9Ek&list=PL1YGXUQ8-dZOW9pmSxUDNFVEgKsshK-wa&index=7)  
+      
+    
+*   [AHA Home Based Training Mini Episode 6 - Ball Control (Pull) Skills](https://www.youtube.com/watch?v=pnrwADFGIfE&list=PL1YGXUQ8-dZOW9pmSxUDNFVEgKsshK-wa&index=7)  
+      
+    
+*   [AHA Home Based Training Mini Episode 13 - V Drags with Agility Exercises](https://www.youtube.com/watch?v=BpZCjJobw34&list=PL1YGXUQ8-dZOW9pmSxUDNFVEgKsshK-wa&index=14)
