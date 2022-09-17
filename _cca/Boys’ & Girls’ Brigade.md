@@ -88,3 +88,5 @@ Other Badges Boys can achieve:
 5.   Junior Leadership Training Camp (P5 Girls only)  
 6.   Fast Food and Fuzz Camp (P4 Girls only)  
 7.   Combined Annual Camp
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
