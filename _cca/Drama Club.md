@@ -7,7 +7,7 @@ description: ""
 ### Introduction
 
 <p style="text-align: center;"><i>“All the world’s a stage,  
-**And all the men and women merely players:  
-**_**_They have their exits and their entrances; …”  
-_**_  
-	William Shakespeare_</i></p>
+And all the men and women merely players:  
+They have their exits and their entrances; …”  
+  
+	William Shakespeare</i></p>
