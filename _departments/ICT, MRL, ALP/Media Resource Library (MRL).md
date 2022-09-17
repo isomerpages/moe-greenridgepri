@@ -108,3 +108,9 @@ The School eResource Repository (SERR) is a virtual school library. It aims to p
 **8\. OTHER INFORMATION ABOUT THE SCHOOL LIBRARY**
 
 <b><u>LIBRARY HOURS</u></b>
+
+|                        |                       |
+|:----------------------:|:---------------------:|
+|   Monday to Thursday   | 7.45 a.m. – 4.30 p.m. |
+|         Friday         | 7.45 a.m. – 4.00 p.m. |
+| Closed for lunch break |   1.30 p.m. - 2 p.m.  |
