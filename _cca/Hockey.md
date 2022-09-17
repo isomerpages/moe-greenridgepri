@@ -32,17 +32,21 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th style="text-align: center;">Hockey Stick</th>
-    <th rowspan="3" style="text-align: center;">Provided</th>
-  </tr>
-  <tr>
-    <th style="text-align: center;">Shin Pads</th>
-  </tr>
-  <tr>
-    <th style="text-align: center;">Hockey Ball</th>
+    <th></th>
+    <th></th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td style="text-align: center;">Hockey Stick</td>
+    <td rowspan="3" style="text-align: center;">Provided</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Shin Pads</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Hockey Ball</td>
+  </tr>
   <tr>
     <td style="text-align: center;">Long Socks or School Socks</td>
     <td rowspan="4" style="text-align: center;">Students to bring their own</td>
