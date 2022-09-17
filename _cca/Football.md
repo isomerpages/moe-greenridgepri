@@ -15,3 +15,5 @@ We believe that the engagement in football will teach our boys more than the rul
 Besides regular trainings, we organise friendly matches as well as ViA (Values-in-Action) experiences so that our boys will strive to become effective team players and influential leaders who exemplify integrity, discipline and true sportsmanship.
 
 <p style="text-align: center;"><u><b>Pics montage</b></u></p>
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
