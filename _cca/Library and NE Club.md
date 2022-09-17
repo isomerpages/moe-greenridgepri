@@ -18,7 +18,7 @@ At the Library and NE Club, we warmly welcome all book enthusiasts who would lov
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl3.jpg)
 
-**Main Activities and Duties**
+### Main Activities and Duties
 
 We will be doing activities such as the following:
 
