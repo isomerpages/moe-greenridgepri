@@ -10,7 +10,7 @@ Chinese Dance CCA inculcates students’ love for Chinese dance and culture thro
 Our Chinese dance members have participated in the biennial Singapore Youth Festival (SYF) in 2016 and 2018, and had done our school proud by clinching the Certificate of Accomplishment.
 
 |                     |                   |
-|:-------------------:|:-------------------------------------------------------------------------:|
+|:-------------------:|-------------------------------------------------------------------------|
 | Teachers in charge: | Mdm Li Hong Ying<br>Mdm Zhang Weihua                                      |
 |     Date & Time:    | Tuesday<br>3.30 - 5.30pm (Face-to-face training)<br>3.30 - 5.00pm (E-CCA) |
 |        Venue:       | Dance Studio at ISH, 2nd floor                                            |
