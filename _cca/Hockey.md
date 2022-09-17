@@ -19,3 +19,6 @@ description: ""
 | Mr Prabu Selvaraj     |
 
 <b><u>CCA Schedule</u></b>
+
+
+<b><u>Equipment</u></b>
