@@ -36,3 +36,7 @@ Constructionism is the key in this powerful learning environment where students 
 <p style="text-align: justify;">On 24th July 2020, our students participated in the First Lego League 2020 jointly organised by Information Development Authority, Building and Construction Authority, Lego Education, Rockwell Automation and Duck Learning. Our students had done us proud by clinching 2nd place in Core Value – Teamwork.</p>
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide1%20(1).jpg)
+
+<p style="text-align: justify;">Our school had participated in the 13th National Robotics Programming Competition 2019 jointly organised by Nanyang Polytechnic and Admiralty Secondary School on 7th June 2019. We won 1st place in the Technical Presentation segment.</p>
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slides2.jpg)
