@@ -123,3 +123,14 @@ An Ezlink card (with photo) or a photocopy of it is needed to borrow school libr
 <b><u>OVERDUE OR LOST BOOKS</u></b>
 
 Every student should be responsible for the books that they have borrowed. All books should be returned to the library before the due date. Reminder slips will be given if overdue books are not returned. Books that are lost must be reported immediately to the librarian and be replaced with a new book (can be of a different title that is suitable for Primary school students) of around $10. A receipt must be attached to the book for record purposes.
+
+
+### Reading Fest 2019
+
+This year, the MRL department carried out a very exciting Reading Fest event in our school. The various activities ran concurrently in the Media Resource Library (MRL) and the Quiet Zone. Many booths were set up in the Quiet Zone, housing activities like, ‘Make your own Tiny Book’, ‘Book Hunt - Bingo’, ‘Book Swop’, ‘Quiz Whiz – Nat Geo Weird But True!’, ‘Colour your Bookmark,’ ‘Popular Genres’ and many more!
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/Reading%20Fest%202019/MRLReadingFest1.jpg)
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/Reading%20Fest%202019/MRLReadingFest2.jpg)
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/Reading%20Fest%202019/MRLReadingFest3.jpg)
