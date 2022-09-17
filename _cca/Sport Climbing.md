@@ -22,3 +22,8 @@ In 2019, our climbers had the opportunity to participate in the annual National 
 *   Mr Lee Wei Yang
 *   Ms Siti Sarhana
 *   Mdm Syahiratul Wathiqah
+
+|                     | Training Days  | Time             | Venue                                   |
+|---------------------|----------------|------------------|-----------------------------------------|
+| Competition Team    | Every Monday   | 3.30pm - 5.30pm  | Greenridge Primary<br> School Rock Wall |
+|  Recreational Team  | Every Tuesday  | 3.30pm - 5.30pm  |  Greenridge Primary<br>School Rock Wall |
