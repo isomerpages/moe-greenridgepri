@@ -23,13 +23,10 @@ Starting from this early development stages, Cub Scouts will aim to earn a serie
 
 The Cub Scouts Section Training Scheme is divided into 3 progress badges and a highest award:
 
-• Bronze Arrow
-
-• Silver Arrow
-
-• Gold Arrow
-
-• Akela Award
+* Bronze Arrow
+* Silver Arrow
+* Gold Arrow
+* Akela Award
 
 Each progress badge comprises tests for Citizenship, Leadership and Responsibility, Physical Skills, Self-Reliance, Adventure and Fun.
 
