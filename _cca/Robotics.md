@@ -40,3 +40,9 @@ Constructionism is the key in this powerful learning environment where students 
 <p style="text-align: justify;">Our school had participated in the 13th National Robotics Programming Competition 2019 jointly organised by Nanyang Polytechnic and Admiralty Secondary School on 7th June 2019. We won 1st place in the Technical Presentation segment.</p>
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slides2.jpg)
+
+### Highlight of Activities
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide3.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide4%20(1).jpg)
