@@ -90,9 +90,9 @@ Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our 
 <p style="text-align: center;"><u><b>Commendation Medal</b></u></p>
 
 <figure>
-	<img src="/images/Achievements/Staff/Mr%20Arivalagan%20S_o%20Rajangam.jpg"
+	<img src="/images/Achievements/Staff/Ms%20Ong%20Ai%20Leng.jpg"
      style="width:30%">
 <figcaption>
-	Mr Arivalagan
+	Ms Ong Ai Leng
 	</figcaption>
 </figure>
