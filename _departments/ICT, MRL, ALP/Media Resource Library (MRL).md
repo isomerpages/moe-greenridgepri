@@ -45,8 +45,7 @@ To enable your child / ward to borrow the books during the NLB Mass Borrowing se
 
 Computers are available in the library for students to use for their school work and projects. They can also use the computers to access OPAC (Online Public Access Catalogue) to search for the availability of the books in the school libraries and check if they have any overdue books.  
   
-They can also read and write book reviews, look out for book recommendations and find out more information about the books they are interested in. OPAC can be accessed from home too:
-
+They can also read and write book reviews, look out for book recommendations and find out more information about the books they are interested in. OPAC can be accessed from home too:   
 <a href="https://schoolibrary.moe.edu.sg/greenridgepri" target="_blank">https://schoolibrary.moe.edu.sg/greenridgepri</a>
 
 
