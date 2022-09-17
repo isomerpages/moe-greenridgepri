@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Netball.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
@@ -23,3 +22,4 @@ collections:
       - Infocomm Club.md
       - Library and NE Club.md
       - Malay Dance.md
+      - Netball.md
