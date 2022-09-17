@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Sport Climbing.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
@@ -26,3 +25,4 @@ collections:
       - Netball.md
       - Robotics.md
       - Science Club.md
+      - Sport Climbing.md
