@@ -121,7 +121,7 @@ Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our 
 
 <img src="/images/Achievements/Staff/c1.jpg" style="width:30%">
 
-<p style="text-align: center;"><b>**Caring Teacher Awards 2016**</b></p>
+<p style="text-align: center;"><b>Caring Teacher Awards 2016</b></p>
 
 <p style="text-align: center;">Mdm Ang Lor Nah<br>Ms Cheok Tze Mei<br>Mdm Jayarani Selvaraju<br>Ms Low Li Lian<br>Ms Tan Swee Leng Sharon</p>
 
