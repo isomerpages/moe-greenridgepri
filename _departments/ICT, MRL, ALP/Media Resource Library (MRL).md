@@ -34,7 +34,7 @@ We have put in place, structures and initiatives to foster a strong reading cult
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/BookTalk.jpg)
 
-**Mass Borrowing** \- Usually the book talks will be followed by the NLB mass borrowing programme. NLB will bring thousands of their books to our school and all our students will have the opportunity to borrow the books without the need to travel to any of the NLB libraries.  
+<u><b>Mass Borrowing</b></u> \- Usually the book talks will be followed by the NLB mass borrowing programme. NLB will bring thousands of their books to our school and all our students will have the opportunity to borrow the books without the need to travel to any of the NLB libraries.  
 To enable your child / ward to borrow the books during the NLB Mass Borrowing sessions, we would need the support of the parents to ensure that your child brings the **Student Concession Card** i.e. **Ezlink Card (with photo)** or **NLB library card** during the scheduled Mass Borrowing dates to school.
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MassBorrowing.jpg)
