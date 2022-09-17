@@ -6,15 +6,15 @@ description: ""
 # Brass Band
 ### Brass Band
 
-The GRPS Brass Band embraces the mantra, 'The Show Must Go On'. This is because their musical journey must go on despite the challenges that may have come their way, especially with the onset of COVID-19.  
+<p style="text-align: justify;">The GRPS Brass Band embraces the mantra, 'The Show Must Go On'. This is because their musical journey must go on despite the challenges that may have come their way, especially with the onset of COVID-19.  </p>
 
-The members have been putting their heart and soul in learning new songs to perform live or virtually during events like the Annual Speech and Prize Giving Day, National Day Celebrations and Singapore Youth Festival Arts Presentations.
+<p style="text-align: justify;">The members have been putting their heart and soul in learning new songs to perform live or virtually during events like the Annual Speech and Prize Giving Day, National Day Celebrations and Singapore Youth Festival Arts Presentations.</p>
 
-Music-making in an ensemble setting as in a brass band promotes collaboration amongst the members and it also enhances their listening skills. This takes place all the time as the members listen to one another and play together as one.
+<p style="text-align: justify;">Music-making in an ensemble setting as in a brass band promotes collaboration amongst the members and it also enhances their listening skills. This takes place all the time as the members listen to one another and play together as one.</p>
 
-In our band, the members will be moulded to become more disciplined students who are responsible for their own learning. For example, under the guidance of the instructors, the senior members take on prominent leadership roles as they guide the junior members in reading music and learning the different playing techniques.
+<p style="text-align: justify;">In our band, the members will be moulded to become more disciplined students who are responsible for their own learning. For example, under the guidance of the instructors, the senior members take on prominent leadership roles as they guide the junior members in reading music and learning the different playing techniques.</p>
 
-GRPS Brass Band welcome students who have never picked up an instrument before and even those with no music background. This however, does not hamper our band members from graduating from GRPS as confident musicians and well-rounded individuals.
+<p style="text-align: justify;">GRPS Brass Band welcome students who have never picked up an instrument before and even those with no music background. This however, does not hamper our band members from graduating from GRPS as confident musicians and well-rounded individuals.</p>
 
 **Highlights of Activities**
 
