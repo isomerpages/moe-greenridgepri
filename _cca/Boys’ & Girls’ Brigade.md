@@ -56,7 +56,7 @@ Other Badges Boys can achieve:
     <td>Thursday</td>
     <td>3.30 pm – 5.30 pm</td>
     <td>SBB Room (1)</td>
-    <td rowspan="2">Ms Ong Siew Ling<br>Mrs Florence Lim<br>Mdm Chan Siew Woon<br>Advisor: Mr Yeo Wi Kiat</td>
+    <td rowspan="2"  style="text-align: center;">Ms Ong Siew Ling<br>Mrs Florence Lim<br>Mdm Chan Siew Woon<br>Advisor: Mr Yeo Wi Kiat</td>
   </tr>
   <tr>
     <td>Saturday*</td>
