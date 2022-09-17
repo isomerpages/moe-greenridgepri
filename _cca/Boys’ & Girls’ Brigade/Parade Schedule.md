@@ -47,7 +47,7 @@ third_nav_title: Boys’ & Girls’ Brigade
   <tr>
     <td style="text-align: center;">1</td>
     <td style="text-align: center;">10-Jan</td>
-    <td colspan="4" style="text-align: center;">No Parade</td>
+		<td colspan="4" style="text-align: center;"><b>No Parade</b></td>
   </tr>
   <tr>
     <td style="text-align: center;">2</td>
@@ -86,7 +86,7 @@ third_nav_title: Boys’ & Girls’ Brigade
   <tr>
     <td style="text-align: center;">7</td>
     <td style="text-align: center;">21 Feb</td>
-    <td colspan="4" style="text-align: center;">No Parade – Chinese Lunar New Year</td>
+		<td colspan="4" style="text-align: center;"><b>No Parade – Chinese Lunar New Year</b></td>
   </tr>
   <tr>
     <td style="text-align: center;">8</td>
@@ -98,7 +98,7 @@ third_nav_title: Boys’ & Girls’ Brigade
   <tr>
     <td style="text-align: center;">9</td>
     <td style="text-align: center;">7-Mar</td>
-    <td colspan="4" style="text-align: center;">No Parade – CA1</td>
+		<td colspan="4" style="text-align: center;"><b>No Parade – CA1</b></td>
   </tr>
   <tr>
     <td style="text-align: center;">10</td>
