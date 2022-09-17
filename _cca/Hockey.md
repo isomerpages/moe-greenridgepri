@@ -10,6 +10,11 @@ description: ""
 
 <p style="text-align: justify;">Students are also educated in the values of Sportsmanship and Excellence through opportunities such as friendly matches, competitions and VIA (Values-In-Action) experiences. We hope to inculcate passion and love for this beautiful game through our CCA!</p>
 
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Hockey/Hockey%201.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Hockey/Hockey%202.jpg)
+
+
 <b><u>CCA Teachers</u></b>
 
 |                       |
