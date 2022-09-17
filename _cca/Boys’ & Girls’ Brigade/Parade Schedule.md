@@ -30,3 +30,5 @@ third_nav_title: Boys’ & Girls’ Brigade
   </tr>
 </tbody>
 </table>
+
+\*Saturdays are alternate or for special events.
