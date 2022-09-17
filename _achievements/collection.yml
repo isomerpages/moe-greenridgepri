@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Staff.md
       - Achievements.md
       - Students/.keep
       - Students/Students.md
@@ -12,3 +11,4 @@ collections:
       - Students/2016.md
       - Students/2015.md
       - Students/2014.md
+      - Staff.md
