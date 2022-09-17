@@ -7,7 +7,7 @@ description: ""
 
 ### Time Trekker Base Camp
 
-<img src="images/West%20Zone%20COE%20for%20CCE/time_trekker.jpg"
+<img src="/images/West%20Zone%20COE%20for%20CCE/time_trekker.jpg"
      style="width:40%; float:right">
 
 <p style="text-align: justify;">The Time Trekker Base Camp began life as the W5 Cluster NE Hub when it was officially launched on 21 July 2004 by Mr Yang Che Kay, our Cluster Superintendent. The NE Hub was conceived as a centre for NE activities and resources for the 13 schools in the cluster, a purpose which it had served well over the last two years.</p>
