@@ -2,7 +2,7 @@ collections:
   west-zone-coe-for-cce:
     output: true
     order:
-      - Links to NE Resources.md
       - West Zone COE for CCE.md
       - Professional Development for Staff for 2021.md
       - Time Trekker.md
+      - Links to NE Resources.md
