@@ -7,11 +7,7 @@ description: ""
 
 ### The Scout Law
 
-A Scout is to be trusted  
-A Scout is loyal  
-A Scout makes friends, establishes and maintains harmonious relations  
-A Scout is disciplined and considerate  
-A Scout has courage in all difficulties
+<p style="text-align: center;">A Scout is to be trusted<br>A Scout is loyal<br>A Scout makes friends, establishes and maintains harmonious relations<br>A Scout is disciplined and considerate<br>A Scout has courage in all difficulties</p>
 
 ### Introduction
 
