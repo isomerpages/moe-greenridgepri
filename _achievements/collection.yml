@@ -2,6 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Students/Students.md
-      - Students/.keep
       - Achievements.md
+      - Students/.keep
+      - Students/Students.md
