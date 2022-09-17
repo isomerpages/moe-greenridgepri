@@ -21,3 +21,8 @@ description: ""
 <p style="text-align: justify;">Consistent with the Time Trekker theme, the NE Hub was relaunched as the Time Trekker Base Camp, the point from which children can embark on their adventures and draw their resources.</p>
 
 <p style="text-align: justify;">The Time Trekker Base Camp was officially opened by Mr Liang Eng Hwa, MP for Holland-Bukit Timah GRC and Mrs Susan Chan, Deputy Director for Schools (West) on 16 November 2006. The Time Trekker Funpack was also introduced to our guests on that auspicious occasion.</p>
+
+|   |   |
+|---|---|
+|  ![](/images/West%20Zone%20COE%20for%20CCE/p1100604.jpg) | ![](/images/West%20Zone%20COE%20for%20CCE/p1100608.jpg)  |
+|![](/images/West%20Zone%20COE%20for%20CCE/p1100616.jpg)   | ![](/images/West%20Zone%20COE%20for%20CCE/p1100615.jpg)  |
