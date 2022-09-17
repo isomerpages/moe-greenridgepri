@@ -13,7 +13,7 @@ description: ""
 <b><u>CCA Teachers</u></b>
 
 |                       |
-|-----------------------|
+|:-----------------------:|
 | Miss Jerris Cheok     |
 | Mr Jegan Balakrishnah |
 | Mr Prabu Selvaraj     |
