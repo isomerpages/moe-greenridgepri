@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT, MRL, ALP/.keep
       - Departments.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
