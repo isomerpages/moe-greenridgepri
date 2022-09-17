@@ -2,5 +2,5 @@ collections:
   west-zone-coe-for-cce:
     output: true
     order:
-      - Professional Development for Staff for 2021.md
       - West Zone COE for CCE.md
+      - Professional Development for Staff for 2021.md
