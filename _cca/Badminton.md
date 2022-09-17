@@ -6,7 +6,7 @@ description: ""
 # Badminton
 At Greenridge Primary School Badminton CCA, our main purpose is to encourage our pupils to develop a love and passion for the game. Through the training, pupils will develop tough physical and mental strength to overcome any challenges with resilience and fighting spirit.
 
-Description of CCA Activities:  
+### Description of CCA Activities:  
 
 Each badminton session includes:
 
@@ -15,9 +15,8 @@ Footwork
 Strokes  
 Games
 
-Teachers in Charge:  
+### Teachers in Charge:  
   
-
 Mr Chua Teck Yong  
 Mdm Chua Sze Ying  
 Mdm G. Jayhindy  
