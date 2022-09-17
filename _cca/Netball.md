@@ -6,13 +6,13 @@ description: ""
 # Netball
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Netball/netball.png)
 
-Netball is a sport that trains agility, speed and endurance. Netball has been identified as a niche CCA in GRPS due to its achievements over the years and high participation rate.  
+<p style="text-align: justify;">Netball is a sport that trains agility, speed and endurance. Netball has been identified as a niche CCA in GRPS due to its achievements over the years and high participation rate.  </p>
   
-In Netball @ GRPS, we aim to develop resilient, committed and discipline players who put in their best at all times.  
+<p style="text-align: justify;">In Netball @ GRPS, we aim to develop resilient, committed and discipline players who put in their best at all times.  </p>
   
-Besides training our netballers to meet the physical requirements of the game, they are also educated on the Olympic Values of Friendship, Respect & Excellence which seek to develop positive attitudes and 21st Century Competencies.  
+<p style="text-align: justify;">Besides training our netballers to meet the physical requirements of the game, they are also educated on the Olympic Values of Friendship, Respect & Excellence which seek to develop positive attitudes and 21st Century Competencies.  </p>
   
-Lastly, we hope to use Netball as a platform to nurture mental strength, team spirit and sportsmanship in every player.  
+<p style="text-align: justify;">Lastly, we hope to use Netball as a platform to nurture mental strength, team spirit and sportsmanship in every player.  </p>
 
 <b><u>Teachers in Charge</u></b>
 
