@@ -79,3 +79,5 @@ These book displays help to boost pupils’ interest in the different themes and
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLDisplay5.jpg)
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLDisplay6.jpg)
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLDisplay7.jpg)
