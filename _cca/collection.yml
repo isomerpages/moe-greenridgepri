@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Football.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
@@ -16,3 +15,4 @@ collections:
       - Brass Band.md
       - Chinese Dance.md
       - Drama Club.md
+      - Football.md
