@@ -29,4 +29,4 @@ third_nav_title: PE, CCA and Aesthetics
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/PAL%20@%20GRPS%20Slide12.jpg)
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/PAL%20@%20GRPS%20Slide13.jpg)
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
