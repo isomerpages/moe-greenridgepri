@@ -66,6 +66,6 @@ The Staff Platinum Award is a school based award bestowed upon our school staff,
 
 | <u><b>Most Gracious Staff</b></u>   | <u><b>Most Responsible Staff</b></u>  | <u><b>Most Public-spirited Staff</b></u>   |
 |-------------------------------|----------------------------------|------------------------------|
-| <br>#<br>NOR UMNIYATI BTE ALI | #<br>ROHAINI BTE YAHYA           | #<br>ANG LOR NAH             |
+| ![](/images/Achievements/Staff/Ms%20Nor%20Umniyati%20Bte%20Ali.jpg)<br>NOR UMNIYATI BTE ALI | ![](/images/Achievements/Staff/Mdm%20Rohaini%20Bte%20Yahya.jpg)<br>ROHAINI BTE YAHYA           | ![](/images/Achievements/Staff/Mdm%20Ang%20Lor%20Nah.jpg)<br>ANG LOR NAH             |
 | #<br>ANG HIM LUI              | #<br>FARAH FILZA BTE MUHD RAJAIE | # <br>TAN SWEE LENG SHARON   |
 | #<br>LEK SOI MOI SALLY        | #<br>SIM SIOK HOON               | # <br>MUHD KHAIRON BIN YUNUS |
