@@ -15,7 +15,7 @@ The classes that win this award, will be etched on a plaque and put up for displ
 <p style="text-align: center;"><u><b>STAR CLASS AWARD WINNERS</b></u></p>
 
 | Level | 2014        | 2015       | 2016       | 2017       | 2018       |
-|-------|-------------|------------|------------|------------|------------|
+|:-------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
 | P1    | 1 Courage   | 1 Patience | 1 Loyalty  | 1 Respect  | 1 Respect  |
 | P2    | 2 Courage   | 2 Humility | 2 Respect  | 2 Courage  | 2 Humility |
 | P3    | 3 Honesty   | 3 Humility | 3 Humility | 3 Respect  | 3 Humility |
