@@ -23,4 +23,12 @@ We wish to congratulate our ICT Manager, Mr. Muhammad Zulhelmy, for being awarde
 
 <p style="text-align: center;"><u><b>Finalist</b></u></p>
 
+<figure>
+	<img src="/images/Achievements/Staff/Alfred.jpg"
+     style="width:30%">
+<figcaption>
+	Mr Zulhelmy
+	</figcaption>
+</figure>
 
+<p style="text-align: justify;">Congratulations to Mr Ong Kian Hock, our Head of Department (ICT), for being a finalist of the President's Award for Teachers (PAT) 2020. The award gives national recognition to the critical role teachers play in moulding the future of our nation. These teachers are caring educators and are committed to developing their students to the fullest potential. They constantly adopt innovative approaches in their lessons, and are lifelong learners and mentors to their peers. Through their words and deeds, these educators are an inspiration to their students and colleagues.</p>
