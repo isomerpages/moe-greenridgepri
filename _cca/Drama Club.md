@@ -35,3 +35,7 @@ Thursdays, 3.30 pm to 5.30 pm
 *   Social
 *   Critical Thinking
 *   Creativity
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Drama%20Club/DC1.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Drama%20Club/DC2.jpg)
