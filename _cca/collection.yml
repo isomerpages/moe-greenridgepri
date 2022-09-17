@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Chinese Dance.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
@@ -14,3 +13,4 @@ collections:
       - Boys’ & Girls’ Brigade/Parade Schedule.md
       - Boys’ & Girls’ Brigade/Highlights.md
       - Brass Band.md
+      - Chinese Dance.md
