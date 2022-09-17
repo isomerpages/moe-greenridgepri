@@ -4,6 +4,8 @@ permalink: /cca/science-club/
 description: ""
 ---
 # Science Club
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
 <b><u>Objectives</u></b>
 
 1\. To encourage and enable students to develop inquiring minds and curiosity about Science and nature.   
