@@ -103,4 +103,4 @@ Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our 
 
 |           |             |        |              |
 |--------------------------------------|-------------------------------------|--------------------------------|----------------------------------|
-| # <br>Mr Mohd Ramdan Bin Mohd Mahpol | <br>#<br>Mdm Florence Ng Yoke Chan  | #<br>Mdm Zuleha Binte Abdullah | #Mdm Shanthi Devi D/O Rangasamy  |
+| ![](/images/Achievements/Staff/Mr%20Mohd%20Ramdan%20%20Bin%20Mohd%20Mahpol.jpg)Mr Mohd Ramdan Bin Mohd Mahpol | ![](/images/Achievements/Staff/Florence.jpg)Mdm Florence Ng Yoke Chan  | ![](/images/Achievements/Staff/Mdm%20Zuleha%20Bte%20Abdullah.jpg)Mdm Zuleha Binte Abdullah | ![](/images/Achievements/Staff/Mdm%20Shanthi%20Devi.jpg)Mdm Shanthi Devi D/O Rangasamy  |
