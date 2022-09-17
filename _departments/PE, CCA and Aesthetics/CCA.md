@@ -23,3 +23,5 @@ third_nav_title: PE, CCA and Aesthetics
 ### [CCA Schedule](/cca/cca-schedule/)
 
 ### [CCA Promotion Video](/cca/cca-promotion-video/)
+
+### [P3 CCA Recruitment Exercise](/cca/P3-CCA-Recruitment-Exercise/)
