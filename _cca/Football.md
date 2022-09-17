@@ -6,7 +6,7 @@ description: ""
 # Football
 <p style="text-align: justify;">The main objective of this CCA is to develop our students’ skills and passion in football with aspirations to become sports leaders with exemplary dispositions; exhibiting good sportsmanship and values of fair play, teamwork and discipline through playing football.</p>
 
-<p style="text-align: justify;">Our GRPS Football teams consist of 3 groups: **Senior** School Team, **Junior** School Team and **Developmental** Team, to improve their individual technical skills, physical conditioning as well as to improve their understanding and appreciation of team play.</p>
+<p style="text-align: justify;">Our GRPS Football teams consist of 3 groups: <b>Senior</b> School Team, <b>Junior</b> School Team and <b>Developmental</b> Team, to improve their individual technical skills, physical conditioning as well as to improve their understanding and appreciation of team play.</p>
 
 <p style="text-align: justify;">Through football, our boys will embark on an enriching experience to develop character and resilience, while building camaraderie with like-minded football enthusiasts.  </p>
 
