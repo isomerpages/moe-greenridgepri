@@ -33,3 +33,8 @@ We have put in place, structures and initiatives to foster a strong reading cult
 <p style="text-align: justify;"><b><u>Book Talk or Book Buzz</u></b> – A librarian from National Library Board (NLB) will give a book talk in the school for the P1-6 students and this book talk covers book recommendations based on a particular theme. Students are able to borrow the books or books of similar genre mentioned during the book talks immediately after the book talks in the school library.</p>
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/BookTalk.jpg)
+
+**Mass Borrowing** \- Usually the book talks will be followed by the NLB mass borrowing programme. NLB will bring thousands of their books to our school and all our students will have the opportunity to borrow the books without the need to travel to any of the NLB libraries.  
+To enable your child / ward to borrow the books during the NLB Mass Borrowing sessions, we would need the support of the parents to ensure that your child brings the **Student Concession Card** i.e. **Ezlink Card (with photo)** or **NLB library card** during the scheduled Mass Borrowing dates to school.
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MassBorrowing.jpg)
