@@ -29,3 +29,13 @@ More information about the app can be found at the Press Release [here](http://
 2.       **NotAnoobie**
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/NotAnoobie.jpg)
+
+The notAnoobie mobile app, developed by SingTel and TOUCH Cyber Wellness, aims to help parents understand and follow cyber-related developments and issues such as gaming, mobile technology and device addiction, social media dos and don’ts, as well as identifying and stopping cyber bullying, inappropriate content online and protecting personal privacy online. The app content includes articles, reviews, success stories, quizzes and daily tips.
+
+With this app, parents can now be armed with the knowledge on-the-go and help educate their children to be responsible digital citizens and look out for possible online dangers.
+
+With the increasing technological divide between parents and children, we hope that this app will allow parents to harness the potential of the cyber world and better connect with their children and help families grow closer with mutual understanding and respect.
+
+A SingTel CSR initiative, the app can be downloaded free from iTunes and Google play stores by mobile users in Singapore on any network.
+
+More information about the app can also be found at the Press Release [here](http://info.singtel.com/about-us/news-releases/singtel-and-touch-launch-singapores-first-cyber-wellness-mobile-app).
