@@ -84,3 +84,15 @@ Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our 
 |                              |                                   |
 |------------------------------|-----------------------------------|
 |  ![](/images/Achievements/Staff/Mdm%20Jayarani%20Selvaraju.jpg)Mdm Jayarani Selvaraju | ![](/images/Achievements/Staff/Mr%20Muhammad%20Khairon%20Bin%20Yunus.jpg)Mr Muhammad Khairon Bin Yunu |
+
+<p style="text-align: center;"><b>National Day Awards 2019</b></p>
+
+<p style="text-align: center;"><u><b>Commendation Medal</b></u></p>
+
+<figure>
+	<img src="/images/Achievements/Staff/Mr%20Arivalagan%20S_o%20Rajangam.jpg"
+     style="width:30%">
+<figcaption>
+	Mr Arivalagan
+	</figcaption>
+</figure>
