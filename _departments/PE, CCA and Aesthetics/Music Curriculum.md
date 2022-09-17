@@ -17,7 +17,7 @@ The learning outcomes in our music lessons are organised around five overarching
  LO4: Appreciate Music in local and global cultures  
  LO5: Understand musical elements and concepts  
   
-**Pedagogies**  
+<u><b>Pedagogies</b></u>   
 In GRPS. pupils are constantly involved aurally and kinaesthetically in the music.  
   
 Teachers consider the musical background of the pupils when designing lessons and selecting music materials to tap on their prior knowledge.  
@@ -28,7 +28,7 @@ The pupils are empowered to be always involved in decision-making during the pro
   
 In a music ensemble, an authentic musical collaboration practice, pupils experience collaboration which music naturally provides the context, and develop collaboration skills.  
   
-**Assessment**  
+<u><b>Assessment</b></u>  
 Music assessments are carried out through a variety of ways to facilitate pupils’ learning. These include listening activities, music performances, improvisation and written assignments.  
   
 While it is not necessary to assess all the learning outcomes in one specific assessment task, all five Learning Objectives are addressed in the course of the year.
