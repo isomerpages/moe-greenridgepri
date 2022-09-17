@@ -40,3 +40,4 @@ Other Badges Boys can achieve:
 
 ### Parade Schedule
 
+<p style="text-align: center;"><b><u>Termly Parade Schedule</u></b></p>
