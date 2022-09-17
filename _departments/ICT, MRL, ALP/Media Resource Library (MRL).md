@@ -50,10 +50,10 @@ They can also read and write book reviews, look out for book recommendations and
 
 
   
-**Borrower ID or Username: Student’s BC number**  
-**Password: MOE@DDMMYYYY where DDMMYYYY is the student’s date of birth.**  
+***Borrower ID or Username: Student’s BC number***  
+***Password: MOE@DDMMYYYY where DDMMYYYY is the student’s date of birth.***
   
-**Kindly take note that there will be a password change upon first login**  
+***Kindly take note that there will be a password change upon first login*** 
   
 
 **4.** **LIBRARY PROGRAMMES**
