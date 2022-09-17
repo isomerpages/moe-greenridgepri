@@ -58,4 +58,4 @@ We wish to congratulate our ICT Manager, Mr. Muhammad Zulhelmy, for being awarde
 	</figcaption>
 </figure>
 
-<p style="text-align: justify;">Congratulations to Mr Arivalagan for being awarded the Commendation Medal at the National Day Awards 2020! The Commendation Medal is awarded to public officers who have distinguished themselves through commendable performance and conduct, or significant efficiency, competence and devotion to duty. We thank him for his exceptional work in teaching and leading fellow teachers all these years and look forward to his continuous contributions to education.</p>
+<p style="text-align: justify;">Congratulations to Mdm Nur Jannah bte Juri for being awarded the Long Service Medal! The Long Service Medal is awarded to public service officers who are of irreproachable character and have completed at least 25 years of service in the public service. We thank her for their dedication and 25 years of service to education.</p>
