@@ -27,3 +27,5 @@ In 2019, our climbers had the opportunity to participate in the annual National 
 |:---------------------:|:----------------:|:------------------:|:-----------------------------------------:|
 | Competition Team    | Every Monday   | 3.30pm - 5.30pm  | Greenridge Primary<br> School Rock Wall |
 |  Recreational Team  | Every Tuesday  | 3.30pm - 5.30pm  |  Greenridge Primary<br>School Rock Wall |
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
