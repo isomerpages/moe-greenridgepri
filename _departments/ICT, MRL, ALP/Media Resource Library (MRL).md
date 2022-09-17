@@ -131,6 +131,10 @@ This year, the MRL department carried out a very exciting Reading Fest event in 
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/Reading%20Fest%202019/MRLReadingFest1.jpg)
 
+In the MRL, one of the most popular activities with the students was the ‘Golden Ticket Challenge,’ where the students have to hunt for a book with a golden ticket inside to claim a prize!
+
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/Reading%20Fest%202019/MRLReadingFest2.jpg)
+
+Another favourite activity was the ‘Blind Date with a Book,’ where the students get to borrow a mystery book wrapped in brown paper. This idea was conceived by our creative school librarian who wanted to advocate the phrase ‘Do not judge a book by its cover’ in a fun way!
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/Reading%20Fest%202019/MRLReadingFest3.jpg)
