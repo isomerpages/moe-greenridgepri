@@ -117,20 +117,4 @@ Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our 
 <p style="text-align: center;"><u><b>MOE Service Excellence Award 2017</b></u></p>
   
 
-Miss Shimmie Ramachandran (Silver)
-
-Miss Junainah Binte Sadar (Silver)
-
-Miss Noorhayati Bte Mahmood Khan@ Yats Khan (Silver)
-
-Mr Muhammad Irsadi Bin Munaris (Silver)
-
-Ms Sim Siok Hoon (Silver)
-
-Ms Nor Umniyati Binte Ali (Silver)
-
-Mdm Siti Maimunah Binte Wahub (Silver)
-
-Mdm Rohaini bte Yahya (Silver)
-
-Mr Ramli B Md Said (Silver)
+<p style="text-align: center;">Miss Shimmie Ramachandran (Silver)<br>Miss Junainah Binte Sadar (Silver))<br>Miss Noorhayati Bte Mahmood Khan@ Yats Khan (Silver))<br>Mr Muhammad Irsadi Bin Munaris (Silver))<br>Ms Sim Siok Hoon (Silver))<br>Ms Nor Umniyati Binte Ali (Silver))<br>Mdm Siti Maimunah Binte Wahub (Silver))<br>Mdm Rohaini bte Yahya (Silver))<br>Mr Ramli B Md Said (Silver)</p>
