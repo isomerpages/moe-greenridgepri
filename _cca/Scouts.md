@@ -53,3 +53,6 @@ Every Thursday, 3.30-5.00 p.m. (E-CCA)
 * Preparation for National Day celebration
 * Cub Leadership Training Camp (CLTC)
 * Donation Draw
+
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Scouts/2020_cub%20scouts_1.jpg)
