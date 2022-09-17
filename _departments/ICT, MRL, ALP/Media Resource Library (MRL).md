@@ -35,6 +35,30 @@ We have put in place, structures and initiatives to foster a strong reading cult
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/BookTalk.jpg)
 
 <u><b>Mass Borrowing</b></u> \- Usually the book talks will be followed by the NLB mass borrowing programme. NLB will bring thousands of their books to our school and all our students will have the opportunity to borrow the books without the need to travel to any of the NLB libraries.  
+
 To enable your child / ward to borrow the books during the NLB Mass Borrowing sessions, we would need the support of the parents to ensure that your child brings the **Student Concession Card** i.e. **Ezlink Card (with photo)** or **NLB library card** during the scheduled Mass Borrowing dates to school.
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MassBorrowing.jpg)
+
+
+**3\. COMPUTERS IN THE SCHOOL LIBRARY & OPAC**
+
+Computers are available in the library for students to use for their school work and projects. They can also use the computers to access OPAC (Online Public Access Catalogue) to search for the availability of the books in the school libraries and check if they have any overdue books.  
+  
+They can also read and write book reviews, look out for book recommendations and find out more information about the books they are interested in. OPAC can be accessed from home too:
+
+<a href="https://schoolibrary.moe.edu.sg/greenridgepri" target="_blank">https://schoolibrary.moe.edu.sg/greenridgepri</a>
+
+
+  
+**Borrower ID or Username: Student’s BC number**  
+**Password: MOE@DDMMYYYY where DDMMYYYY is the student’s date of birth.**  
+  
+**Kindly take note that there will be a password change upon first login**  
+  
+
+**4.** **LIBRARY PROGRAMMES**
+
+**Reading**
+
+Our focus for Reading Fest will revolve around different genres of books, local writers, values and library skills. Students work in groups to read for information and will be involved in various activities like quizzes, crossword puzzles, book hunt, etc. There will also be SLS lessons assigned to all students during Reading Fests.
