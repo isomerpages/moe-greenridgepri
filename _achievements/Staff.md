@@ -67,5 +67,5 @@ The Staff Platinum Award is a school based award bestowed upon our school staff,
 | <u><b>Most Gracious Staff</b></u>   | <u><b>Most Responsible Staff</b></u>  | <u><b>Most Public-spirited Staff</b></u>   |
 |-------------------------------|----------------------------------|------------------------------|
 | ![](/images/Achievements/Staff/Ms%20Nor%20Umniyati%20Bte%20Ali.jpg)<br>NOR UMNIYATI BTE ALI | ![](/images/Achievements/Staff/Mdm%20Rohaini%20Bte%20Yahya.jpg)<br>ROHAINI BTE YAHYA           | ![](/images/Achievements/Staff/Mdm%20Ang%20Lor%20Nah.jpg)<br>ANG LOR NAH             |
-| #<br>ANG HIM LUI              | #<br>FARAH FILZA BTE MUHD RAJAIE | # <br>TAN SWEE LENG SHARON   |
-| #<br>LEK SOI MOI SALLY        | #<br>SIM SIOK HOON               | # <br>MUHD KHAIRON BIN YUNUS |
+| ![](/images/Achievements/Staff/Miss%20Ang%20Him%20Lui.jpg)<br>ANG HIM LUI              | ![](/images/Achievements/Staff/Mdm%20Farah%20Filza%20Bte%20Muhammad%20Rajaie.jpg)<br>FARAH FILZA BTE MUHD RAJAIE | ![](/images/Achievements/Staff/Ms%20Tan%20Swee%20Leng%20Sharon.jpg) <br>TAN SWEE LENG SHARON   |
+| ![](/images/Achievements/Staff/Miss%20Lek%20Soi%20Moi%20Sally.jpg)<br>LEK SOI MOI SALLY        | ![](/images/Achievements/Staff/Miss%20Sim%20Siok%20Hoon.jpg)<br>SIM SIOK HOON               | ![](/images/Achievements/Staff/Mr%20Muhammad%20Khairon%20Bin%20Yunus.jpg) <br>MUHD KHAIRON BIN YUNUS |
