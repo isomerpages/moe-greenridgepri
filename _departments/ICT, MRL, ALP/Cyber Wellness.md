@@ -34,3 +34,12 @@ A survey is conducted on MC Online to identify the concerns with regards to the 
 ### (A) ICT Champions Training workshop
 
 The ICT department conducted a school wide training workshop for all ICT Champions during the first week of school. They underwent an intensive AVA hands-on training and were also briefed on their new role as Cyber wellness ambassadors in their respective classrooms. The ICT Champions were also given leadership opportunities to create and maintain a Cyber wellness corner in their classroom to promote Cyber wellness to their classmates.
+
+
+### (B) Assembly
+
+**(i) Safer Internet Day**
+
+On that day, the ICT department gave an assembly talk to the pupils on how to be more responsible when using the internet.
+
+The whole school then recite the “Cyber wellness pledge” to be Gracious, Responsible and Public-Spirited users of the internet. Prizes were also given out to one class in each level which has the best Cyber wellness corner.
