@@ -26,3 +26,7 @@ Constructionism is the key in this powerful learning environment where students 
 <p style="text-align: center;"><b>Robots Engaging in Tug of War. Team competition.</b></p>
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide4.jpg)
+
+### Competition
+
+From 1 to 30 September 2021, our school has participated in the IKCC Scratch International Kids Coding Competition. Two of our students have submitted their individual Scratch projects online on the theme: Amusement Park. They have each achieved the Outstanding Animation Award.
