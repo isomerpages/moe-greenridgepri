@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Teaching & Learning Framework/Teaching and Learning Framework.md
-      - Teaching & Learning Framework/.keep
       - Departments.md
       - English and Social Studies/.keep
       - English and Social Studies/English and Social Studies Department.md
@@ -58,3 +56,5 @@ collections:
       - PE, CCA and Aesthetics/PAL @ GRPS.md
       - PE, CCA and Aesthetics/PE Resources.md
       - PE, CCA and Aesthetics/CCA.md
+      - Teaching & Learning Framework/.keep
+      - Teaching & Learning Framework/Teaching and Learning Framework.md
