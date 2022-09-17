@@ -18,8 +18,14 @@ Theme by Level
 | Level |                 Theme                 |    Topics                      |                        Lesson Integration               |
 |-----|-------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | P1    | Cyber Safety        | Danger of cyber contacts          | ICT Enrichment, FTGP                     |
-| P2    | Netiquette            | Having good manners online<br>                                                         | ICT Enrichment, FTGP                                                 |
-| P3    | Cyber Safety                          | Stay safe in cyberworld<br>                                                                            | ICT Enrichment, FTGP                                                 |
+| P2    | Netiquette            | Having good manners online<br>                                                         | ICT Enrichment, FTGP    |
+| P3    | Cyber Safety       | Stay safe in cyberworld<br>        | ICT Enrichment, FTGP                                                 |
 | P4    | Computer Addiction;<br>Cyber Security | Protecting personal information, Securing computer and online accounts, Handling inappropriate content | ICT Enrichment (Sending & Checking Emails), FTGP, CCE<br> <br> <br>  |
-| P5    | Cyber Bullying                        | Stop cyber bullying<br>                                                                                | CCE                                                                  |
-| P6    | Copyright                             | Using copyright materials<br>                                                                          | Assembly, FTGP                                                       |
+| P5    | Cyber Bullying                        | Stop cyber bullying<br>                      | CCE                                                                  |
+| P6    | Copyright              | Using copyright materials<br>       | Assembly, FTGP      |
+
+<b><u>Acceptable Use Policy</u></b>  
+The focus of an AUP is to educate students on the responsible use of computer networks.  
+  
+<b><u>Needs Analysis</u></b>    
+A survey is conducted on MC Online to identify the concerns with regards to the cyber wellness issues within school population.
