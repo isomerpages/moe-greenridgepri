@@ -37,3 +37,6 @@ Other Badges Boys can achieve:
 **The Gold Badge**
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Boys’%20&%20Girls’%20Brigade/Gold%20badge.png)
+
+### Parade Schedule
+
