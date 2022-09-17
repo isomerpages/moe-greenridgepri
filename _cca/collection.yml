@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Boys’ & Girls’ Brigade/Parade Schedule.md
-      - Boys’ & Girls’ Brigade/Boys’ & Girls’ Brigade.md
       - Boys’ & Girls’ Brigade/.keep
+      - Boys’ & Girls’ Brigade/Boys’ & Girls’ Brigade.md
+      - Boys’ & Girls’ Brigade/Parade Schedule.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
