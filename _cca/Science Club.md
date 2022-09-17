@@ -4,7 +4,7 @@ permalink: /cca/science-club/
 description: ""
 ---
 # Science Club
-**Objectives**
+<b><u>Objectives</u></b>
 
 1\. To encourage and enable students to develop inquiring minds and curiosity about Science and nature.  
   
