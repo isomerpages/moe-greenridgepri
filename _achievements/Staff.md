@@ -101,3 +101,6 @@ Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our 
 
 <p style="text-align: center;"><u><b>Long Service Medal</b></u></p>
 
+|           |             |        |              |
+|--------------------------------------|-------------------------------------|--------------------------------|----------------------------------|
+| # <br>Mr Mohd Ramdan Bin Mohd Mahpol | <br>#<br>Mdm Florence Ng Yoke Chan  | #<br>Mdm Zuleha Binte Abdullah | #Mdm Shanthi Devi D/O Rangasamy  |
