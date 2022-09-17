@@ -38,8 +38,8 @@ GRPS Brass Band welcome students who have never picked up an instrument before a
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/Brass1.jpg)
 
-25th Anniversary Celebration 2021 (Percussion Ensemble)
+<p style="text-align: center;">25th Anniversary Celebration 2021 (Percussion Ensemble)</p>
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/Brass2.jpg)
 
-2020 Singapore Youth Festival Arts Presentation (Rehearsal)
+<p style="text-align: center;">2020 Singapore Youth Festival Arts Presentation (Rehearsal)</p>
