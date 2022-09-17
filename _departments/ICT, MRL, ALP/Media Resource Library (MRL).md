@@ -61,3 +61,11 @@ They can also read and write book reviews, look out for book recommendations and
 <b><u>Reading</u></b>
 
 Our focus for Reading Fest will revolve around different genres of books, local writers, values and library skills. Students work in groups to read for information and will be involved in various activities like quizzes, crossword puzzles, book hunt, etc. There will also be SLS lessons assigned to all students during Reading Fests.
+
+![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/ReadingFest.jpg)
+
+<b><u>5. Pocket-Sized Programme (Monthly Thematic Book Displays) and Other Displays Linked to Festivals/Cultures in Singapore.</u></b>
+
+Every month, our librarian would prepare book displays and activities linked to different exciting topics or themes e.g. Chinese New Year, Know Your Library, Get to Know OPAC, Books to Movies, Racial Harmony Day, Discovering Genres and etc.  
+  
+These book displays help to boost pupils’ interest in the different themes and genres of books and expose them to the new and current collections in the library. The displays also convey meaningful information about the topics/themes.
