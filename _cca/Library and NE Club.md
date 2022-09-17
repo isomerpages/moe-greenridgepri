@@ -77,3 +77,9 @@ Mdm Hasrinah Mohd Hussain & Mrs Vivian Huen
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/9i.jpg) 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/9j.jpg)
+
+**6.**    **Learning about different Book Genres & doing Book reviews online**
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/9k.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/9l.jpg)
