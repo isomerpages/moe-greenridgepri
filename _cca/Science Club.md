@@ -6,8 +6,7 @@ description: ""
 # Science Club
 <b><u>Objectives</u></b>
 
-1\. To encourage and enable students to develop inquiring minds and curiosity about Science and nature.  
-  
+1\. To encourage and enable students to develop inquiring minds and curiosity about Science and nature.   
 2\. To demonstrate attitudes and develop values of honesty and respect for themselves, others, and their shared environment.  
   
 <b><u>Teachers-in-Charge</u></b>
