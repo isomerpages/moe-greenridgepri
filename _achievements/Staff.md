@@ -16,3 +16,5 @@ description: ""
 	Mr Zulhelmy
 	</figcaption>
 </figure>
+
+We wish to congratulate our ICT Manager, Mr. Muhammad Zulhelmy, for being awarded the MOE Service Excellence Award 2021 (Gold). The MSEA recognises MOE staff who are passionate in their service delivery with both internal and external customers, as well as inspiring to their colleagues to do likewise. Well Done, Mr. Zulhelmy!
