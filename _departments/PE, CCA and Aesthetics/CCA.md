@@ -20,8 +20,4 @@ third_nav_title: PE, CCA and Aesthetics
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Slide8.jpg)
 
-### [CCA Schedule](/cca/cca-schedule/)
-
-### [CCA Promotion Video](/cca/cca-promotion-video/)
-
-### [P3 CCA Recruitment Exercise](/cca/P3-CCA-Recruitment-Exercise/)
+### Click [here](/cca/cca-schedule/) for more information about the our CCAs. 
