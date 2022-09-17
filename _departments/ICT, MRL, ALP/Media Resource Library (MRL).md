@@ -87,3 +87,20 @@ These book displays help to boost pupils’ interest in the different themes and
 Books do come alive in movies. Watching movies adapted based on popular books is a great way to have a glimpse into the world of the great writers. These movies also create a lot of curiosity in the children, resulting in them picking up the related books and read them in details. So far, we have an overwhelming response for the movie screenings and around 60 pupils usually join us for movie screenings.
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/MRLScreening.jpg)
+
+**7\. School eResource Repository (SERR)**  
+
+The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. In addition, the repository provides easy access to online resources such as eBooks, audiobooks, videos and web resources. SERR can be accessed without a login ID and password.
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">Click here to access SERR:</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME</a></td>
+  </tr>
+</tbody>
+</table>
