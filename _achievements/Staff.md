@@ -46,3 +46,16 @@ We wish to congratulate our ICT Manager, Mr. Muhammad Zulhelmy, for being awarde
 </figure>
 
 <p style="text-align: justify;">Congratulations to Mr Arivalagan for being awarded the Commendation Medal at the National Day Awards 2020! The Commendation Medal is awarded to public officers who have distinguished themselves through commendable performance and conduct, or significant efficiency, competence and devotion to duty. We thank him for his exceptional work in teaching and leading fellow teachers all these years and look forward to his continuous contributions to education.</p>
+
+
+<p style="text-align: center;"><u><b>Long Service Medal</b></u></p>
+
+<figure>
+	<img src="/images/Achievements/Staff/Mdm%20Nur%20Jannah%20Bte%20Juri.jpg"
+     style="width:30%">
+<figcaption>
+	Mdm Nur Jannah bte Juri
+	</figcaption>
+</figure>
+
+<p style="text-align: justify;">Congratulations to Mr Arivalagan for being awarded the Commendation Medal at the National Day Awards 2020! The Commendation Medal is awarded to public officers who have distinguished themselves through commendable performance and conduct, or significant efficiency, competence and devotion to duty. We thank him for his exceptional work in teaching and leading fellow teachers all these years and look forward to his continuous contributions to education.</p>
