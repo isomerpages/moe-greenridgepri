@@ -18,3 +18,5 @@ Our Art Expression Club members have continued to hone their skills a wide ran
 *   Mdm Azlinda
 
 ### Highlight(s) of Activities:
+
+#### Upload the 2 image slideshows to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
