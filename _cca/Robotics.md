@@ -46,3 +46,7 @@ Constructionism is the key in this powerful learning environment where students 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide3.jpg)
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide4%20(1).jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide5.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slides6.jpg)
