@@ -20,3 +20,21 @@ Our Art Expression Club members have continued to hone their skills a wide ran
 ### Highlight(s) of Activities:
 
 #### Upload the 2 image slideshows to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_1.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_2.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_3.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_4.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_5.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_6.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_7.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_8.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Art%20Expression%20Club/2021_Art%20expression%20club_9.jpg)
