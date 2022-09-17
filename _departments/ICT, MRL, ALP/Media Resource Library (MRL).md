@@ -104,3 +104,7 @@ The School eResource Repository (SERR) is a virtual school library. It aims to p
   </tr>
 </tbody>
 </table>
+
+**8\. OTHER INFORMATION ABOUT THE SCHOOL LIBRARY**
+
+<b><u>LIBRARY HOURS</u></b>
