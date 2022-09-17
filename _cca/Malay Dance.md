@@ -33,3 +33,5 @@ The GRPS Malay Dance clinched a Gold Award in the 2018 SYF Arts Presentation (Ma
 
 *   25th Anniversary E-Concert
 *   Hari Raya E-Concert (Term 2)
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
