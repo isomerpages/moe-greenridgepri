@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Achievements.md
-      - Students/2018.md
       - Students/.keep
       - Students/Students.md
       - Students/Star Class Awards.md
+      - Students/2018.md
