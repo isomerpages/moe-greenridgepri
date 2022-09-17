@@ -10,7 +10,7 @@ description: ""
 <p style="text-align: center;"><u><b>Gold</b></u></p>
 
 <figure>
-	<img src="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg"
+	<img src="/images/Achievements/Staff/zulhelmy.jpg"
      style="width:50%">
 <figcaption>
 	Mr Zulhelmy
