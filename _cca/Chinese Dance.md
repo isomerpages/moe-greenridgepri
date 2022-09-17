@@ -48,4 +48,4 @@ Our Chinese dance members have participated in the biennial Singapore Youth Fest
 	</figcaption>
 </figure>
 
-
+<p style="text-align: center;"> Video: Pre-recorded Performance at GRPS 25th Anniversary on 1 April, 2021</p>
