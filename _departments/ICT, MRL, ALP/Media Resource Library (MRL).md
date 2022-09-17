@@ -25,3 +25,9 @@ We have put in place, structures and initiatives to foster a strong reading cult
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/Insidebookloft.jpg)
 
 ![](/images/Departments/ICT,%20MRL,%20ALP/Media%20Resource%20Library%20(MRL)/ReadingCorner.jpg)
+
+**2.** **BOOK TALKS AND MASS BORROWING SESSIONS (NLB)**  
+
+<p style="text-align: justify;">To encourage our students to read more widely, our school is partnering the <b>National Library Board (NLB)</b> in 2 key programmes, <b>Book Talk and Mass Borrowing.</b></p>
+
+<p style="text-align: justify;">**Book Talk or Book Buzz** – A librarian from National Library Board (NLB) will give a book talk in the school for the P1-6 students and this book talk covers book recommendations based on a particular theme. Students are able to borrow the books or books of similar genre mentioned during the book talks immediately after the book talks in the school library.</p>
