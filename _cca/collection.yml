@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Scouts.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
@@ -27,3 +26,4 @@ collections:
       - Robotics.md
       - Science Club.md
       - Sport Climbing.md
+      - Scouts.md
