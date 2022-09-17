@@ -71,3 +71,8 @@ The Staff Platinum Award is a school based award bestowed upon our school staff,
 | ![](/images/Achievements/Staff/Miss%20Lek%20Soi%20Moi%20Sally.jpg)<br>LEK SOI MOI SALLY        | ![](/images/Achievements/Staff/Miss%20Sim%20Siok%20Hoon.jpg)<br>SIM SIOK HOON               | ![](/images/Achievements/Staff/Mr%20Muhammad%20Khairon%20Bin%20Yunus.jpg) <br>MUHD KHAIRON BIN YUNUS |
 
 <p style="text-align: center;"><b>Caring Teacher Awards 2020</b></p>
+
+<img src="/images/Achievements/Staff/CTA2020.png"
+     style="width:30%">
+
+Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our schools who go beyond the call of duty for the holistic development of their students and ensure their charges grow up to be confident and independent learners for our nation. The winners in our school are:
