@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Teaching & Learning Framework/Teaching and Learning Framework.md
       - Teaching & Learning Framework/.keep
       - Departments.md
       - English and Social Studies/.keep
