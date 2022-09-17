@@ -21,12 +21,12 @@ third_nav_title: Boys’ & Girls’ Brigade
     <td style="text-align: center;">Thursday</td>
     <td style="text-align: center;">3.30 pm – 5.30 pm</td>
     <td style="text-align: center;">SBB Room (1)</td>
-    <td rowspan="2"  style="text-align: center;">Ms Ong Siew Ling<br>Mrs Florence Lim<br>Mdm Chan Siew Woon<br>Advisor: Mr Yeo Wi Kiat</td>
+    <td rowspan="2" style="text-align: center;">Mr Justin<br>Ms Lee Wan Ting<br>Mrs Paul-Tay</td>
   </tr>
   <tr>
     <td style="text-align: center;">Saturday*</td>
-    <td style="text-align: center;">Subject to changes</td>
-    <td style="text-align: center;">Subject to changes</td>
+    <td style="text-align: center;">9.00 am – 11.30 am</td>
+    <td style="text-align: center;">Parade Square<br>Quiet Zone</td>
   </tr>
 </tbody>
 </table>
