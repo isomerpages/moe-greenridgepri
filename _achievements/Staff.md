@@ -78,11 +78,11 @@ The Staff Platinum Award is a school based award bestowed upon our school staff,
 Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our schools who go beyond the call of duty for the holistic development of their students and ensure their charges grow up to be confident and independent learners for our nation. The winners in our school are:
 
 |                          |                    |                    |
-|--------------------------|--------------------|--------------------|
+|:--------------------------:|:--------------------:|:--------------------:|
 | ![](/images/Achievements/Staff/Miss%20Loh%20Shi%20Ting.jpg)Ms Loh Shi Ting <br> | ![](/images/Achievements/Staff/Ms%20Adene%20Chua%20Yuen%20Yee.jpg)Ms Adene Chua  | ![](/images/Achievements/Staff/Miss%20Ang%20Him%20Lui.jpg)Ms Ang Him Lui |
 
 |                              |                                   |
-|------------------------------|-----------------------------------|
+|:------------------------------:|:-----------------------------------:|
 |  ![](/images/Achievements/Staff/Mdm%20Jayarani%20Selvaraju.jpg)Mdm Jayarani Selvaraju | ![](/images/Achievements/Staff/Mr%20Muhammad%20Khairon%20Bin%20Yunus.jpg)Mr Muhammad Khairon Bin Yunu |
 
 <p style="text-align: center;"><b>National Day Awards 2019</b></p>
