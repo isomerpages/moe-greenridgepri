@@ -109,3 +109,7 @@ third_nav_title: Boys’ & Girls’ Brigade
   </tr>
 </tbody>
 </table>
+
+_\*BB Boys will be going down to BBHQ at (105 Ganges Avenue S169695) to buy their uniforms. Consent forms will be given nearer to date. Parade is as usual for the Girls._
+
+_\*\* More details will be given nearer to event._
