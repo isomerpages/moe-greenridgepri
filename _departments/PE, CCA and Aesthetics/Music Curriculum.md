@@ -8,8 +8,8 @@ third_nav_title: PE, CCA and Aesthetics
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Pg3%20Music%20Curriculum.png)
 
-e**Learning Outcomes**  
- The learning outcomes in our music lessons are organised around five overarching Learning Objectives (LOs). All learning outcomes are addressed and learned in an integrative manner, where elements and concepts are learned through active musical experiences.  
+e<u><b>Learning Outcomes</b></u>   
+The learning outcomes in our music lessons are organised around five overarching Learning Objectives (LOs). All learning outcomes are addressed and learned in an integrative manner, where elements and concepts are learned through active musical experiences.  
   
  LO1: Perform Music in both instrumental and vocal settings, individually and in groups  
  LO2: Create Music in both instrumental and vocal settings, individually and in groups  
