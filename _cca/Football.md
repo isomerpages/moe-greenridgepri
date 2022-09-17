@@ -21,3 +21,7 @@ description: ""
 <p style="text-align: center;"><b>CCA Teachers</b></p>
 
 <p style="text-align: center;"><b>Schedule</b></p>
+
+| Developmental Team                   | Senior & Junior School Team       |
+|--------------------------------------|-----------------------------------|
+|  <br>Mondays, 3.30 pm – 5.30 pm<br>  |  <br>Thursdays, 3.30 pm – 5.30 pm |
