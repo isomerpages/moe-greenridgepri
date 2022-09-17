@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Hockey.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
@@ -19,3 +18,4 @@ collections:
       - Football.md
       - Green and Innovation Club.md
       - Guzheng Ensemble.md
+      - Hockey.md
