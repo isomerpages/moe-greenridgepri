@@ -5,4 +5,4 @@ description: ""
 ---
 # CCA Schedule
 
-<a href="/our-special-programme/ELIXiR/" target="_blank">Click here to view</a> the CCA schedule for 2022
+<a href="/files/Departments/CCA%20Schedule%202022.pdf" target="_blank">Click here to view</a> the CCA schedule for 2022
