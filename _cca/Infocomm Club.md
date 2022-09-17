@@ -19,5 +19,5 @@ description: ""
 ### Highlights of Activities:
 
 |                  |                                                    |
-|------------------|----------------------------------------------------|
+|:------------------:|:----------------------------------------------------:|
 | Term 1 to Term 4 | Game Developer Jr (Intermediate) using Scratch 3.0 |
