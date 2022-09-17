@@ -55,6 +55,22 @@ Mdm Hasrinah Mohd Hussain & Mrs Vivian Huen
 
 **2.   Planning and conducting annual Reading Fests**
 
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9a.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9b.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9c.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9d.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9e.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9f.jpg)
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl9g.jpg)
+
 |   |   |
 |---|---|
 |   |   |
