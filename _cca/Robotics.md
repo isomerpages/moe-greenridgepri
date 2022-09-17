@@ -32,3 +32,7 @@ Constructionism is the key in this powerful learning environment where students 
 <p style="text-align: justify;">From 1 to 30 September 2021, our school has participated in the IKCC Scratch International Kids Coding Competition. Two of our students have submitted their individual Scratch projects online on the theme: Amusement Park. They have each achieved the Outstanding Animation Award.</p>
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/CCARobotics.jpg)
+
+<p style="text-align: justify;">On 24th July 2020, our students participated in the First Lego League 2020 jointly organised by Information Development Authority, Building and Construction Authority, Lego Education, Rockwell Automation and Duck Learning. Our students had done us proud by clinching 2nd place in Core Value – Teamwork.</p>
+
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide1%20(1).jpg)
