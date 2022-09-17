@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Boys’ & Girls’ Brigade/Highlights.md
       - Boys’ & Girls’ Brigade/.keep
       - Boys’ & Girls’ Brigade/Boys’ & Girls’ Brigade.md
       - Boys’ & Girls’ Brigade/Parade Schedule.md
