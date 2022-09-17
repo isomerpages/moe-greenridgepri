@@ -11,7 +11,7 @@ description: ""
 
 <figure>
 	<img src="/images/Achievements/Staff/zulhelmy.jpg"
-     style="width:50%">
+     style="width:30%">
 <figcaption>
 	Mr Zulhelmy
 	</figcaption>
