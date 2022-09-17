@@ -24,3 +24,7 @@ Mdm Kong Kit Ling
 Ms Serene Lee
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Badminton/Bdminton2022.jpeg)
+
+<p style="text-align: center;"><b>National School Games</b></p>
+
+<p style="text-align: center;"><b>Practice</b></p>
