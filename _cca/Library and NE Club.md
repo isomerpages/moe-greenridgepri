@@ -18,6 +18,39 @@ At the Library and NE Club, we warmly welcome all book enthusiasts who would lov
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/mrl3.jpg)
 
+**Main Activities and Duties**
+
+We will be doing activities such as the following:
+
+*   'Pocket-Sized Programmes' (genre based packages and activities designed to widen knowledge of different types of fiction / non-fiction books.
+*   Thematic display projects on different book genre
+
+*   Promotion of library programmes, books and activities
+
+*   Being Reading Ambassadors (student leaders)
+
+*   Participating in library related workshops and competitions
+
+*   Assist in various library administration e.g. shelving of books, loaning, returning, new book handling and preparing for shelving, etc
+
+*   Participating in learning journeys to other schools/national libraries.
+
+  
+  
+**CCA Schedule  
+**  
+
+**Day**: Thursdays  
+**Time**: 3.30 pm to 5.30 pm **Venue**: Media Resource Library (Olympia Block, 3rd level)  
+  
+**CCA Teachers**
+
+Mdm Hasrinah Mohd Hussain & Mrs Vivian Huen  
+
+### Photos of Club Activities
+
+**1.**   **Book Displays set up by the CCA Students**
+
 |   |   |
 |---|---|
 |   |   |
