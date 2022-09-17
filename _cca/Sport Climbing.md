@@ -13,8 +13,7 @@ In 2019, our climbers had the opportunity to participate in the annual National 
 ### Sport Climbing Competition 2019
 
 *   National Primary Schools Sport Climbing Championships 2019 (April 2019)
-
-*   Senior Girls Team Overall 3rd Position
+    *   Senior Girls Team Overall 3rd Position
 
 ### Teachers-in-charge
 
