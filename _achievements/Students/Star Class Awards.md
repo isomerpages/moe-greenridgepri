@@ -12,5 +12,4 @@ Towards the end of each year, one deserving class from each level will be chosen
   
 The classes that win this award, will be etched on a plaque and put up for display to highlight their achievement and will also be provided with a movie screening session equipped with age appropriate values in school in order to provide the class with an opportunity to celebrate their teamwork and success.  
 
-**  
-STAR CLASS AWARD WINNERS**
+<p style="text-align: center;"><u><b>STAR CLASS AWARD WINNERS</b></u></p>
