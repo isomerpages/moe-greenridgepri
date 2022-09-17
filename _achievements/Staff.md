@@ -32,3 +32,7 @@ We wish to congratulate our ICT Manager, Mr. Muhammad Zulhelmy, for being awarde
 </figure>
 
 <p style="text-align: justify;">Congratulations to Mr Ong Kian Hock, our Head of Department (ICT), for being a finalist of the President's Award for Teachers (PAT) 2020. The award gives national recognition to the critical role teachers play in moulding the future of our nation. These teachers are caring educators and are committed to developing their students to the fullest potential. They constantly adopt innovative approaches in their lessons, and are lifelong learners and mentors to their peers. Through their words and deeds, these educators are an inspiration to their students and colleagues.</p>
+
+<p style="text-align: center;"><b>National Day Awards 2020</b></p>
+
+<p style="text-align: center;"><u><b>Commendation Medal</b></u></p>
