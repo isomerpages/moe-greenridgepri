@@ -107,3 +107,9 @@ Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our 
 
 
 <p style="text-align: justify;">Congratulations to Mr Mohd Ramdan Bin Mohd Mahpol, Mdm Florence Ng Yoke Chan, Mdm Zuleha Binte Abdullah and Mdm Shanthi Devi d/o Rangasamy for being awarded the Long Service Medal! The Long Service Medal is awarded to public service officers who are of irreproachable character and have completed at least 25 years of service in the public service. We thank them for their dedication and 25 years of service to education.</p>
+
+![](/images/Achievements/Staff/Mr_Shahrin_PAT.png)
+
+![](/images/Achievements/Staff/NDA2017_Pek_Shu_San.jpg)
+
+![](/images/Achievements/Staff/NDA2016-Ang_Lor_Nah.jpg)
