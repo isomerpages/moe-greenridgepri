@@ -32,5 +32,4 @@ Scratch is a programming language and an online community where children can pro
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Infocomm%20Club/Infocomm.jpg)
 
-Finalists Team  
-(From left to right) Chloe Tan , Elyse Lim , Teo Tzer Kai
+<p style="text-align: center;">Finalists Team<br>(From left to right) Chloe Tan , Elyse Lim , Teo Tzer Kai</p>
