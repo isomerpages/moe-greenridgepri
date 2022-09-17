@@ -21,3 +21,9 @@ description: ""
 |                  |                                                    |
 |:------------------:|:----------------------------------------------------:|
 | Term 1 to Term 4 | Game Developer Jr (Intermediate) using Scratch 3.0 |
+
+### Term 1 to 4
+
+Scratch is a programming language and an online community where children can program and share interactive media such as stories, games, and animation with people from all over the world. As students create with Scratch, they learn to think creatively, work collaboratively, and reason systematically.
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
