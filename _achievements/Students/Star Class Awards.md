@@ -4,8 +4,7 @@ permalink: /achievements/Students/star-class-awards/
 description: ""
 third_nav_title: Students
 ---
-Star Class Awards
-=================
+# Star Class Awards
 
 The Star Class Award is an award that every class look forward to at the end of each year. This award is designed to reinforce positive behaviour and encourage holistic excellence in pupils as a class. It also aims to infuse the existing systems of pupil recognition and recognize classes with passionate learners who embody the GRPS values.  
   
