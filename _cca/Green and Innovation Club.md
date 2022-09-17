@@ -39,10 +39,8 @@ Some projects the students will be able to work on through the year.
 
 <b><u>Teachers in charge</u></b>
 
-1)    Mdm Elizabeth Ting
-
-2)    Mdm Helen Shi
-
+1)    Mdm Elizabeth Ting   
+2)    Mdm Helen Shi   
 3)    Mdm Zuleha  
   
 
