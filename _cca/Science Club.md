@@ -10,7 +10,7 @@ description: ""
   
 2\. To demonstrate attitudes and develop values of honesty and respect for themselves, others, and their shared environment.  
   
-Teachers-in-Charge  
+<b><u>Teachers-in-Charge</u></b>
   
 **Mdm Ang Lor Nah, Mdm Nuraini, Mdm Farah Filzah**   
 **Day : Every Monday**    
