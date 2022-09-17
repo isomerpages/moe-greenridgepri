@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Library and NE Club.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
