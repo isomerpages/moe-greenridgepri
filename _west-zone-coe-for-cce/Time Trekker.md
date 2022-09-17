@@ -15,7 +15,8 @@ description: ""
 <p style="text-align: justify;">In 2006, in an effort led by our principal, Mrs Chew Lai Mun, planning began on how to upgrade the NE Hub facilities and activities with a focus on adopting an approach to NE which the young of today can identify with and would find 'cool'. We decided to adopt the time travel approach - bringing our children on a journey of NE through the past, the present and the future.</p>
 
 
-
+<img src="/images/West%20Zone%20COE%20for%20CCE/p1100610.jpg"
+     style="width:40%; float:left">
 
 <p style="text-align: justify;">The theme as reflected in the name Time Trekker, connotes an exciting journey through time, discovering, experiencing and gaining insights. The NE Hub has been totally redesigned and upgraded to bring visitors on a brief journey through key points in Singapore's history to the present and culminating in an Event Hall where visitors are aided to reflect on issues of the future posted on three 'Oracle Columns'.</p>
 
