@@ -20,6 +20,28 @@ description: ""
 
 <p style="text-align: center;"><b>CCA Teachers</b></p>
 
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">Mr Md Jumari Awang</td>
+    <td style="text-align: center;">Ms Chu Li Jung</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Mr Iskandar Mostakim</td>
+    <td style="text-align: center;">Ms Neo Jie Ying</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">Advisor: Mr Md Khairon Yunus</td>
+  </tr>
+</tbody>
+</table>
+
 <p style="text-align: center;"><b>Schedule</b></p>
 
 | Developmental Team                   | Senior & Junior School Team       |
