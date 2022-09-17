@@ -27,7 +27,7 @@ We wish to congratulate our ICT Manager, Mr. Muhammad Zulhelmy, for being awarde
 	<img src="/images/Achievements/Staff/Alfred.jpg"
      style="width:30%">
 <figcaption>
-	Mr Zulhelmy
+	Mr Ong Kian Hock
 	</figcaption>
 </figure>
 
