@@ -98,3 +98,6 @@ Awarded by NIE, the Caring Teacher Awards (CTA) pays tribute to teachers in our 
 </figure>
 
 <p style="text-align: justify;">Congratulations to Miss Ong Ai Leng for being awarded the Commendation Medal at the National Day Awards 2019! The Commendation Medal is awarded to public officers who have distinguished themselves through commendable performance and conduct, or significant efficiency, competence and devotion to duty. We thank her for her exceptional work in teaching and leading fellow teachers all these years and look forward to her continuous contributions to education.</p>
+
+<p style="text-align: center;"><u><b>Long Service Medal</b></u></p>
+
