@@ -114,3 +114,12 @@ The School eResource Repository (SERR) is a virtual school library. It aims to p
 |   Monday to Thursday   | 7.45 a.m. – 4.30 p.m. |
 |         Friday         | 7.45 a.m. – 4.00 p.m. |
 | Closed for lunch break |   1.30 p.m. - 2 p.m.  |
+
+<b><u>LIBRARY RULES & BORROWING REQUIREMENTS</u></b>
+
+An Ezlink card (with photo) or a photocopy of it is needed to borrow school library books. Each student can borrow a maximum of 6 books. Those with overdue books must return the books before they can borrow again. Primary 1 students will be given temporary library cards until their actual cards are ready. All students can return their books in the book drop outside the MRL. **Please return school books to the school library (not National Libraries)**. Students are encouraged to read silently in the libraries. Please do take note that NO eating/drinking/playing is allowed in the library.  
+  
+
+<b><u>OVERDUE OR LOST BOOKS</u></b>
+
+Every student should be responsible for the books that they have borrowed. All books should be returned to the library before the due date. Reminder slips will be given if overdue books are not returned. Books that are lost must be reported immediately to the librarian and be replaced with a new book (can be of a different title that is suitable for Primary school students) of around $10. A receipt must be attached to the book for record purposes.
