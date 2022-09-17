@@ -65,3 +65,5 @@ Other Badges Boys can achieve:
   </tr>
 </tbody>
 </table>
+
+<p style="text-align: center;">*Saturdays are for special events.</p>
