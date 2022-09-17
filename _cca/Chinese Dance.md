@@ -16,10 +16,24 @@ Our Chinese dance members have participated in the biennial Singapore Youth Fest
 |        Venue:       | Dance Studio at ISH, 2nd floor                                            |
 
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Chinese%20Dance/1_2020-2021%20Group%20Dance%20Team%20.jpg)
+<figure>
+	<img src="/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Chinese%20Dance/1_2020-2021%20Group%20Dance%20Team%20.jpg"
+     style="width:100%">
+<figcaption>
+	 2020-2021 Group Dance Team (群舞小组)
+	</figcaption>
+</figure>
+
+
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Chinese%20Dance/2_2020-2021%20Drum%20Team%20.jpg)
 
+2020-2021 Drum Team (鼓舞小组)
+
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Chinese%20Dance/3_Rehearsal%20for%20SYF.jpg)
 
+Rehearsal for SYF performance
+
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Chinese%20Dance/4_CCA%20Practice.jpg)
+
+CCA practice
