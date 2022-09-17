@@ -34,6 +34,6 @@ For students engaged in collaborative learning, there will be:
 <figure>
 	<img src="/images/Departments/ICT,%20MRL,%20ALP/ict2.png">
 <figcaption>
-	<strong> Source: <a href="http://ictconnection.edumall.sg/" target="_blank">The ICT Connection</a></strong>
+	<strong> Source: <a href="http://ictconnection.edumall.sg/">The ICT Connection</a></strong>
 	</figcaption>
 </figure>
