@@ -60,7 +60,7 @@ d) If the above does not work, use Incognito mode on your browser to login. Upon
 
 **Q6. I receive the following message: “Your account is temporarily locked to prevent unauthorized use.. What should I do?**
 
-You can request to reset via the school's [SLS/Student ICON Account Password Reset Form](https://form.gov.sg/6125b8165dda700012951c3f).
+You can request to reset via the school's  <a href="https://form.gov.sg/6125b8165dda700012951c3f" target="_blank">SLS/Student ICON Account Password Reset Form</a>.
 
 <b><u>Resources</u></b>
   
