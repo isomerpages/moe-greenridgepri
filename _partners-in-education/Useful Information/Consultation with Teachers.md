@@ -23,7 +23,7 @@ Venue: School Hall**
 It's our school's 25th anniversary next year. Our new Principal, Mdm Ong, would like to share some interesting news with all of you. Please pass this message around to other ex-Greenridgeans. Thank you. From GRPS.
 
   
-**Admin Matters**  
+<b><u>Admin Matters</u></b>
   
 1\. Ex-students only.  
   
