@@ -5,4 +5,5 @@ description: ""
 ---
 # Parents Gateway
 
-![](/images/Partners%20in%20Education/PG.png)
+<img src="/images/Partners%20in%20Education/PG.png"
+     style="width:50%">
