@@ -2,8 +2,6 @@ collections:
   partners-in-education:
     output: true
     order:
-      - Application Forms/Application Forms.md
-      - Application Forms/.keep
       - Home Based Learning (HBL)/.keep
       - Home Based Learning (HBL)/Home Based Learning (HBL).md
       - Home Based Learning (HBL)/Positive Education and Well Being.md
@@ -22,4 +20,6 @@ collections:
       - Parent Support Group/Activities organised by PSG and School.md
       - Parent Support Group/Parent Engagement.md
       - Parent Support Group/Partnership & Outreach.md
+      - Application Forms/.keep
+      - Application Forms/Application Forms.md
       - Administrator Login.md
