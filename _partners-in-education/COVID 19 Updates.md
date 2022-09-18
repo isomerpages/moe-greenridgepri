@@ -6,9 +6,9 @@ description: ""
 # COVID-19 Updates
 <b><u>Antigen Rapid Test (ART) Step by Step Guide</u></b>
   
-1) [ART Instructions](https://go.gov.sg/art-instructions)  
+1) <a href="https://go.gov.sg/art-instructions" target="_blank">ART Instructions</a>
   
-2) [Self Swab Instructions Guide](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/Self%20Swab%20Instructions%20Guide.pdf)  
+2) <a href="/files/Partners%20in%20Education/Self%20Swab%20Instructions%20Guide.pdf" target="_blank">Self Swab Instructions Guide</a>
   
 <b><u>Antigen Rapid Test (ART) Self-Swab Video Guide by KKH</u></b>  
   
