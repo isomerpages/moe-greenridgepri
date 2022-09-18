@@ -16,13 +16,14 @@ To reduce transmission risks when school reopens on 2 June, the school will upho
 ### (B) Safety in Classrooms
 
 * School will continue to implement safe distancing and personal hygiene measures and during lessons, seating with at least 1m between students, wipe down routine, washing hands regularly. The second temperature-taking will be taken prior to afternoon lessons e.g. remedials which will commence from week 3.
+
 * <span style = "color: #0b5394"> <b>[New]</b> Teacher will employ frontal teaching with masks or face shields and stand at least 1m away from students where possible.</span>
 
 ### (C) Safety for Recess-based Activities
 
-•       School will continue with staggered recesses by level and designated seating arrangement/queue markers with safe distance of 1m.
+* School will continue with staggered recesses by level and designated seating arrangement/queue markers with safe distance of 1m.
 
-•       **\[New\]** When there are more than one level scheduled during the recess timing (e.g. P3 and P6 at 10am), one of the levels will have their recess break in the classrooms. Students will be informed of the arrangement when school starts.  During recess, students should only remove their masks when consuming food and should refrain from talking when their masks are removed. They are encouraged to wear their issued face shields in the canteen when eating and drinking.
+* <span style = "color: #0b5394"> <b>[New]</b> When there are more than one level scheduled during the recess timing (e.g. P3 and P6 at 10am), one of the levels will have their recess break in the classrooms. Students will be informed of the arrangement when school starts.  During recess, students should only remove their masks when consuming food and should refrain from talking when their masks are removed. They are encouraged to wear their issued face shields in the canteen when eating and drinking.</span> 
 
 ### (D) Safety for Other School-Based Activities
 
