@@ -15,12 +15,12 @@ We would like to invite you to download the free Parents Gateway mobile app on y
 Please refer to the links below for the guide.  
   
 
-1. [Instructional Guide for Parents](https://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/P.Gateway/Instructional%20Guide%20for%20Parents%20Gateway.pdf)  
+1. [Instructional Guide for Parents](/files/Partners%20in%20Education/Instructional%20Guide%20for%20Parents%20Gateway.pdf)
 
-2. [Registering for SingPass](https://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/P.Gateway/PG%20-%20Registering%20for%20SingPass.pdf)
+2. [Registering for SingPass](/files/Partners%20in%20Education/PG%20-%20Registering%20for%20SingPass.pdf)
 
-3. [FAQs for Parents](https://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/P.Gateway/PG%20FAQs%20for%20Parents.pdf)
+3. [FAQs for Parents](/files/Partners%20in%20Education/PG%20FAQs%20for%20Parents.pdf)
 
-4. [Travel Declaration Guide](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/P.Gateway/PG.Travel.Declaration.Guide.pdf)
+4. [Travel Declaration Guide](/files/Partners%20in%20Education/PG_Travel_Declaration_Guide.pdf)
 
 Please note that the information shown on Parents Gateway are taken from the official student records in the MOE database. To safeguard our students’ data, only parents who are registered in MOE database will be able to use the mobile app. If there are any discrepancies in the data shown on Parents Gateway, please contact the school to update the data.
