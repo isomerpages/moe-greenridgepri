@@ -25,4 +25,11 @@ sections:
         Spaces (SLS). "
       button: Click for more information
       url: /files/Home%20Announcements/SLSStudentAnnexes2021.pdf
+  - infobar:
+      title: Greenridge QR Code
+      description: The Greenridge QR Code is a large QR code installation;
+        commemorative artwork that links to our school website in celebration of
+        our 25th Anniversary.
+      button: Button Text
+      url: /partners-in-education/GRPS-25th-Anniversary/greenridge-qr-code/
 ---
