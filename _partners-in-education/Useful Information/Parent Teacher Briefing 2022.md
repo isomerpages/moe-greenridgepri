@@ -7,17 +7,11 @@ third_nav_title: Useful Information
 # Parent-Teacher Briefing 2022
 Dear Parents,  
 
-  
-
 Thank you for attending the eParent Teacher Briefing on 27 January 2022
-
-  
 
 Here are the various slides. 
 
-  
-
-**School Leader Briefing**  
+<b><u>School Leader Briefing</u></b>
   
 [Primary 1 & 2](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/Useful%20Information/PTB/SL/SL%20slides_P1P2_2022.pdf)  
   
@@ -27,8 +21,7 @@ Here are the various slides. 
   
 [Primary 5 & 6](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/Useful%20Information/PTB/SL/SL%20slides_P5P6_2022.pdf)   
   
-  
-**Year Head Briefing**  
+<b><u>Year Head Briefing</u></b>
   
 [Primary 1 & 2](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/Useful%20Information/PTB/Level/2022_P1P2_PTB_YH%20Slides.pdf)  
   
