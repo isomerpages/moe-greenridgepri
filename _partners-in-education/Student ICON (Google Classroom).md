@@ -62,7 +62,7 @@ d) If the above does not work, use Incognito mode on your browser to login. Upon
 
 You can request to reset via the school's [SLS/Student ICON Account Password Reset Form](https://form.gov.sg/6125b8165dda700012951c3f).
 
-**Resources**  
+<b><u>Resources</u></b>
   
 You can access the onboarding guide by downloading the guide below:
 
