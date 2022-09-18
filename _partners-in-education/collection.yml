@@ -2,4 +2,5 @@ collections:
   partners-in-education:
     output: true
     order:
+      - Home Based Learning (HBL)/.keep
       - Home Based Learning (HBL).md
