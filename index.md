@@ -19,9 +19,10 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Student Learning Spaces - Instructions and FAQs for Students
+      description: "Dear Parents, attached is the annexes and set of Frequently Asked
+        Questions (FAQs) to help you with the usage of the Student Learning
+        Spaces (SLS). "
+      button: Click for more information
       url: /faq/
 ---
