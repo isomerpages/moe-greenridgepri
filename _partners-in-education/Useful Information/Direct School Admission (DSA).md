@@ -15,7 +15,6 @@ third_nav_title: Useful Information
 3. <a href="/files/Partners%20in%20Education/Useful%20Information/NUS%20High%20School.pdf" target="_blank">NUS High School</a>
   
 4. <a href="/files/Partners%20in%20Education/Useful%20Information/Singapore%20Chinese%20Girls%20School.pdf" target="_blank">Singapore Chinese Girls School</a> 
-  
-5.  <a href="/our-special-programme/ELIXiR/" target="_blank">here</a>[School Of The Arts (SOTA)](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/School%20Of%20The%20Arts%20(SOTA).pdf)  
+5. <a href="/files/Partners%20in%20Education/Useful%20Information/School%20Of%20The%20Arts%20(SOTA).pdf" target="_blank">School Of The Arts (SOTA)</a>
   
 6. <a href="/our-special-programme/ELIXiR/" target="_blank">here</a>[Temasek Junior College](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/Temasek%20Junior%20College.pdf)
