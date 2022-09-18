@@ -12,12 +12,12 @@ third_nav_title: Useful Information
 
 1. <a href="/files/Partners%20in%20Education/Useful%20Information/Cedar%20Girls%20Secondary%20School.pdf" target="_blank">Cedar Girls Secondary School</a>  
   
-2. [Nanyang Girls' Hgh School](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/Nanyang%20Girls%20Hgh%20School.pdf)  
+2. <a href="/files/Partners%20in%20Education/Useful%20Information/Nanyang%20Girls%20Hgh%20School.pdf" target="_blank">Nanyang Girls' Hgh School</a> 
   
-3. [NUS High School](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/NUS%20High%20School.pdf)  
+3. <a href="/our-special-programme/ELIXiR/" target="_blank">here</a>[NUS High School](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/NUS%20High%20School.pdf)  
   
-4. [Singapore Chinese Girls School](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/Singapore%20Chinese%20Girls%20School.pdf)  
+4. <a href="/our-special-programme/ELIXiR/" target="_blank">here</a> [Singapore Chinese Girls School](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/Singapore%20Chinese%20Girls%20School.pdf)  
   
-5. [School Of The Arts (SOTA)](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/School%20Of%20The%20Arts%20(SOTA).pdf)  
+5.  <a href="/our-special-programme/ELIXiR/" target="_blank">here</a>[School Of The Arts (SOTA)](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/School%20Of%20The%20Arts%20(SOTA).pdf)  
   
-6. [Temasek Junior College](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/Temasek%20Junior%20College.pdf)
+6. <a href="/our-special-programme/ELIXiR/" target="_blank">here</a>[Temasek Junior College](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/Temasek%20Junior%20College.pdf)
