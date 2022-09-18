@@ -39,4 +39,11 @@ sections:
       url: https://sites.google.com/moe.edu.sg/grps-eopenhouse/main
       image: /images/79a12db1e_4814.jpeg
       alt: Image alt text
+  - infobar:
+      title: MOE Sexuality Education in Schools
+      description: Sexuality Education (SEd) in schools is about enabling students to
+        understand the physiological, social and emotional changes they
+        experience as they mature....
+      button: Click for more information
+      url: /files/Home%20Announcements/Info_on_SEd_for_schs_website_Pri_2022.pdf
 ---
