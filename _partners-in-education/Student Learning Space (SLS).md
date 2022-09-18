@@ -21,7 +21,7 @@ b. <a href="https://www.youtube.com/watch?v=JZhjECbHmiE&feature=youtu.be" targe
   
 **2\. How can I access SLS?**  
   
-SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)  
+SLS can be accessed from <a href="https://learning.moe.edu.sg" target="_blank">https://learning.moe.edu.sg</a>   
   
 The username is the student's first five letters of their name and last five characters of their ID. The SLS password had been given to the student through their teacher.  
   
