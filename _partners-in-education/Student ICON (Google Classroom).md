@@ -7,8 +7,8 @@ description: ""
 
 <b><u>Frequently Asked Questions</u></b> 
 
-Q1. What is the naming convention for the Student iCON email address?**  
-**
+**Q1. What is the naming convention for the Student iCON email address?**  
+
 
 a.  The student’s email address will be based on <**Full Name**\>**@students.edu.sg**
 
