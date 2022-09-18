@@ -8,8 +8,8 @@ third_nav_title: Home Based Learning (HBL)
 
 #### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
 
-[2020 Covid-19 Time Capsule Sheets](http://greenridgepri.moe.edu.sg/qql/slot/u547/PWBD/2020%20Covid-19%20Time%20Capsule%20Sheets.pdf)
+[2020 Covid-19 Time Capsule Sheets](/files/Partners%20in%20Education/2020%20Covid-19%20Time%20Capsule%20Sheets.pdf)
 
-[My Circuit Breaker Library Part 1](https://greenridgepri.moe.edu.sg/qql/slot/u547/HomeBased/My%20Circuit%20Breaker%20Library%20Part%201.pdf)
+[My Circuit Breaker Library Part 1](/files/Partners%20in%20Education/My%20Circuit%20Breaker%20Library%20Part%201.pdf)
 
-[My Circuit Breaker Library Part 2](https://greenridgepri.moe.edu.sg/qql/slot/u547/HomeBased/My%20Circuit%20Breaker%20Library%20Part%202.pdf)
+[My Circuit Breaker Library Part 2](/files/Partners%20in%20Education/My%20Circuit%20Breaker%20Library%20Part%202.pdf)
