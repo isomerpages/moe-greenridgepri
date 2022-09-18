@@ -29,7 +29,7 @@ Please provide your child with the means to access instructions and learning act
 
 ### Live Session Etiquette
 
-### Live Lessons Etiquette (Contributed by Qifa Primary School, Ms Rashna Shantini, Ms Asley Wang and Ms Jasmine See)
+*Live Lessons Etiquette (Contributed by Qifa Primary School, Ms Rashna Shantini, Ms Asley Wang and Ms Jasmine See)*
 
   
 ![HBL Etiquette.png](https://greenridgepri.moe.edu.sg/qql/slot/u547/HomeBased/HBL%20Etiquette.png)  
