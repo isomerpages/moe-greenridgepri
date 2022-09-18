@@ -5,8 +5,8 @@ description: ""
 ---
 # Student ICON (Google Classroom)
 
-**Frequently Asked Questions  
-**  
+<b><u>Frequently Asked Questions</u></b> 
+
 Q1. What is the naming convention for the Student iCON email address?**  
 **
 
