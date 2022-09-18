@@ -2,7 +2,6 @@ collections:
   partners-in-education:
     output: true
     order:
-      - COVID 19 Updates.md
       - Home Based Learning (HBL)/.keep
       - Home Based Learning (HBL)/Home Based Learning (HBL).md
       - Home Based Learning (HBL)/Positive Education and Well Being.md
@@ -12,3 +11,4 @@ collections:
       - Student Learning Space (SLS).md
       - Student ICON (Google Classroom).md
       - Administrator Login.md
+      - COVID 19 Updates.md
