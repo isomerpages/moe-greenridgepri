@@ -10,7 +10,7 @@ third_nav_title: Useful Information
 
 <a href="/our-special-programme/ELIXiR/" target="_blank">here</a>
 
-1. [Cedar Girls Secondary School](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/Cedar%20Girls%20Secondary%20School.pdf)  
+1. <a href="/files/Partners%20in%20Education/Useful%20Information/Cedar%20Girls%20Secondary%20School.pdf" target="_blank">Cedar Girls Secondary School</a>  
   
 2. [Nanyang Girls' Hgh School](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/Nanyang%20Girls%20Hgh%20School.pdf)  
   
