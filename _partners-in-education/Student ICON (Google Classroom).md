@@ -23,7 +23,7 @@ d.  For cases where students share the same full name, we have added a numerica
 <img src="/images/Partners%20in%20Education/frame.png"
      style="width:30%">
 
-Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) to access Student iCON. You can also scan the QR code above to access the above URL.
+Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit <a href="https://workspace.google.com/dashboard" target="_blank">https://workspace.google.com/dashboard</a> to access Student iCON. You can also scan the QR code above to access the above URL.
 
 **Q3. Which Operating System or browser should my students use?**
 
