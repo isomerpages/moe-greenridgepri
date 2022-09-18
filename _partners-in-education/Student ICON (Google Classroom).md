@@ -27,16 +27,10 @@ Student iCON is web-based. Students can use their web browser in their internet-
 
 **Q3. Which Operating System or browser should my students use?**
 
-  
-
 You can refer to the following table below for guidance on the Operating System/browser, which students can use to log in.
 
+![](/images/Partners%20in%20Education/OS.png)
   
-
-![OS.png](https://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/OS.png)  
-
-  
-
 **Q4. What are the default Google applications available for each level?**
 
   
