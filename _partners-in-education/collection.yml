@@ -2,6 +2,7 @@ collections:
   partners-in-education:
     output: true
     order:
+      - Parent Support Group/Parent Engagement.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/Activities organised by PSG and School.md
