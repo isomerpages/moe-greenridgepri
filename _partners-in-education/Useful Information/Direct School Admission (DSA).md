@@ -10,11 +10,10 @@ third_nav_title: Useful Information
 
 <a href="/our-special-programme/ELIXiR/" target="_blank">here</a>
 
-1. <a href="/files/Partners%20in%20Education/Useful%20Information/Cedar%20Girls%20Secondary%20School.pdf" target="_blank">Cedar Girls Secondary School</a>  
+1.  <a href="/files/Partners%20in%20Education/Useful%20Information/Cedar%20Girls%20Secondary%20School.pdf" target="_blank">Cedar Girls Secondary School</a>  
   
 2. <a href="/files/Partners%20in%20Education/Useful%20Information/Nanyang%20Girls%20Hgh%20School.pdf" target="_blank">Nanyang Girls' Hgh School</a> 
-  
-3. <a href="/files/Partners%20in%20Education/Useful%20Information/NUS%20High%20School.pdf" target="_blank">NUS High School</a>
+3. <a href="/files/Partners%20in%20Education/Useful%20Information/NUS%20High%20School.pdf" target="_blank">NUS High School</a>
   
 4. <a href="/our-special-programme/ELIXiR/" target="_blank">here</a> [Singapore Chinese Girls School](http://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/DSA/Singapore%20Chinese%20Girls%20School.pdf)  
   
