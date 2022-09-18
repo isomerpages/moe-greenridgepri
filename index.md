@@ -52,4 +52,10 @@ sections:
         official Facebook page. Click on the like button to follow us. "
       button: "Click here for our FB page. "
       url: https://www.facebook.com/Greenridge.Primary.Official
+  - infobar:
+      title: Primary 1 Orientation Slides (For 2022 P1)
+      description: Dear Parents, here are the slides for the e-briefing for the
+        Primary 1 Orientation held on 15th November 2021.
+      button: Click here for more information
+      url: /permalink
 ---
