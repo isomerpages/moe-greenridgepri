@@ -65,4 +65,10 @@ sections:
         Briefing held on 27 January 2022
       button: Click here for more information
       url: /partners-in-education/Useful-Information/parent-teacher-briefing-2022/
+  - infobar:
+      title: Prize Giving Day 2021 - Guest of Honour Speech
+      description: An inspiring speech by our Guest of Honour, Dr Muhammad Ilman Bin
+        Muhammad Aidil, a GRPS Alumnus, for our Prize Giving Day 2021.
+      button: Click here for more information
+      url: /files/Home%20Announcements/GOH_Speech_2021.pdf
 ---
