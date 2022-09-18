@@ -67,4 +67,4 @@ You can request to reset via the school's  <a href="https://form.gov.sg/6125b8
 You can access the onboarding guide by downloading the guide below:
 
 
-[Student iCON Guide.pdf](https://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/Student%20iCON%20Guide.pdf)
+[Student iCON Guide.pdf](/files/Partners%20in%20Education/Student%20iCON%20Guide.pdf)
