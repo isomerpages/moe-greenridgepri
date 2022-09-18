@@ -25,7 +25,7 @@ Register as an alumni member via the google link or QR code below to be kept upd
 <img src="/images/Partners%20in%20Education/AlumniQrCode.png"
      style="width:30%; float:left">
 		 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 		 
 [http://bit.ly/GRPS\_Alumni](http://bit.ly/GRPS_Alumni)		 
 
