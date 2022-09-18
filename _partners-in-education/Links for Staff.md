@@ -47,7 +47,7 @@ description: ""
   </tr>
   <tr>
     <td>Discipline Resource Portal <br><br></td>
-    <td><a href="https://tinyurl.com/discipline-portal">https://tinyurl.com/discipline-portal</a></td>
+    <td><a href="https://tinyurl.com/discipline-portal"  target="_blank">https://tinyurl.com/discipline-portal</a></td>
   </tr>
 </tbody>
 </table>
