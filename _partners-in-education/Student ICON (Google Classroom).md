@@ -20,7 +20,10 @@ d.  For cases where students share the same full name, we have added a numerica
 
 **Q2. How can my child log in to Student iCON?**
 
-**![frame.png](https://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/frame.png)**Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) to access Student iCON. You can also scan the QR code above to access the above URL. 
+<img src="/images/Partners%20in%20Education/frame.png"
+     style="width:30%">
+
+Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) to access Student iCON. You can also scan the QR code above to access the above URL.
 
 **Q3. Which Operating System or browser should my students use?**
 
