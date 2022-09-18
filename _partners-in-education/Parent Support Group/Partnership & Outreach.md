@@ -22,3 +22,9 @@ At Greenridge Pri, teachers also do their part to contribute to the community. S
 The school invites senior citizens to the school during National Day every year. During the event, the contribution and sacrifices of the pioneer generation are highlighted to the pupils and the seniors are appreciated and thanked in the nation-building efforts. The event also gives opportunity to the student leaders to interact with the seniors, understand them better and to be appreciative and kinder to seniors in their family.
 
 #### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
+<b><u>Food Collection for the Needy</u></b>
+
+Every year the P6 pupils collect food items from residents in the neighbourhood and hand it over to our collaborating partner, Food from the Heart (FFTH). The experience of collecting and packing the food items for the needy people teach a valuable lesson for our pupils to care for the less fortunate people in the community. FFTH identifies needy families and distributes the food item to families in need.
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
