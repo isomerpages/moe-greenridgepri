@@ -9,14 +9,13 @@ description: ""
 
 **Q1. What is the naming convention for the Student iCON email address?**  
 
-
-a.  The student’s email address will be based on <**Full Name**\>**@students.edu.sg**
+<p>a.  The student’s email address will be based on &lt <b>Full Name</b> &gt <b>@students.edu.sg</b></p>
 
 b.  Any space in the full name will be replaced with **an underscore**.
 
 c.  Should the student’s full name have words such as “Bin", "Bte” and “s/o”, they will not appear in the email address.
 
-d.  For cases where students share the same full name, we have added a numerical number (e.g. Jon\_Tan\_1, Jon\_Tan\_2) to differentiate their email addresses.  
+d.  For cases where students share the same full name, we have added a numerical number (e.g. Jon\_Tan\_1, Jon\_Tan\_2) to differentiate their email addresses.
   
 
 **Q2. How can my child log in to Student iCON?**
