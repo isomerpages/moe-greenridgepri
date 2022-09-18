@@ -30,6 +30,6 @@ sections:
       description: The Greenridge QR Code is a large QR code installation;
         commemorative artwork that links to our school website in celebration of
         our 25th Anniversary.
-      button: Button Text
+      button: Click for more information
       url: /partners-in-education/GRPS-25th-Anniversary/greenridge-qr-code/
 ---
