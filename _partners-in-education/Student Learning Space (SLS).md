@@ -34,7 +34,9 @@ You can request to reset via the school's <a href="https://form.gov.sg/6125b816
 
 During school operating hours, students should contact the School-based Helpline for Student Learning Spaces (SLS) queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
-School-based Helpline: 67604265 Mondays - Fridays: 8:00 am - 4:00 pm Email: grps@moe.edu.sg
+School-based Helpline: 67604265   
+Mondays - Fridays: 8:00 am - 4:00 pm   
+Email: grps@moe.edu.sg
 
 <u>Non-School Operating Hours</u>
 
