@@ -41,7 +41,7 @@ c)       Guiding students on proper use of hand sanitiser:
 
 *   Step 1: Dispense enough to cover all surfaces of both hands (a coin-sized drop on your palm.
 
-*   Step 2: Rub your hands together, ensuring both hands are covered with sanitiser, including the area                under your fingernails.
+*   Step 2: Rub your hands together, ensuring both hands are covered with sanitiser, including the area under your fingernails.
 
 *   Step 3: Keep going for about 15 – 20 seconds, or until your hands feel dry.
 
