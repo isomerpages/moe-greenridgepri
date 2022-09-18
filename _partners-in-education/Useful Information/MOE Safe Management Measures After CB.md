@@ -46,4 +46,4 @@ c)       Guiding students on proper use of hand sanitiser:
 *   Step 3: Keep going for about 15 – 20 seconds, or until your hands feel dry.
 
 
-[MOE.Safe.Management.Measures.after.CB.(Parents).pdf](https://greenridgepri.moe.edu.sg/qql/slot/u547/General/MOE.Safe.Management.Measures.after.CB.(Parents).pdf)
+[MOE.Safe.Management.Measures.after.CB.(Parents).pdf](/files/Partners%20in%20Education/Useful%20Information/MOE_Safe_Management_Measures_after_CB_(Parents).pdf)
