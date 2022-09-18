@@ -2,9 +2,9 @@ collections:
   partners-in-education:
     output: true
     order:
-      - Home Based Learning (HBL)/HBL Resources.md
       - Home Based Learning (HBL)/.keep
       - Home Based Learning (HBL)/Home Based Learning (HBL).md
       - Home Based Learning (HBL)/Positive Education and Well Being.md
       - Home Based Learning (HBL)/HBL Schedule.md
+      - Home Based Learning (HBL)/HBL Resources.md
       - Student Learning Space (SLS).md
