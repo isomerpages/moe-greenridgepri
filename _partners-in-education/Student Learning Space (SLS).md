@@ -26,7 +26,7 @@ SLS can be accessed from <a href="https://learning.moe.edu.sg" target="_blank">h
 The username is the student's first five letters of their name and last five characters of their ID. The SLS password had been given to the student through their teacher.  
   
 **3\. If you have forgotten your password, what should you do?**  
-You can request to reset via the school's [SLS/Student ICON Account Password Reset Form](https://form.gov.sg/6125b8165dda700012951c3f). Alternatively you can also contact the school based helpline and SLS helpdesk. Please refer to the operating hours listed below.  
+You can request to reset via the school's <a href="https://form.gov.sg/6125b8165dda700012951c3f" target="_blank">SLS/Student ICON Account Password Reset Form</a>. Alternatively you can also contact the school based helpline and SLS helpdesk. Please refer to the operating hours listed below.  
 
 **4. SLS Support for HBL**  
   
