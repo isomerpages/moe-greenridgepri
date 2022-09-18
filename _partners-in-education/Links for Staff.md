@@ -78,7 +78,7 @@ description: ""
   </tr>
   <tr>
     <td>GRPS S-Cube</td>
-    <td><br><a href="https://tinyurl.com/grps-s-cube">https://tinyurl.com/grps-s-cube</a><br></td>
+    <td><br><a href="https://tinyurl.com/grps-s-cube"  target="_blank">https://tinyurl.com/grps-s-cube</a><br></td>
   </tr>
   <tr>
     <td>National School Games <br><br></td>
@@ -86,7 +86,7 @@ description: ""
   </tr>
   <tr>
     <td>All EARS Form Builder</td>
-    <td><br><a href="https://forms.moe.edu.sg/">https://forms.moe.edu.sg/</a><br></td>
+    <td><br><a href="https://forms.moe.edu.sg/"  target="_blank">https://forms.moe.edu.sg/</a><br></td>
   </tr>
 </tbody>
 </table>
