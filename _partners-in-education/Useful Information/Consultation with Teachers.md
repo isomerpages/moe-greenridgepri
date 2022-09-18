@@ -11,3 +11,29 @@ Note:
 
 *   Include the child's name and class for reference purposes
 *   Leave a contact number
+
+### Ex-Students Visit On Teachers' Day
+
+Dear ex-Greenridgeans, you are cordially invited to your alma mater to visit your ex-teachers on Teachers' Day celebration.  
+  
+**Date: 5 Sept 2019, Thursday  
+Time: 10.45 a.m. to 12.15 p.m.  
+Venue: School Hall**  
+  
+It's our school's 25th anniversary next year. Our new Principal, Mdm Ong, would like to share some interesting news with all of you. Please pass this message around to other ex-Greenridgeans. Thank you. From GRPS.
+
+  
+**Admin Matters**  
+  
+1\. Ex-students only.  
+  
+2\. Must be in school uniform, unless from tertiary institutions.  
+  
+3\. Enter by Gate 2.  
+  
+4\. Encouraged to make appointment with teachers, if possible.  
+  
+5\. To leave school premises by 12.15pm.  
+  
+  
+Thank you.
