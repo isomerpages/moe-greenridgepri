@@ -15,7 +15,7 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
   
 Click on the title to watch and learn more about  
   
-a. [What is SLS?](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
+a. <a href="https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg" target="_blank">What is SLS?</a>
   
 b. [What are the resources inside SLS that can support Self-Directed Learning?](https://www.youtube.com/watch?v=JZhjECbHmiE&feature=youtu.be)  
   
