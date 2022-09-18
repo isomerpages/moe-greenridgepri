@@ -2,9 +2,6 @@ collections:
   partners-in-education:
     output: true
     order:
-      - GRPS 25th Anniversary/.keep
-      - GRPS 25th Anniversary/GRPS 25th Anniversary.md
-      - GRPS 25th Anniversary/Greenridge QR Code.md
       - Home Based Learning (HBL)/.keep
       - Home Based Learning (HBL)/Home Based Learning (HBL).md
       - Home Based Learning (HBL)/Positive Education and Well Being.md
@@ -14,4 +11,7 @@ collections:
       - Student Learning Space (SLS).md
       - Student ICON (Google Classroom).md
       - COVID 19 Updates.md
+      - GRPS 25th Anniversary/.keep
+      - GRPS 25th Anniversary/GRPS 25th Anniversary.md
+      - GRPS 25th Anniversary/Greenridge QR Code.md
       - Administrator Login.md
