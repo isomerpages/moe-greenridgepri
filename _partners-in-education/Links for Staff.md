@@ -78,7 +78,7 @@ description: ""
   </tr>
   <tr>
     <td>GRPS S-Cube</td>
-    <td><br><a href="https://tinyurl.com/grps-s-cube"  target="_blank">https://tinyurl.com/grps-s-cube</a><br></td>
+    <td><a href="https://tinyurl.com/grps-s-cube"  target="_blank">https://tinyurl.com/grps-s-cube</a><br></td>
   </tr>
   <tr>
     <td>National School Games <br><br></td>
