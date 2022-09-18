@@ -59,4 +59,10 @@ sections:
       button: Click here for more information
       url: /permalink
       subtitle: FILE SIZE >5MB, NOT UPLOADED
+  - infobar:
+      title: Parent Teacher Briefing Slides 2022
+      description: Dear Parents, here are the various slides for the Parent Teacher
+        Briefing held on 27 January 2022
+      button: Click here for more information
+      url: /partners-in-education/Useful-Information/parent-teacher-briefing-2022/
 ---
