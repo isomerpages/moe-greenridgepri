@@ -23,7 +23,7 @@ description: ""
   </tr>
   <tr>
     <td>School Cockpit <br></td>
-    <td><a href="https://schoolcockpit.moe.gov.sg/">https://schoolcockpit.moe.gov.sg</a> </td>
+    <td><a href="https://schoolcockpit.moe.gov.sg/"  target="_blank">https://schoolcockpit.moe.gov.sg</a> </td>
   </tr>
   <tr>
     <td>SC Mobile</td>
@@ -31,7 +31,7 @@ description: ""
   </tr>
   <tr>
     <td>HRP<br></td>
-    <td><a href="https://www.hrp.gov.sg/">https://www.hrp.gov.sg/hrp/#/</a><br></td>
+    <td><a href="https://www.hrp.gov.sg/" target="_blank">https://www.hrp.gov.sg/hrp/#/</a><br></td>
   </tr>
   <tr>
     <td>iExams<br></td>
