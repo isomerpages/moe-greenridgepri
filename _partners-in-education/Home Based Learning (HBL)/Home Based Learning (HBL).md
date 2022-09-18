@@ -13,16 +13,11 @@ SLS: <a href="https://vle.learning.moe.edu.sg/" target="_blank">https://vle.lear
     
 Zoom: <a href="https://zoom.us/" target="_blank">https://zoom.us/</a>
    
-eZhishi: <a href="https://www.ezhishi.net/" target="_blank">https://www.ezhishi.net/</a>
-  
-  
+eZhishi: <a href="https://www.ezhishi.net/" target="_blank">https://www.ezhishi.net/</a>  
 
-Learning Devices 
-
-  
+### Learning Devices 
 
 Please provide your child with the means to access instructions and learning activities. 
------------------------------------------------------------------------------------------
 
 *   Personal Learning Device (computer, laptop, tablet or smartphone)
     
@@ -31,9 +26,6 @@ Please provide your child with the means to access instructions and learning act
 *   Speakers, headphones or earphones, microphone (Live sessions)
     
 *   Web camera (Live sessions)
-    
-
-  
 
 ### Live Session Etiquette
 
