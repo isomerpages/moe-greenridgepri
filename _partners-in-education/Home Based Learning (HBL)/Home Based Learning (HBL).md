@@ -33,4 +33,4 @@ Please provide your child with the means to access instructions and learning act
 
   ![](/images/Partners%20in%20Education/Home%20Based%20Learning%20(HBL)/HBL%20Etiquette.png)
   
-<a href="https://www.ezhishi.net/" target="_blank">Click here</a> for Student Learning Space (SLS) Support For Home-Based Learning
+<a href="/partners-in-education/student-learning-space-sls/" target="_blank">Click here</a> for Student Learning Space (SLS) Support For Home-Based Learning
