@@ -27,9 +27,9 @@ To reduce transmission risks when school reopens on 2 June, the school will upho
 
 ### (D) Safety for Other School-Based Activities
 
-•       School will continue to suspend mass events like assemblies and inter-class CCAs to minimise intermingling. No external activities should be held outside of school, including inter-school student activities, for the time being.
+* School will continue to suspend mass events like assemblies and inter-class CCAs to minimise intermingling. No external activities should be held outside of school, including inter-school student activities, for the time being.
 
-•       **\[NEW\]** Students should not wear masks when engaging in activities like running, jogging. They should keep their masks in a hygienic manner before the start of physical activity (e.g. covered bag/ resealable bag with name labels). Safe distancing should follow the national posture for exercising i.e. 2m during physical activities. NAPFA test for P4 and P6 will be cancelled due to challenges posed by safety management measures to implement the testing safely. National School Games competitions for 2020 will be cancelled as there is insufficient time to complete the season within the school calendar. The students would not be adequately prepared for competition due to the lack of training since suspension of CCAs from the end of Term 1.
+* <span style = "color: #0b5394"> <b>[New]</b> Students should not wear masks when engaging in activities like running, jogging. They should keep their masks in a hygienic manner before the start of physical activity (e.g. covered bag/ resealable bag with name labels). Safe distancing should follow the national posture for exercising i.e. 2m during physical activities. NAPFA test for P4 and P6 will be cancelled due to challenges posed by safety management measures to implement the testing safely. National School Games competitions for 2020 will be cancelled as there is insufficient time to complete the season within the school calendar. The students would not be adequately prepared for competition due to the lack of training since suspension of CCAs from the end of Term 1.</span> 
 
 ### (E) Guidelines on Personal Hygiene (students will be guided by teachers)
 
