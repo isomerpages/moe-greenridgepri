@@ -12,4 +12,4 @@ third_nav_title: Useful Information
   
 4. [Waiting List Form for Greenridge Primary School](https://go.gov.sg/waitinglist-grps)  
   
-5. [Group Personal Accident (GPA) Insurance for Students](https://studentgpa.incomegroupins.com.sg/)
+5. <a href="https://studentgpa.incomegroupins.com.sg/" target="_blank">Group Personal Accident (GPA) Insurance for Students</a>
