@@ -24,5 +24,5 @@ sections:
         Questions (FAQs) to help you with the usage of the Student Learning
         Spaces (SLS). "
       button: Click for more information
-      url: /faq/
+      url: /files/Home%20Announcements/SLSStudentAnnexes2021.pdf
 ---
