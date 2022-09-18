@@ -15,9 +15,8 @@ To reduce transmission risks when school reopens on 2 June, the school will upho
 
 ### (B) Safety in Classrooms
 
-•       School will continue to implement safe distancing and personal hygiene measures and during lessons, seating with at least 1m between students, wipe down routine, washing hands regularly. The second temperature-taking will be taken prior to afternoon lessons e.g. remedials which will commence from week 3.
-
-•       **\[New\]** Teacher will employ frontal teaching with masks or face shields and stand at least 1m away from students where possible.
+* School will continue to implement safe distancing and personal hygiene measures and during lessons, seating with at least 1m between students, wipe down routine, washing hands regularly. The second temperature-taking will be taken prior to afternoon lessons e.g. remedials which will commence from week 3.
+* <span style = "color: #0b5394"> <b>[New]</b> Teacher will employ frontal teaching with masks or face shields and stand at least 1m away from students where possible.</span>
 
 ### (C) Safety for Recess-based Activities
 
