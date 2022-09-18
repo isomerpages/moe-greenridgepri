@@ -86,7 +86,7 @@ description: ""
   </tr>
   <tr>
     <td>All EARS Form Builder</td>
-    <td><br><a href="https://forms.moe.edu.sg/"  target="_blank">https://forms.moe.edu.sg/</a><br></td>
+    <td><a href="https://forms.moe.edu.sg/"  target="_blank">https://forms.moe.edu.sg/</a><br></td>
   </tr>
 </tbody>
 </table>
