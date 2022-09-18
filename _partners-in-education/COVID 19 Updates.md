@@ -15,3 +15,11 @@ description: ""
 This video will guide children above 7 years old through the self-swab Antigen Rapid Test (ART) for possible COVID-19 exposure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bmrlaBM-ZlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Antigen Rapid Test (ART) Self-Swab Video Guide by Greenridge Primary**  
+  
+Our in-house video guide of the self-swab ART using the BD Veritor ART kit. Hope this helps.  
+  
+Stay safe everyone!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JQNRwk33CAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
