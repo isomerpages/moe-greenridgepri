@@ -17,7 +17,7 @@ Click on the title to watch and learn more about
   
 a. <a href="https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg" target="_blank">What is SLS?</a>
   
-b. [What are the resources inside SLS that can support Self-Directed Learning?](https://www.youtube.com/watch?v=JZhjECbHmiE&feature=youtu.be)  
+b. <a href="https://www.youtube.com/watch?v=JZhjECbHmiE&feature=youtu.be" target="_blank">What are the resources inside SLS that can support Self-Directed Learning?</a>
   
 **2\. How can I access SLS?**  
   
