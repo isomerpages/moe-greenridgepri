@@ -46,4 +46,10 @@ sections:
         experience as they mature....
       button: Click for more information
       url: /files/Home%20Announcements/Info_on_SEd_for_schs_website_Pri_2022.pdf
+  - infobar:
+      title: Greenridge Pri Facebook Link
+      description: "You can follow the latest events and activities via our school's
+        official Facebook page. Click on the like button to follow us. "
+      button: "Click here for our FB page. "
+      url: https://www.facebook.com/Greenridge.Primary.Official
 ---
