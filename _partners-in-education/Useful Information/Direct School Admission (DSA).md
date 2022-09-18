@@ -8,8 +8,6 @@ third_nav_title: Useful Information
 
 <b><u>Application of Secondary 1 in 2021</u></b>
 
-<a href="/our-special-programme/ELIXiR/" target="_blank">here</a>
-
 1.  <a href="/files/Partners%20in%20Education/Useful%20Information/Cedar%20Girls%20Secondary%20School.pdf" target="_blank">Cedar Girls Secondary School</a>  
 2. <a href="/files/Partners%20in%20Education/Useful%20Information/Nanyang%20Girls%20Hgh%20School.pdf" target="_blank">Nanyang Girls' Hgh School</a> 
 3. <a href="/files/Partners%20in%20Education/Useful%20Information/NUS%20High%20School.pdf" target="_blank">NUS High School</a>
