@@ -21,4 +21,6 @@ The photos below captured some of the fun-filled moment when they students recon
 
 Register as an alumni member via the google link or QR code below to be kept updated on future events and activities.
 
-![](/images/Partners%20in%20Education/AlumniQrCode.png)
+
+<img src="/images/Partners%20in%20Education/AlumniQrCode.png"
+     style="width:30%; float:left">
