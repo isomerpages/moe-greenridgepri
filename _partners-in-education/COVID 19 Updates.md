@@ -3,7 +3,7 @@ title: COVID 19 Updates
 permalink: /partners-in-education/covid-19-updates/
 description: ""
 ---
-# Display error when embeding video for the page (link still works and will bring you to youtube). 
+# Display error when embeding the 2nd video for the page (link still works and will bring you to youtube). 
 # COVID-19 Updates
 <b><u>Antigen Rapid Test (ART) Step by Step Guide</u></b>
   
