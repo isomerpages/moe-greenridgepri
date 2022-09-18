@@ -14,3 +14,11 @@ Our school has been inviting children from the nearby kindergartens for the ‘P
 <b><u>Staff Values in Action</u></b>
 
 At Greenridge Pri, teachers also do their part to contribute to the community. Since 2015, teachers have been visiting senior citizens’ homes to interact and engage the seniors in fun-filled and meaningful activities. The experience the teachers gained during the Staff VIA is then shared with pupils to enthuse and create a ripple effect among the pupils and motivate them to contribute to their community.
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+
+<b><u>Hosting for seniors during National Day</u></b>
+
+The school invites senior citizens to the school during National Day every year. During the event, the contribution and sacrifices of the pioneer generation are highlighted to the pupils and the seniors are appreciated and thanked in the nation-building efforts. The event also gives opportunity to the student leaders to interact with the seniors, understand them better and to be appreciative and kinder to seniors in their family.
+
+#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
