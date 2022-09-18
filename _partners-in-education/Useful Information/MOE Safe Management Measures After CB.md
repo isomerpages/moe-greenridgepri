@@ -9,9 +9,9 @@ To reduce transmission risks when school reopens on 2 June, the school will upho
 
 ### (A) School Arrival and Dismissal
 
-•       School will continue to do visual screening of students at the gates for flu-like symptoms and teachers will continue to screen their students for flu-like symptoms in class, and ask students if any of their household members exhibit flu-like symptoms
+* School will continue to do visual screening of students at the gates for flu-like symptoms and teachers will continue to screen their students for flu-like symptoms in class, and ask students if any of their household members exhibit flu-like symptoms
 
-•       **\[New\]** All staff and students will wear a face mask to school at all times except during eating and drinking.  Teachers and students will also be issued face shield as a secondary option during lesson if long hour use of face mask is uncomfortable. The bookshop will sell disposable surgical masks and reusable masks.
+* <span style = "color: #a70303"> <b>[New]</b> All staff and students will wear a face mask to school at all times except during eating and drinking.  Teachers and students will also be issued face shield as a secondary option during lesson if long hour use of face mask is uncomfortable. The bookshop will sell disposable surgical masks and reusable masks.</span>
 
 ### (B) Safety in Classrooms
 
