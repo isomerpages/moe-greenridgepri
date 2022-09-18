@@ -33,24 +33,13 @@ You can refer to the following table below for guidance on the Operating System/
   
 **Q4. What are the default Google applications available for each level?**
 
-  
-
 Please refer to the attached Student iCON Onboarding guide for the list of default applications. Any additions to the list of applications will be done after a review of the application and its relevance for use by our students.
 
+![](/images/Partners%20in%20Education/Pri%201-3.png)
   
-
-  
-
-![Pri 1-3.png](https://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/Pri%201-3.png)
-
-  
-
-![Pri 4-6.png](https://greenridgepri.moe.edu.sg/qql/slot/u547/Partners%20in%20Education/Pri%204-6.png)  
-
-  
+![](/images/Partners%20in%20Education/Pri%204-6.png)
 
 **Please do not access iCON through apps such as Google classroom, Gmail on mobile devices. Use either a Safari, MS Edge or Chrome browsers to access Student iCON.**     
-  
   
 **Q5. I have encountered one of the following problems:**  
   
