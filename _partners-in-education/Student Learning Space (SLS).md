@@ -5,6 +5,8 @@ description: ""
 ---
 # Student Learning Space (SLS)
 
+![](/images/Partners%20in%20Education/SLS.jpg)
+
 As part of Ministry of Education’s (MOE) commitment to nurture future-ready learners, an online learning platform known as the Student Learning Space (SLS) has been developed and rolled out in 2018 by MOE.  
   
 The SLS is an online platform with tools and curriculum-aligned resources for all students to learn at their own pace and collaboratively. With the SLS, students can take greater ownership of their learning and pick up skills and habits that prepare them for lifelong learning.  
