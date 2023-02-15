@@ -4,4 +4,5 @@ permalink: /about-us/open-house/
 description: ""
 ---
 # Open House
-Click <a href="https://sites.google.com/moe.edu.sg/grps-eopenhouse/main" target="_blank">here</a> for more information on the Open House.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JKN4B7TJjUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
