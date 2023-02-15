@@ -14,4 +14,4 @@ We advocate Positive Education that draws on individual strengths and personal m
 
 I am proud to co-construct this foreword (video) and experience with our teachers and students
 
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/36QyaW4QxhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align: center;"><iframe width="600" height="400" src="https://www.youtube.com/embed/36QyaW4QxhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
