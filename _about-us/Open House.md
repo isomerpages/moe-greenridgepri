@@ -6,3 +6,14 @@ description: ""
 # Open House
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JKN4B7TJjUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[Virtual School Tour ]()
+
+[School Programmes ]()
+
+[Webinar Registration ]()
+
+[P1 Orientation (2019-2022)]()
+
+[School Website]()
+
+[Facebook Page]()
