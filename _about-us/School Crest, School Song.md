@@ -3,7 +3,6 @@ title: School Crest, School Song
 permalink: /about-us/school-crest-school-song/
 description: ""
 ---
-
 # School Crest, School Song
 
 ### School Crest
