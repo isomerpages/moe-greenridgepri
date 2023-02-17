@@ -12,13 +12,14 @@ JTTH is the school’s flagship programme to inculcate good values and character
 
 As for the Primary 5 and 6 pupils, they are issued with a Values Advocate Card with pre-existing tasks. Upper primary pupils are encouraged to explicitly display positive values and behaviours and advocate it to their fellow friend and family at home.
 
-#### Upload image slideshow to google slides according to the example in this page:&nbsp;[https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRux_R0aIBt1EP6cbdfLJfUg0SXusPkL6Yxj1qzfXIF9s0sd9aOXhKbLcRbxZ1fIBOtQNbNH795ciFK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
 
 <u><b>Value of the Month</b></u>
 
 Every month, pupils are exposed to a new focused value for the month (VOTH). These values comprise of the school and CCE core values. During the presentation, teachers provide definition and specific example to show what the values mean so that pupils can understand and internalise those values.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyHA2sTCC4C3eaKXJwPJ4FbiCo4oUA2PlPL_ZS4Vi-pRO37LUDGAQF98IPCx10yEeSmrD6ZofqQgj_/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyHA2sTCC4C3eaKXJwPJ4FbiCo4oUA2PlPL_ZS4Vi-pRO37LUDGAQF98IPCx10yEeSmrD6ZofqQgj_/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Upload image slideshow to google slides according to the example in this page:&nbsp;[https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
 
