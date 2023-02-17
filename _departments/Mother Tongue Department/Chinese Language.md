@@ -55,19 +55,26 @@ We strive to nurture confident language learners who have the love for the cultu
 
 ![](/images/Departments/Mother%20Tongue%20Department/Chinese/Chinese%20Language%20New%20Curriculum_3.jpeg)
 
-##### Mother Tongue Fortnight 2015
-
-***Consider removing this part***
-
 #### Chinese New Year Celebration
 
-***Upload the slide show images to google slides (see sample)***
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vToxjo31hiqMi_kD0Dp0FVGGcnrhzlKb5kP6zv-FShXtbULRLOd59E7GEaAHoTcUwoHa3nz__8gknpv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true"></iframe>
 
-<iframe allowfullscreen="true" height="569" width="760" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vToxjo31hiqMi_kD0Dp0FVGGcnrhzlKb5kP6zv-FShXtbULRLOd59E7GEaAHoTcUwoHa3nz__8gknpv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+#### Best Compositions
+
+Here are the best Chinese Language compositions by level
+
+[Primary 3](/files/Departments/Mother%20Tongue/P3%20Best%20compositions.pdf)
+  
+[Primary 4](/files/Departments/Mother%20Tongue/P4%20Best%20compositions.pdf)
+  
+[Primary 5](/files/Departments/Mother%20Tongue/P5%20Best%20compositions.pdf)
+  
+[Primary 6](/files/Departments/Mother%20Tongue/P6%20Best%20compositions.pdf)
+
 
 #### Mother Tongue Fortnight
 
-***Upload the slide show images to google slides***
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX1gmS2s38TSwnMyyxaT4jXwg1cOnHRwfAp0gAwT8GVlNhIGEwF72kjHpnR-ShwsIFgpzDV40WmQPM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Resources
 
