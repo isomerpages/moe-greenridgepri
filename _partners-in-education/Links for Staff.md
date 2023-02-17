@@ -3,8 +3,6 @@ title: Links for Staff
 permalink: /partners-in-education/links-for-staff/
 description: ""
 ---
-# Broken Links: MOE Intranet, School Cockpit, iExams, SSOE Portal, Discipline Resource Portal
-
 # Links for Staff
 
 <table>
