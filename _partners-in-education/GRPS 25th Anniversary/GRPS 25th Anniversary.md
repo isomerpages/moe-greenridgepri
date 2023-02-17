@@ -4,7 +4,7 @@ permalink: /partners-in-education/GRPS-25th-Anniversary/
 description: ""
 third_nav_title: GRPS 25th Anniversary
 ---
-# Display error when embeding video for the page (link still works and will bring you to youtube). 
+
 # GRPS 25th Anniversary
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/5v-hbJFIXaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
