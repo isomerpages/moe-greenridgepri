@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
+      - About Us.md
       - Principal's Message.md
       - Mission, Vision & Values.md
       - History.md
-      - About Us.md
       - School Virtual Tour.md
       - Publication.md
       - Staff.md
