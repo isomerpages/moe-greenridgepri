@@ -27,8 +27,6 @@ Every month, pupils are exposed to a new focused value for the month (VOTH). The
 
 A million minutes of graciousness is a programme that provides a platform for pupils to display gracious and responsible behaviour. This programme encourages pupils to think beyond themselves and to care for the people and environment around them. Examples of such acts can be in the form of daily routinised cleaning, weekly recycling, tree planting, ‘Clean Plate’ campaign, donating clothes and toys for underprivileged children, conducting a food drive to support needy families or writing an appreciation card for the cleaners and security guards during the Kindness Day SG.
 
-#### Upload image slideshow to google slides according to the example in this page:&nbsp;[https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
-
 
 <u><b>Values in Action</b></u>
 
