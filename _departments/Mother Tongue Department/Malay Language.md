@@ -7,7 +7,6 @@ third_nav_title: Mother Tongue Department
 # Malay Language
 #### Malay Language Committee Members
 
-![](/images/Departments/Mother%20Tongue%20Department/Malay/MALAY_P1.jpg)
 
 | Teachers               | Designation                                         |
 |------------------------|-----------------------------------------------------|
