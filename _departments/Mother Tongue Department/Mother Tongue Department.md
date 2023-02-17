@@ -6,8 +6,6 @@ third_nav_title: Mother Tongue Department
 ---
 # Mother Tongue Department
 
-![](/images/Departments/Mother%20Tongue%20Department/MOTHER%20TONGUE_P1.jpg)
-
 |             Designation             |              Name            |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Chinese Language Committee Members  | <br>- Mdm Pek Shu San (P1& P2 Year Head )<br>- Mrs Heng-Wang Yingshan (Level Head / CL)<br>- Ms Neo Jie Ying (P1 Level Representative)<br>- Mdm Chiang Yen (P2 Level Representative)<br>- Mdm Zhang Wei Hua (P3 Level Representative)<br>- Mdm Chan Siew Woon (P4 Level Representative)<br>- Ms Ang Him Lui (P5 Level Representative)<br>- Mdm Kong Kit Ling (P6 Level Representative)<br>- Mdm Wang Jiajia (P5P6 HCL Level Representative)<br>- Mdm Chua Sze Ying (P5P6 FCL Level Representative)<br>- Mdm Shi Cunyu <br>- Ms Wong Hui Lin<br>- Mdm Tan Pei Ling<br>- Mdm Li Hong Ying<br>- Mdm Yap Eik Teng<br>- Ms Ng Siew Qing<br>- Mr Lee Sou Wee<br> |
