@@ -3,7 +3,6 @@ title: Links to NE Resources
 permalink: /west-zone-coe-for-cce/links-to-ne-resources/
 description: ""
 ---
-# links for items number 1,2,3,4,6 are broken
 # Links to NE Resources
 
 ![1.jpg](https://greenridgepri.moe.edu.sg/qql/slot/u547/West%20Zone%20COE%20for%20CCE/Links%20to%20NE%20Related/1.jpg)  
