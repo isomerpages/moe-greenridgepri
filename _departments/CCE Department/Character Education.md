@@ -23,14 +23,12 @@ Every month, pupils are exposed to a new focused value for the month (VOTH). The
 
 <u><b>A Million Minutes of Graciousness</b></u>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSQzfHUeYK02GYpurcPhZzw_IXD41W527yYy2_oUnox_MCWCaOVsHjfrFPxFLOLi8OIwavOFESm268u/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
 A million minutes of graciousness is a programme that provides a platform for pupils to display gracious and responsible behaviour. This programme encourages pupils to think beyond themselves and to care for the people and environment around them. Examples of such acts can be in the form of daily routinised cleaning, weekly recycling, tree planting, ‘Clean Plate’ campaign, donating clothes and toys for underprivileged children, conducting a food drive to support needy families or writing an appreciation card for the cleaners and security guards during the Kindness Day SG.
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSQzfHUeYK02GYpurcPhZzw_IXD41W527yYy2_oUnox_MCWCaOVsHjfrFPxFLOLi8OIwavOFESm268u/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <u><b>Values in Action</b></u>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSrsstEZKNmOWxOZykCklmP6z6BaAz0ZUixXdripJHwJ_T26ZdwahTz-uKX4zp7lDHhTfuyif-YWtg/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 VIA is an integral component of Character and Citizenship Education in our school. Values in Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA also fosters student ownership over how they contribute to the community. The 6 year VIA plan for our school can be found below:
 
@@ -42,3 +40,6 @@ VIA is an integral component of Character and Citizenship Education in our schoo
 | P4    | Community |          P1 Buddy Programme &amp;<br>Clean Buddy Workshop          |
 | P5    |   Nation  |                      I am a Dengue Fighter                     |
 | P6    |   World   | Recycle @ Bt Panjang &amp;<br>Intergenerational Learning Programme |
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSrsstEZKNmOWxOZykCklmP6z6BaAz0ZUixXdripJHwJ_T26ZdwahTz-uKX4zp7lDHhTfuyif-YWtg/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
