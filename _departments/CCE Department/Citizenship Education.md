@@ -15,7 +15,7 @@ third_nav_title: CCE Department
 
 <p style="text-align: justify;">On the actual day, pupils had an assembly talk that highlighted the main events that happened 74 years ago and on the importance of the five aspects of total defence. During recess, pupils experienced eating rice porridge with sweet potatoes - the same food that people ate during the Japanese occupation. As part of recess activities, the pupils learnt how to dress small cuts and wounds, perform the “Stop, Drop and Roll” as part of a drill should their clothes catch fire. Pupils also contributed recyclables to show how they can play a part for a sustainable Singapore.</p>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTopbScsl_Ng_5Z_hNhsSgUc6f_7ZnecplxEjwbiEDip4I1CSOsajcUhNTYZgfD4WxjLa8IxFSuCwuY/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTopbScsl_Ng_5Z_hNhsSgUc6f_7ZnecplxEjwbiEDip4I1CSOsajcUhNTYZgfD4WxjLa8IxFSuCwuY/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <u><b>2) International Friendship Day</b></u>
 
@@ -26,7 +26,7 @@ third_nav_title: CCE Department
 
 <p style="text-align: justify;">The P1 and P3 students were given a family time cards for parents to share their positive experience with their international friends. The students also enjoyed an enriching assembly programme where a lot of information of ASEAN’s success was shared and how they are going to grow up and contribute to that community in future. During recess, students learn of some food sources that come from other countries and how to greet and say ‘Thank you’ in ASEAN languages.</p>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4HiWtM_TA-ojmkuwAUbHBVcuk9Wx2CYjdq3tEjkUPSJssm5sXAvCc31vB9UK6LjQ9Y_Ei4QXtWswb/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4HiWtM_TA-ojmkuwAUbHBVcuk9Wx2CYjdq3tEjkUPSJssm5sXAvCc31vB9UK6LjQ9Y_Ei4QXtWswb/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **3) Racial Harmony Day** 
 
@@ -34,6 +34,7 @@ third_nav_title: CCE Department
 
 <p style="text-align: justify;">Prior to RHD, students had CCE lesson where they learn the importance of working and living harmoniously with people of all races. The P4 students had a cohort experience of being a ‘Racial Harmony Ambassador’ and promoting racial harmony among their friends and neighbours. Students wrote messages to their friends, thanking them for being their pillars of strength in times of need. On the day of the event, parent volunteers came together to set up learning booths to teach the students the significance of each race’s unique traditions and practices. Overall, the students had a very good time learning and appreciating each other’s race.</p>
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyMs9VxMsl449_1w9l9KvIOyZkmh5NJO-0ohjTCDbhWA_22SmGMWa4eqgec8RgRe_JYMcDkMa7u46z/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 **4) National Day Celebration 2020**  
@@ -42,4 +43,4 @@ National Day was celebrated in our school on 7 August.
   
 <p style="text-align: justify;">Due to the COVID-19 pandemic situation and the implementation of safe-distancing measures, the National Day Observance Ceremony was live-streamed to the classrooms. Following that, the students were given a short history lesson about Singapore and they were treated to a pre-recorded skit on the importance of staying united as a nation to emerge strong to overcome crises together. The students were also engaged in an art-and-craft cum singing session. The school was pleased to announce that the National Day programme and activities were featured on our local media on Channel 5, Channel 8, Malay and Tamil news and Channel News Asia.</p>
 
-#### Upload image slideshow to google slides according to the example in this page:&nbsp;[https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuEbHpfbelTbHyw-01maKg-vT3bbZBZEsXfJwrIIunOoYwkKbQAlhUuT9aBZV3-2aVY8OgkLJDdq6a/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
