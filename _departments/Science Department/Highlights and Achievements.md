@@ -7,18 +7,16 @@ third_nav_title: Science Department
 # Highlights/Achievements
 <b><u>Science Achievement – 2020</u></b>
 
-<img src="/images/Departments/Science%20Department/logo.png"
-     style="width:40%">
-<img src="/images/Departments/Science%20Department/Timothy.jpg"
-     style="width:40%">
+<img style="width:40%" src="/images/Departments/Science%20Department/logo.png">
+<img style="width:40%" src="/images/Departments/Science%20Department/Timothy.jpg">
 
-In 2020, our student, Timothy Yeo from 4 Respect, was selected by the Singapore Science Centre as the Finalist WhizKid Category for the Sony Creative Science Award (SCSA). The video below shows him reflecting on his SCSA journey.
+In 2020, our student,&nbsp;Timothy Yeo from 4 Respect, was selected by the Singapore Science Centre as the Finalist WhizKid Category for the Sony Creative Science Award (SCSA).&nbsp;The video below shows him reflecting on his SCSA journey.
 
 #### upload video to youtube
 
-The photos below are the winning projects selected from our school internal SCSA Competition. Well done!
+The photos below are the winning projects selected from our school internal SCSA Competition.&nbsp;Well done!
 
-#### Upload image slideshow to google slides according to the example in this page: https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9RsRhoeoNGaqcDELlZtp1PUJpjLPsuHDYq5PvoRWiPdjIEPicXLgaQYVMUdBrP94FWlWL_1BQmP6h/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <b><u>Science Achievement – 2019</u></b>
 
