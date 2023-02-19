@@ -35,7 +35,7 @@ A survey is conducted on MC Online to identify the concerns with regards to the 
 
 The ICT department conducted a school wide training workshop for all ICT Champions during the first week of school. They underwent an intensive AVA hands-on training and were also briefed on their new role as Cyber wellness ambassadors in their respective classrooms. The ICT Champions were also given leadership opportunities to create and maintain a Cyber wellness corner in their classroom to promote Cyber wellness to their classmates.
 
-#### Upload image slideshow to google slides according to the example in this page:&nbsp;[https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQr0BZLqfWD3I9SQ7k2IrKsmgzqHo187bNw2D8eUpA92We68tbOtCxqnU-4AIywOGP1e6xU93lWyJ2C/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 ### (B) Assembly
 
@@ -45,13 +45,13 @@ On that day, the ICT department gave an assembly talk to the pupils on how to be
 
 The whole school then recite the “Cyber wellness pledge” to be Gracious, Responsible and Public-Spirited users of the internet. Prizes were also given out to one class in each level which has the best Cyber wellness corner.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQr0BZLqfWD3I9SQ7k2IrKsmgzqHo187bNw2D8eUpA92We68tbOtCxqnU-4AIywOGP1e6xU93lWyJ2C/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQr0BZLqfWD3I9SQ7k2IrKsmgzqHo187bNw2D8eUpA92We68tbOtCxqnU-4AIywOGP1e6xU93lWyJ2C/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **(ii) Cyber Wellness Week**  
 
 In commemoration of The Cyber Wellness Week, an assembly talk was showcased by the ICT department for pupils to create awareness on protecting themselves in cyberspace.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQr0BZLqfWD3I9SQ7k2IrKsmgzqHo187bNw2D8eUpA92We68tbOtCxqnU-4AIywOGP1e6xU93lWyJ2C/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQr0BZLqfWD3I9SQ7k2IrKsmgzqHo187bNw2D8eUpA92We68tbOtCxqnU-4AIywOGP1e6xU93lWyJ2C/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 This year's theme for Cyber Wellness week was Cyberbullying - Online harassment has an off line impact. Cyberbullying has been on the rise and the effects of cyberbullying can be detrimental and lifelong for the victims. To curb the negative effects and stamp out cyberbullying from Greenridge Primary School, the teachers were equipped to handle cyberbullying cases. A&nbsp; sharing session was conducted for the teachers to look out for signs that a student is being cyberbullied and how to take corrective action. To take a step further and stop cyberbullying from even occurring, the teachers were also taught on how to identify cyberbullies and how to counsel these students. With the students heightened awareness of cyberbullying, teachers and parents playing a more active role in looking out for the warning signs, cyberbullies will have no place in our school. Let's be the change.  
   
