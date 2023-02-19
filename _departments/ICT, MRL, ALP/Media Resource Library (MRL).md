@@ -124,4 +124,12 @@ An Ezlink card (with photo) or a photocopy of it is needed to borrow school libr
 
 Every student should be responsible for the books that they have borrowed. All books should be returned to the library before the due date. Reminder slips will be given if overdue books are not returned. Books that are lost must be reported immediately to the librarian and be replaced with a new book (can be of a different title that is suitable for Primary school students) of around $10. A receipt must be attached to the book for record purposes.
 
+Reading Fest 2019
+=================
 
+This year, the MRL department carried out a very exciting Reading Fest event in our school. The various activities ran concurrently in the Media Resource Library (MRL) and the Quiet Zone. Many booths were set up in the Quiet Zone, housing activities like, ‘Make your own Tiny Book’, ‘Book Hunt - Bingo’, ‘Book Swop’, ‘Quiz Whiz – Nat Geo Weird But True!’, ‘Colour your Bookmark,’ ‘Popular Genres’ and many more!  
+  
+![MRLReadingFest1.JPG](https://greenridgepri.moe.edu.sg/qql/slot/u547/ICT/MRL/MRLReadingFest1.JPG)  
+In the MRL, one of the most popular activities with the students was the ‘Golden Ticket Challenge,’ where the students have to hunt for a book with a golden ticket inside to claim a prize!  
+![MRLReadingFest2.JPG](https://greenridgepri.moe.edu.sg/qql/slot/u547/ICT/MRL/MRLReadingFest2.JPG)Another favourite activity was the ‘Blind Date with a Book,’ where the students get to borrow a mystery book wrapped in brown paper. This idea was conceived by our creative school librarian who wanted to advocate the phrase ‘Do not judge a book by its cover’ in a fun way!  
+![MRLReadingFest3.JPG](https://greenridgepri.moe.edu.sg/qql/slot/u547/ICT/MRL/MRLReadingFest3.JPG)
