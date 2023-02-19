@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Boys’ & Girls’ Brigade.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
       - Art Expression Club.md
       - Badminton.md
       - Basketball.md
+      - Boys’ & Girls’ Brigade.md
       - Boys’ & Girls’ Brigade/.keep
       - Brass Band.md
       - Chinese Dance.md
