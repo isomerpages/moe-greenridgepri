@@ -19,7 +19,7 @@ third_nav_title: Mother Tongue Department
 | Ms Syahiratul Wathiqah | P5 FMT Level Rep                                    |
 
 
-### Vision & Mission
+### Vision &amp; Mission
 
 #### Mission
 
@@ -34,7 +34,7 @@ We strive to nurture confident language learners who have the love for the cultu
 |                                        Programme                                       |                     Level                      |              Dates             |
 |:--------------------------------------------------------------------------------------:|:----------------------------------------------:|:------------------------------:|
 |                                     Buddy Programme                                    |                       P1                       | Ongoing (starting from Term 2) |
-| Speech & Drama<br>MT Camp<br>MT Fortnight<br>Oratorical Showcase<br> Hari Raya Concert | P2<br>P3<br>All (Except P3) <br> P3-P4<br> All |             Term 2             |
+| Speech &amp; Drama<br>MT Camp<br>MT Fortnight<br>Oratorical Showcase<br> Hari Raya Concert | P2<br>P3<br>All (Except P3) <br> P3-P4<br> All |             Term 2             |
 |                                P1-P5 Post Exam Activities                              |                 All (Except P6)                |              Term 4            |
 |                                Library Period Activities                               |                       All                      |             All year           |
 |                                          E-book                                        |                       All                      |           Per semester         |
@@ -51,11 +51,11 @@ This programme aimed to develop language and communication skills through incorp
 
 <b><u>P1-P6(expect P3) MTL Fortnight</u></b>
 
-#### Upload image slideshow to google slides according to the example in this page: [https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSsfL7lUPKUGJhfBamk4RFtbeXBmdVxt0voU_-2utakTCHl5D683wZoHisUBJTTvadisgn5o8gTBa9V/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-Every year, GRPS will dedicate two weeks for MTL Fortnight Programme. This programme gives the opportunity for pupils to do various activities to instil the love of learning about the mother tongue language and culture. Pupils were more confident and proficient communicators of the Mother Tongue language. To promote this, the ML unit had prepared various interesting activities for the pupils. 
+Every year, GRPS will dedicate two weeks for MTL Fortnight Programme. This programme gives the opportunity for pupils to do various activities to instil the love of learning about the mother tongue language and culture. Pupils were more confident and proficient communicators of the Mother Tongue language. To promote this,&nbsp;the ML unit had prepared various interesting activities for the pupils.&nbsp;
 
-Apart from these, we also had level wide activities such as the P3-P6 Writing Competition, Introduction of Malay Folk Tales in CCE lessons and Recess Activity where the pupils learnt how to tie the kain samping. The Malay pupils enjoyed learning about Malay language and culture in a fun way.
+Apart from these, we also had level wide activities such as the P3-P6 Writing Competition, Introduction&nbsp;of Malay Folk Tales in CCE lessons and Recess Activity where the pupils learnt how to tie the kain samping.&nbsp;The Malay pupils enjoyed learning about Malay language and culture in a fun way.
 
 <b><u>Hari Raya Concert</u></b>
 
@@ -75,4 +75,5 @@ The P3 and P4 pupils went through a story telling showcase during the MT curricu
 
 Display error when embeding video for the page (link still works and will bring you to youtube). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YQkdS6YLJ-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YQkdS6YLJ-k" height="315" width="560"></iframe>
+
