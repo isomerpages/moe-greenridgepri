@@ -8,6 +8,9 @@ third_nav_title: Mother Tongue Department
 
 ### MT fortnight
 
-### Upload image slideshow to google slides according to the example in this page: https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdw_jSSjeNp6hWLQ6iT-21qY4DBQIYuDksFL9-let7SPhhbven6EO_8kzxhD6j-ngNQfn6gv1QDvgB/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1ceer2VWWjNF6sY_YXkuEq5RYRhPKpHbqXOtiShY3juGyjLAOuAYolmwlB26y4q4bLDKTeVYGXoxR/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
 
 ### Also upload the videos to youtube
