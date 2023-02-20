@@ -2,6 +2,7 @@ collections:
   old:
     output: true
     order:
+      - 2016.md
       - 2017.md
       - 2015.md
       - 2014.md
