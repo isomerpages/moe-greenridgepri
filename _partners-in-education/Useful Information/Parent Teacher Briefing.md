@@ -23,10 +23,11 @@ Here are the various slides. 
   
 <b><u>Year Head Briefing</u></b>
 
-<a href="/files/Partners%20in%20Education/Useful%20Information/Parent%20Teacher%20Briefing%202022/2022_P1P2_PTB_YH%20Slides.pdf" target="_blank">P1 & 2 YH Slides</a>
+<a href="https://go.gov.sg/greenridgepri-p1-p2-yh-slides" target="_blank">P1 & 2 YH Slides</a>
 
 <a href="/files/Partners%20in%20Education/Useful%20Information/Parent%20Teacher%20Briefing%202022/2022_P3_PTB_YH%20Slides.pdf" target="_blank">P3 & P4 YH Slides</a>
   
-<a href="/files/Partners%20in%20Education/Useful%20Information/Parent%20Teacher%20Briefing%202022/2022_P4_PTB_YH%20Slides.pdf" target="_blank">P5 & P6 YH Slides</a>
+<a href="/files/Partners%20in%20Education/2023_PTB_YH_P5P6.pdf" target="_blank">P5 & P6 YH Slides</a>
+
   
 Thank you.
