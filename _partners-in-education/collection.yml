@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Home Based Learning (HBL)/.keep
-      - Home Based Learning (HBL)/Home Based Learning (HBL).md
       - Parents Gateway.md
       - Student Learning Space (SLS).md
       - Student ICON (Google Classroom).md
