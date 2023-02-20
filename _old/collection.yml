@@ -2,6 +2,7 @@ collections:
   old:
     output: true
     order:
+      - HBL Resources.md
       - HBL Schedule.md
       - Positive Education and Well Being.md
       - News.md
