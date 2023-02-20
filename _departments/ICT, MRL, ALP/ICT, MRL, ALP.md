@@ -5,7 +5,6 @@ description: ""
 third_nav_title: ICT, MRL, ALP
 ---
 
-# link broken for 2nd image description 
 # ICT/MRL/ALP
 
 <p style="text-align: center;"><u><b>The Fourth Masterplan for ICT in Education [2015 – current]</b></u></p>
