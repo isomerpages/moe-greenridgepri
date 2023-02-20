@@ -2,6 +2,7 @@ collections:
   old:
     output: true
     order:
+      - GRPS Alumni.md
       - Edusave Scheme.md
       - Consultation with Teachers.md
       - 2018.md
