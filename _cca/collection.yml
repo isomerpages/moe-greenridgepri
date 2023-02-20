@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Recruitment P3.md
       - CCA Schedule.md
       - CCA Promotion Video.md
       - P3 CCA Recruitment Exercise.md
