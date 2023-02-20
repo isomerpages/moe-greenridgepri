@@ -2,6 +2,7 @@ collections:
   old:
     output: true
     order:
+      - MOE Financial Assistance Scheme.md
       - GRPS Alumni.md
       - Edusave Scheme.md
       - Consultation with Teachers.md
