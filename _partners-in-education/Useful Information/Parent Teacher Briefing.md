@@ -11,7 +11,7 @@ Thank you for attending the eParent Teacher Briefing on 27 January 2022
 
 Here are the various slides. 
 
-<b><u>School Leader Briefing</u></b>
+<b><u>School Leader (SL) Slides</u></b>
 
 <a href="/files/2023_PTB_SL_P1P2.pdf" target="_blank">P1 & P2 SL Slides</a>
 
