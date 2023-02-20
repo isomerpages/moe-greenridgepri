@@ -9,13 +9,13 @@ third_nav_title: Parent Support Group
 
 Our school has been inviting children from the nearby kindergartens for the ‘Primary School Experience for KG Pupils’ for the past three years. During this event, the KG pupils get an experience of the visiting different special rooms and doing some activities. The children also get a chance to buy their own food and tasting the different ethnic food the canteen offers.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgu5b4gmnRTbsf66fl3YUDr-QJygvNQ6FvJKXl7ZT-BAfj8cMFZwjWAL2YAA2XrdAR5f8sW55Zk86m/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgu5b4gmnRTbsf66fl3YUDr-QJygvNQ6FvJKXl7ZT-BAfj8cMFZwjWAL2YAA2XrdAR5f8sW55Zk86m/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <b><u>Staff Values in Action</u></b>
 
 At Greenridge Pri, teachers also do their part to contribute to the community. Since 2015, teachers have been visiting senior citizens’ homes to interact and engage the seniors in fun-filled and meaningful activities. The experience the teachers gained during the Staff VIA is then shared with pupils to enthuse and create a ripple effect among the pupils and motivate them to contribute to their community.
 
-#### Upload image slideshow to google slides according to the example in this page:&nbsp;[https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/](https://staging.d37rxp3chp2ovx.amplifyapp.com/departments/Mother-Tongue-Department/chinese-language/)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTzhgbAfJNvAdeH-UDneVNXx1Cec8_jbjoLqar2zq84zQsjz90glDH-VMUjyXTrordewGt7HCtmzll/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <b><u>Hosting for seniors during National Day</u></b>
 
