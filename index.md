@@ -42,23 +42,4 @@ sections:
         official Facebook page. Click on the like button to follow us. "
       button: "Click here for our FB page. "
       url: https://www.facebook.com/Greenridge.Primary.Official
-  - infobar:
-      title: Primary 1 Orientation Slides (For 2022 P1)
-      description: Dear Parents, here are the slides for the e-briefing for the
-        Primary 1 Orientation held on 15th November 2021.
-      button: Click here for more information
-      url: /permalink
-      subtitle: FILE SIZE >5MB, NOT UPLOADED
-  - infobar:
-      title: Parent Teacher Briefing Slides 2022
-      description: Dear Parents, here are the various slides for the Parent Teacher
-        Briefing held on 27 January 2022
-      button: Click here for more information
-      url: /partners-in-education/Useful-Information/parent-teacher-briefing-2022/
-  - infobar:
-      title: Prize Giving Day 2021 - Guest of Honour Speech
-      description: An inspiring speech by our Guest of Honour, Dr Muhammad Ilman Bin
-        Muhammad Aidil, a GRPS Alumnus, for our Prize Giving Day 2021.
-      button: Click here for more information
-      url: /files/Home%20Announcements/GOH_Speech_2021.pdf
 ---
