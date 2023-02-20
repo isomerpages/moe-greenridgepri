@@ -1,0 +1,23 @@
+collections:
+  partners-in-education:
+    output: true
+    order:
+      - Home Based Learning (HBL).md
+      - Parents Gateway.md
+      - Student Learning Space (SLS).md
+      - Student ICON (Google Classroom).md
+      - GRPS 25th Anniversary/.keep
+      - GRPS 25th Anniversary/GRPS 25th Anniversary.md
+      - GRPS 25th Anniversary/Greenridge QR Code.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/Activities organised by PSG and School.md
+      - Parent Support Group/Parent Engagement.md
+      - Parent Support Group/Partnership & Outreach.md
+      - Useful Information/.keep
+      - Useful Information/Application Forms.md
+      - Useful Information/Canteen Menu and Price List.md
+      - Useful Information/Parent Teacher Briefing.md
+      - Useful Information/P1 Orientation for 2023.md
+      - Links for Staff.md
+      - Administrator Login.md

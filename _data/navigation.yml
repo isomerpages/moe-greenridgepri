@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/school-logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    collection: departments
+  - title: Achievements
+    collection: achievements
+  - title: West Zone COE for CCE
+    collection: west-zone-coe-for-cce
+  - title: Partners in Education
+    collection: partners-in-education

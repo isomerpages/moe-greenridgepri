@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Us.md
+      - Principal's Message.md
+      - Mission, Vision & Values.md
+      - School Crest, School Song.md
+      - History.md
+      - School Virtual Tour.md
+      - Publication.md
+      - Staff.md
+      - Student Care Centre.md
+      - Contact Us.md
+      - Open House.md
+      - FAQ.md
+      - Terms of Use.md
+      - Privacy Statement.md

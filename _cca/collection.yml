@@ -1,0 +1,27 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA Schedule.md
+      - CCA Promotion Video.md
+      - P3 CCA Recruitment Exercise.md
+      - Art Expression Club.md
+      - Badminton.md
+      - Basketball.md
+      - Boys’ & Girls’ Brigade.md
+      - Brass Band.md
+      - Chinese Dance.md
+      - Drama Club.md
+      - Football.md
+      - Green and Innovation Club.md
+      - Guzheng Ensemble.md
+      - Hockey.md
+      - Infocomm Club.md
+      - Library Club.md
+      - Malay Dance.md
+      - Netball.md
+      - Robotics.md
+      - Science Club.md
+      - Sport Climbing.md
+      - Scouts.md
+      - Wushu.md
