@@ -4,8 +4,6 @@ permalink: /partners-in-education/Useful-Information/parent-teacher-briefing/
 description: ""
 third_nav_title: Useful Information
 ---
-
-
 # Parent-Teacher Briefing 2022
 Dear Parents,  
 
@@ -15,13 +13,13 @@ Here are the various slides. 
 
 <b><u>School Leader Briefing</u></b>
 
-<a href="/files/Partners%20in%20Education/Useful%20Information/Parent%20Teacher%20Briefing%202022/SL%20slides_P1P2_2022.pdf" target="_blank">Primary 1 & 2</a>
+<a href="/files/2023_PTB_SL_P1P2.pdf" target="_blank">P1 & P2 SL Slides</a>
 
-<a href="/files/Partners%20in%20Education/Useful%20Information/Parent%20Teacher%20Briefing%202022/SL%20slides_P3_2022.pdf" target="_blank">Primary 3</a>
+<a href="/files/Partners%20in%20Education/2023_PTB_SL_P3P4.pdf" target="_blank">P3 & P4 SL Slides</a>
+
   
-<a href="/files/Partners%20in%20Education/Useful%20Information/Parent%20Teacher%20Briefing%202022/SL%20slides_P4_2022.pdf" target="_blank">Primary 4</a>
+<a href="/files/Partners%20in%20Education/2023_PTB_SL_P5P6_updated.pdf" target="_blank">P5 & P6 SL Slides</a>
   
-<a href="/files/Partners%20in%20Education/Useful%20Information/Parent%20Teacher%20Briefing%202022/SL%20slides_P5P6_2022.pdf" target="_blank">Primary 5 & 6</a>
   
 <b><u>Year Head Briefing</u></b>
 
