@@ -12,5 +12,3 @@ third_nav_title: Mother Tongue Department
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1ceer2VWWjNF6sY_YXkuEq5RYRhPKpHbqXOtiShY3juGyjLAOuAYolmwlB26y4q4bLDKTeVYGXoxR/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-
-### Also upload the videos to youtube
