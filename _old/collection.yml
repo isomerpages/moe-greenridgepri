@@ -2,6 +2,7 @@ collections:
   old:
     output: true
     order:
+      - Positive Education and Well Being.md
       - News.md
       - MOE Financial Assistance Scheme.md
       - GRPS Alumni.md
