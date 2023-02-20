@@ -3,8 +3,6 @@ title: HBL Resources
 permalink: /partners-in-education/Home-Based-Learning-HBL/hbl-resources/
 description: ""
 ---
-
-# broken link for item 3
 # HBL Resources
 1. [Recommended Reading List](/files/Partners%20in%20Education/HBL_Recommended_Read_List.pdf)
   
