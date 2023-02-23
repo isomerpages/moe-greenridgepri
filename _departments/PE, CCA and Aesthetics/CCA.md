@@ -4,7 +4,7 @@ permalink: /departments/PE-CCA-and-Aesthetics/cca/
 description: ""
 third_nav_title: PE, CCA and Aesthetics
 ---
-# CCA
+# Our CCAs
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Slide1.jpg)
 
