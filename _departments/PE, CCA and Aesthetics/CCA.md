@@ -4,7 +4,7 @@ permalink: /departments/PE-CCA-and-Aesthetics/cca/
 description: ""
 third_nav_title: PE, CCA and Aesthetics
 ---
-# CCA
+# Our CCAs
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Slide1.jpg)
 
@@ -20,4 +20,4 @@ third_nav_title: PE, CCA and Aesthetics
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Slide8.jpg)
 
-### [Click here to view](https://greenridgepri.moe.edu.sg/departments/pe-cca-and-aesthetics/cca) and find out more info on our CCAs.
+### [Click here to view](https://greenridgepri.moe.edu.sg/departments/pe-cca-and-aesthetics/cca/) and find out more info on our CCAs.

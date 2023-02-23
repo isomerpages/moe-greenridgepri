@@ -2,9 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Schedule.md
-      - CCA Promotion Video.md
-      - P3 CCA Recruitment Exercise.md
       - Art Expression Club.md
       - Badminton.md
       - Basketball.md
