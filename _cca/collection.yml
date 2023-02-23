@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Promotion Video.md
       - Art Expression Club.md
       - Badminton.md
       - Basketball.md
