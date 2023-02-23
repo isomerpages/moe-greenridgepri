@@ -4,4 +4,4 @@ permalink: /partners-in-education/administrator-login/
 description: ""
 ---
 # Administrator Login
-Click [here](https://greenridgepri-moe-edu-sg-admin.cwp.sg/cmsboss) for Administrator Login.
+Click [here](https://cms.isomer.gov.sg/sites) for Administrator Login.
