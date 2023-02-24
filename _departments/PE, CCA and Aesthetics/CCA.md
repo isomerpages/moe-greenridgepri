@@ -20,4 +20,4 @@ third_nav_title: PE, CCA and Aesthetics
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Slide8.jpg)
 
-### [Click here to view](/pe-cca-and-aesthetics/cca/) and find out more info on our CCAs.
+### [Click here to view](/cca/art-expression-club/) and find out more info on our CCAs.
