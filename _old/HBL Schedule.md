@@ -3,7 +3,6 @@ title: HBL Schedule
 permalink: /partners-in-education/Home-Based-Learning-HBL/hbl-schedule/
 description: ""
 ---
-
 # HBL Schedule
 <u><b>Primary 1 to Primary 4: </b></u>
 
