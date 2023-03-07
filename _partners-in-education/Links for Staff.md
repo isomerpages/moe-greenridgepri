@@ -14,12 +14,12 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td>MOE Intranet<br></td>
-    <td><a href="https://intranet.moe.gov.sg/">https://intranet.moe.gov.sg </a><br><br></td>
+    <td>MOE Intranet</td>
+    <td><a href="https://intranet.moe.gov.sg/">https://intranet.moe.gov.sg </a></td>
   </tr>
   <tr>
-    <td>MIMS Portal <br><br></td>
-    <td><a href="https://portal.mims.moe.gov.sg/">https://portal.mims.moe.gov.sg</a> <br><br></td>
+    <td>MIMS Portal</td>
+    <td><a href="https://portal.mims.moe.gov.sg/">https://portal.mims.moe.gov.sg</a> </td>
   </tr>
   <tr>
     <td>School Cockpit <br></td>
@@ -48,17 +48,8 @@ description: ""
     <td>Discipline Resource Portal<br></td>
     <td><a href="https://tinyurl.com/discipline-portal"  target="_blank">https://tinyurl.com/discipline-portal</a></td>
   </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
   <tr>
-    <th></th>
-    <th></th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>Student Learning Space (SLS)<br></td>
     <td><a href="https://vle.learning.moe.edu.sg/">https://vle.learning.moe.edu.sg</a>                              </td>
@@ -80,8 +71,8 @@ description: ""
     <td><a href="https://tinyurl.com/grps-s-cube"  target="_blank">https://tinyurl.com/grps-s-cube</a><br></td>
   </tr>
   <tr>
-    <td>National School Games <br><br></td>
-    <td><a href="https://nsg.moe.edu.sg/nis/#!/login">https://nsg.moe.edu.sg/nis/#!/login</a><br><br></td>
+    <td>National School Games</td>
+    <td><a href="https://nsg.moe.edu.sg/nis/#!/login">https://nsg.moe.edu.sg/nis/#!/login</a></td>
   </tr>
   <tr>
     <td>All EARS Form Builder</td>
