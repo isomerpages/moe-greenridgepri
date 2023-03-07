@@ -4,15 +4,13 @@ permalink: /partners-in-education/links-for-staff/
 description: ""
 ---
 # Links for Staff
-
 <table>
-<thead>
+	<thead>
   <tr>
     <th></th>
     <th></th>
   </tr>
 </thead>
-<tbody>
   <tr>
     <td>MOE Intranet</td>
     <td><a href="https://intranet.moe.gov.sg/">https://intranet.moe.gov.sg </a></td>
@@ -78,5 +76,4 @@ description: ""
     <td>All EARS Form Builder</td>
     <td><a href="https://forms.moe.edu.sg/"  target="_blank">https://forms.moe.edu.sg/</a><br></td>
   </tr>
-</tbody>
 </table>
