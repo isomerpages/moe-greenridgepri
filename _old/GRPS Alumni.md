@@ -3,8 +3,6 @@ title: GRPS Alumni
 permalink: /partners-in-education/grps-alumni/
 description: ""
 ---
-
-
 # GRPS Alumni
 ### Valedictorian Speech by Pei MiaoZhuang (Class of 2019)
 
@@ -29,4 +27,4 @@ Register as an alumni member via the google link or QR code below to be kept upd
 		 
 <br><br><br><br><br><br><br><br><br><br><br>
 		 
-[http://bit.ly/GRPS\_Alumni](http://bit.ly/GRPS_Alumni)	
+[http://bit.ly/GRPS\_Alumni](http://bit.ly/GRPS_Alumni)
