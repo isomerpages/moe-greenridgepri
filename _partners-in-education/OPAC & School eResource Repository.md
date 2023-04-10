@@ -1,6 +1,6 @@
 ---
 title: OPAC & School eResource Repository
-permalink: /partners-in-education/permalink/
+permalink: /partners-in-education/grpsmrl/
 description: ""
 ---
 1) [Click here to access OPAC](https://schoolibrary.moe.edu.sg/greenridgepri)
