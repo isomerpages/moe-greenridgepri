@@ -1,6 +1,0 @@
-collections:
-  west-zone-coe-for-cce:
-    output: true
-    order:
-      - West Zone COE for CCE.md
-      - Time Trekker.md
