@@ -21,7 +21,7 @@ sections:
         Questions (FAQs) to help you with the usage of the Student Learning
         Spaces (SLS). "
       button: Click for more information
-      url: /files/Home%20Announcements/SLSStudentAnnexes2021.pdf
+      url: https://drive.google.com/file/d/1WmXN5zQm5YRq9qV0vwz_lsyZvuZggUvE/view?usp=share_link
   - infopic:
       title: GRPS E-Open House Website
       description: "Click on the link below to visit our GRPS E-Open House website now. "
