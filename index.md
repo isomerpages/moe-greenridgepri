@@ -9,13 +9,6 @@ sections:
   - hero:
       background: /images/homepage.gif
   - infobar:
-      title: Greenridge QR Code
-      description: The Greenridge QR Code is a large QR code installation;
-        commemorative artwork that links to our school website in celebration of
-        our 25th Anniversary.
-      button: Click for more information
-      url: /partners-in-education/GRPS-25th-Anniversary/greenridge-qr-code/
-  - infobar:
       title: Student Learning Spaces - Instructions and FAQs for Students
       description: "Dear Parents, attached is the annexes and set of Frequently Asked
         Questions (FAQs) to help you with the usage of the Student Learning
