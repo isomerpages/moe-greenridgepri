@@ -35,4 +35,11 @@ sections:
         official Facebook page. Click on the like button to follow us. "
       button: "Click here for our FB page. "
       url: https://www.facebook.com/Greenridge.Primary.Official
+  - infobar:
+      title: MOE Sexuality Education 2023
+      description: Sexuality Education (SEd) in schools is about enabling students to
+        understand the physiological, social and emotional changes they
+        experience as they mature....
+      button: Click for more info
+      url: shorturl.at/bgLSZ
 ---
