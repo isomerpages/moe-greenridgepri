@@ -23,13 +23,6 @@ sections:
       image: /images/79a12db1e_4814.jpeg
       alt: Image alt text
   - infobar:
-      title: MOE Sexuality Education in Schools
-      description: Sexuality Education (SEd) in schools is about enabling students to
-        understand the physiological, social and emotional changes they
-        experience as they mature....
-      button: Click for more information
-      url: shorturl.at/bgLSZ
-  - infobar:
       title: Greenridge Pri Facebook Link
       description: "You can follow the latest events and activities via our school's
         official Facebook page. Click on the like button to follow us. "
