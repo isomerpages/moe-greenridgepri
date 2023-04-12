@@ -28,7 +28,7 @@ sections:
         understand the physiological, social and emotional changes they
         experience as they mature....
       button: Click for more information
-      url: /files/Home%20Announcements/2023_Info_SEd_GRPS.pdf
+      url: https://drive.google.com/file/d/1WmXN5zQm5YRq9qV0vwz_lsyZvuZggUvE/view?usp=share_link
   - infobar:
       title: Greenridge Pri Facebook Link
       description: "You can follow the latest events and activities via our school's
