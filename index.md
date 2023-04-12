@@ -9,19 +9,12 @@ sections:
   - hero:
       background: /images/homepage.gif
   - infobar:
-      title: Greenridge QR Code
-      description: The Greenridge QR Code is a large QR code installation;
-        commemorative artwork that links to our school website in celebration of
-        our 25th Anniversary.
-      button: Click for more information
-      url: /partners-in-education/GRPS-25th-Anniversary/greenridge-qr-code/
-  - infobar:
       title: Student Learning Spaces - Instructions and FAQs for Students
       description: "Dear Parents, attached is the annexes and set of Frequently Asked
         Questions (FAQs) to help you with the usage of the Student Learning
         Spaces (SLS). "
       button: Click for more information
-      url: /files/Home%20Announcements/SLSStudentAnnexes2021.pdf
+      url: https://drive.google.com/file/d/1WmXN5zQm5YRq9qV0vwz_lsyZvuZggUvE/view?usp=share_link
   - infopic:
       title: GRPS E-Open House Website
       description: "Click on the link below to visit our GRPS E-Open House website now. "
@@ -35,7 +28,7 @@ sections:
         understand the physiological, social and emotional changes they
         experience as they mature....
       button: Click for more information
-      url: /files/Home%20Announcements/Info_on_SEd_for_schs_website_Pri_2022.pdf
+      url: shorturl.at/bgLSZ
   - infobar:
       title: Greenridge Pri Facebook Link
       description: "You can follow the latest events and activities via our school's
