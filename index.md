@@ -8,13 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
-  - infopic:
+  - infobar:
       title: GRPS E-Open House Website
-      description: "Click on the link below to visit our GRPS E-Open House website now. "
-      button: Click for more information
+      description: Click on the link below to visit our GRPS E-Open House website now.
+      button: Click for more info
       url: https://sites.google.com/moe.edu.sg/grps-eopenhouse/main
-      image: /images/79a12db1e_4814.jpeg
-      alt: Image alt text
   - infobar:
       title: MOE Sexuality Education 2023
       description: Sexuality Education (SEd) in schools is about enabling students to
