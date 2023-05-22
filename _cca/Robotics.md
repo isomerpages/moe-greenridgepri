@@ -20,5 +20,3 @@ description: ""
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/RC4.jpg)
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/RC5.jpg)
-
-# Embed both videos on youtube
