@@ -12,7 +12,7 @@ third_nav_title: PE, CCA and Aesthetics
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Slide3.jpg)
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/slide4a.jpg)
+![](/images/Departments/PE,%20CCA%20and%20Aesthetics/slide4a1.jpg)
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Slide6.jpg)
 
