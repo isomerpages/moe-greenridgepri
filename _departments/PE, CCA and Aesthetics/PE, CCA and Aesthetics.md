@@ -6,6 +6,6 @@ third_nav_title: PE, CCA and Aesthetics
 ---
 # PE, CCA and Aesthetics
 
-### [Click here to view](/cca/art-expression-club/) our list of CCAs.
+### [Click here to view](/cca/art-expression-club/) our CCAs.
 
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/PE%20main%20page.jpg)
