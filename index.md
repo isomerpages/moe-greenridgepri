@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
+      background: /images/homepagebg.png
   - infobar:
       title: GRPS E-Open House Website
       description: Click on the link below to visit our GRPS E-Open House website now.
