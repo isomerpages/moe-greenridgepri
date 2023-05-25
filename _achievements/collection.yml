@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/Students.md
       - Students/Star Class Awards.md
       - Staff.md
