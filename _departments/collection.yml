@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - English Department/.keep
-      - English Department/English Department.md
       - English Department/Vision & Mission.md
       - English Department/Stellar Curriculum.md
       - English Department/Programmes.md
