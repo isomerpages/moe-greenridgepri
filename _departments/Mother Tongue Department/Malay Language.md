@@ -21,13 +21,12 @@ third_nav_title: Mother Tongue Department
 
 ### Vision &amp; Mission
 
-#### Mission
-
-We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
-  
 #### Vision
+We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
 
+#### Mission
 We strive to nurture confident language learners who have the love for the culture.
+  
 
 ### Programmes (Level)
 
@@ -70,9 +69,3 @@ The P3 and P4 pupils went through a story telling showcase during the MT curricu
 |                |                                    |
 |:--------------:|:----------------------------------:|
 | Portal e-Cekap | https://www.mtl.moe.edu.sg/ecekap/ |
-
-### Hari Raya 2021
-
-Display error when embeding video for the page (link still works and will bring you to youtube). 
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YQkdS6YLJ-k" height="315" width="560"></iframe>

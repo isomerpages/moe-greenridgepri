@@ -19,5 +19,3 @@ To inculcate life-long skills and nurture each Greenridgean with Social-Emotion
 ### VALUES
 
 Integrity, Graciousness, Responsibility and Public-Spiritedness
-
-![](/images/Departments/Student%20Well%20Being/MissionFramework.jpg)
