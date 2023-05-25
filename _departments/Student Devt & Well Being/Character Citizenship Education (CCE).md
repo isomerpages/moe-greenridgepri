@@ -14,12 +14,12 @@ To nurture every child to be a concerned citizen and active contributor
 
 #### Department Staff
 
+
 |     Designation    |                                                                                 Name                                                                                 |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Head of Department | Mr Arivalagan                                                                                                                                                        |
-| Subject Heads      | Mrs Tay Kin Keong Vivian (NE/SS)                                                                                                                                     |
-| Members            | Ms Chu Li Jung <br><br>Mdm Deborah<br><br>Mdm Harpal Kaur<br><br>Ms Loh Shi Ting<br><br>Ms Mariati<br><br>Mdm Siti Badariah<br><br>Ms Wong Hui Lin<br><br>Mdm Zuleha |
-
+| Head of Department | Mr Arivalagan                                                                                             
+| Subject Heads      | Mrs Tay Kin Keong Vivian (NE/SS)                                                               
+| Members            | Ms Chu Li Jung <br>Mdm Deborah<br>Mdm Harpal Kaur<br>Ms Loh Shi Ting<br>Ms Mariati<br>Mdm Siti Badariah<br>Ms Wong Hui Lin<br>Mdm Zuleha
 
 
 # 1. CCE Framework
