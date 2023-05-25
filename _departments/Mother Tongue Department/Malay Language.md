@@ -5,7 +5,16 @@ description: ""
 third_nav_title: Mother Tongue Department
 ---
 # Malay Language
-#### Staff
+
+
+#### Vision
+We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
+
+#### Mission
+We strive to nurture confident language learners who have the love for the culture.
+
+
+#### Department Staff
 
 
 | Teachers               | Designation                                         |
@@ -18,13 +27,6 @@ third_nav_title: Mother Tongue Department
 | Ms Siti Nurhamizah     | P3 Level Rep<br>P5 FML Level representative         |
 | Ms Syahiratul Wathiqah | P4 HMT Level Rep  <br> P6 FMT Level representative |
 
-
-#### Vision
-We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
-
-#### Mission
-We strive to nurture confident language learners who have the love for the culture.
-  
 
 ### Programmes (Level)
 
