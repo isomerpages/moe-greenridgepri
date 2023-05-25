@@ -2,7 +2,7 @@
 title: PAL @ GRPS
 permalink: /departments/PE-CCA-and-Aesthetics/pal-at-grps/
 description: ""
-third_nav_title: PE, CCA and Aesthetics
+third_nav_title: PE, Art & Music
 ---
 # PAL @ GRPS
 ![](/images/Departments/PE,%20CCA%20and%20Aesthetics/PAL%20@%20GRPS%20Slide1.jpg)

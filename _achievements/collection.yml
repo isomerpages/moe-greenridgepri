@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Achievements.md
       - Students/.keep
       - Students/Students.md
       - Students/Star Class Awards.md

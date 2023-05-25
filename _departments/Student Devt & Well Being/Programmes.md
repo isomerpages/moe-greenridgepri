@@ -2,7 +2,7 @@
 title: Programmes
 permalink: /departments/Student-Well-Being/programmes/
 description: ""
-third_nav_title: Student Well Being
+third_nav_title: Student Devt & Well Being
 ---
 # Programmes
 
@@ -12,15 +12,15 @@ third_nav_title: Student Well Being
 *   Jon Gordon Energy Bus Activities
 *   Praise Mail
 *   Star Class Award
-*   RISE & SHINE Programme
+*   RISE &amp; SHINE Programme
 *   New Pupil Buddy Programme
-*   P6 Study Skills & Motivation Programme
+*   P6 Study Skills &amp; Motivation Programme
 *   Pre-Assembly Social Skills Lessons for P1 to P4
-*   Pre-Assembly Education and Career Guidance Talk for P5 & P6
+*   Pre-Assembly Education and Career Guidance Talk for P5 &amp; P6
 *   Case Management Team Sharing by Levels (CMT)
 *   Introduction to Counselling Assembly Talk
 *   Rating Tool for Social and Emotional Competency (RTSEC)
-*   Sexuality Education Programme (SEd) for P5 & P6
+*   Sexuality Education Programme (SEd) for P5 &amp; P6
 *   Education and Career Guidance Programme (ECG)
 *   Form Teacher Guidance Period (FTGP)
 *   Teacher Pupil Interaction Time (TPIT)
@@ -32,7 +32,7 @@ third_nav_title: Student Well Being
 *   Leadership Assembly Talk
 *   Leadership Practices Inventory (LPI)
 *   P5 EXCEL Student Leaders Programme
-*   P4 & P5 Pupils Leadership Workshops
+*   P4 &amp; P5 Pupils Leadership Workshops
 *   International Students Integration Programme
 *   EAGLES Award
 *   Toy Drive

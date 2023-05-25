@@ -2,13 +2,13 @@
 title: Student Discipline
 permalink: /departments/Student-Well-Being/student-discipline/
 description: ""
-third_nav_title: Student Well Being
+third_nav_title: Student Devt & Well Being
 ---
 # Student Discipline
 
 ### What is Positive Discipline
 
-Positive Discipline is a program designed to teach young people to become responsible, respectful and resourceful members of their communities. It teaches important social and life skills in a manner that is deeply respectful and encouraging for both children and adults (including parents, teachers, childcare providers, youth workers, and others). 
+Positive Discipline is a program designed to teach young people to become responsible, respectful and resourceful members of their communities. It teaches important social and life skills in a manner that is deeply respectful and encouraging for both children and adults (including parents, teachers, childcare providers, youth workers, and others).&nbsp;
 
 Recent research tells us that children are “hardwired” from birth to connect with others, and that children who feel a sense of connection to their community, family, and school are less likely to misbehave. To be successful, contributing members of their community, children must learn necessary social and life skills. Positive Discipline is based on the understanding that discipline must be taught and that discipline teaches. Jane Nelsen gives the following criteria for “effective discipline that teaches”:
 
@@ -22,34 +22,34 @@ Recent research tells us that children are “hardwired” from birth to connect
 
 4) Teaches important social and life skills (Respect, concern for others, problem solving, and cooperation as well as the skills to contribute to the home, school or larger community.)
 
-5) Invites children to discover how capable they are (Encourages the constructive use of personal power and autonomy.) 
+5) Invites children to discover how capable they are (Encourages the constructive use of personal power and autonomy.)&nbsp;
 
 
 The Positive Discipline Parenting and Classroom Management models are aimed at developing mutually respectful relationships. Positive Discipline teaches adults to employ kindness and firmness at the same time, and is neither punitive nor permissive.
 
 The tools and concepts of Positive Discipline include:
 
-• **Mutual respect.** Adults model firmness by respecting themselves and the needs of the situation, and kindness by respecting the needs of the child.
+•&nbsp;**Mutual respect.**&nbsp;Adults model firmness by respecting themselves and the needs of the situation, and kindness by respecting the needs of the child.
 
-• **Identifying the belief behind the behavior.** Effective discipline recognizes the reasons kids do what they do and works to change those beliefs, rather than merely attempting to change behavior.
+•&nbsp;**Identifying the belief behind the behavior.**&nbsp;Effective discipline recognizes the reasons kids do what they do and works to change those beliefs, rather than merely attempting to change behavior.
 
-• **Effective communication and problem solving skills.**
+•&nbsp;**Effective communication and problem solving skills.**
 
-• **Discipline that teaches (and is neither permissive nor punitive).**
+•&nbsp;**Discipline that teaches (and is neither permissive nor punitive).**
 
-• **Focusing on solutions instead of punishment.**
+•&nbsp;**Focusing on solutions instead of punishment.**
 
-• **Encouragement (instead of praise).** Encouragement notices effort and improvement, not just success, and builds long-term self-esteem and empowerment.
+•&nbsp;**Encouragement (instead of praise).**&nbsp;Encouragement notices effort and improvement, not just success, and builds long-term self-esteem and empowerment.
 
 Unique characteristics of the Positive Discipline Model also include:
 
-• **Teaching adults and students through experiential activities.** Creating opportunity to practice new skills and to have fun learning by doing.
+•&nbsp;**Teaching adults and students through experiential activities.**&nbsp;Creating opportunity to practice new skills and to have fun learning by doing.
 
-• **Classroom discipline programs and parent education programs that are consistent.** Parents, teachers, and childcare providers can work together to provide a secure, consistent environment for children.
+•&nbsp;**Classroom discipline programs and parent education programs that are consistent.**&nbsp;Parents, teachers, and childcare providers can work together to provide a secure, consistent environment for children.
 
-• **Inexpensive training and ongoing support** so members of communities can teach each other Positive Discipline skills.
+•&nbsp;**Inexpensive training and ongoing support**&nbsp;so members of communities can teach each other Positive Discipline skills.
 
-• **Certified trainers across the country who can work with schools and communities.**
+•&nbsp;**Certified trainers across the country who can work with schools and communities.**
 
 
 ## School Rules
@@ -84,7 +84,7 @@ The table below shows the list of offences and their possible consequences.
 </table>
 
 
-### Uniform & Attire
+### Uniform &amp; Attire
 
 General points to note
 
@@ -136,7 +136,7 @@ FOOTWEAR
 
   
 
-EYEWEAR 
+EYEWEAR&nbsp;
 
 Spectacles worn by pupils must be functional and should not be a fashion accessory.   
 * The frames should not have any outlandish design or patterns on them.
@@ -147,5 +147,5 @@ Spectacles worn by pupils must be functional and should not be a fashion accesso
 PROHIBITED ITEMS
 
 * Any item deemed as a distraction to lessons may be confiscated and banned.
-* No handphones/smartphones/digital media players are permitted. 
+* No handphones/smartphones/digital media players are permitted.&nbsp;
 * No exception is given for Learning Journeys, CCAs/events that fall on Saturday or school half-day celebrations, unless permission has been granted by teachers.

@@ -2,7 +2,7 @@
 title: Stellar Curriculum
 permalink: /departments/English-and-Social-Studies/stellar-curriculum/
 description: ""
-third_nav_title: English and Social Studies
+third_nav_title: English Department
 ---
 # Stellar Curriculum
 **Primary 1 and 2**
@@ -35,9 +35,9 @@ Pre-writing experience: Bubble party and life cycle of a butterfly.
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v5.jpg)
 
-**Show & Tell (Primary 1 and 2)**  
+**Show &amp; Tell (Primary 1 and 2)**  
 
-<p style="text-align: justify;">To build the students’ self-confidence in public speaking, Show & Tell was introduced as a form of formative assessment for the lower primary students.</p>
+<p style="text-align: justify;">To build the students’ self-confidence in public speaking, Show &amp; Tell was introduced as a form of formative assessment for the lower primary students.</p>
 
 ![](/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/v6.jpg)
 
@@ -74,21 +74,17 @@ The core values are as follows:-
 | Integrity and Responsibility | Graciousness and<br><br>Public-spiritedness | Harmony and Resilience |
 
 
-<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg"
-     style="width:50%; float:left">
+<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg" style="width:50%; float:left">
 
-<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10b.jpg"
-     style="width:50%">
+<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10b.jpg" style="width:50%">
 
 <p style="text-align: center;">Notice Board to display the core values for the term</p>
 
 <p style="text-align: justify;">Selected pieces are displayed on the notice board in the Quiet Zone. This is to showcase the students’ boundless creativity and to stimulate them to think about what they can do to make our society a better place for all.</p>
 
-<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg"
-     style="width:50%; float:left">
+<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10a.jpg" style="width:50%; float:left">
 
-<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10b.jpg"
-     style="width:50%">
+<img src="/images/Departments/English%20and%20Social%20Studies/Stellar%20Curriculum/10b.jpg" style="width:50%">
 
 <p style="text-align: center;">Sharing their insights and reflections on the articles</p>
 

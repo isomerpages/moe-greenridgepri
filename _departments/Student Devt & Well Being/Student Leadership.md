@@ -2,7 +2,7 @@
 title: Student Leadership
 permalink: /departments/Student-Well-Being/student-leadership/
 description: ""
-third_nav_title: Student Well Being
+third_nav_title: Student Devt & Well Being
 ---
 # Student Leadership
 <p style="text-align: justify;">In Greenridge Primary School, we believe that every child is a leader, as imbibed by the school’s vision of ‘Engaged Learners, Caring Leaders’. Our intent is to develop principles-centred students who continue to learn independently and collaboratively in school and beyond. </p>
@@ -22,7 +22,7 @@ third_nav_title: Student Well Being
 *   To foster collaboration that Enable Others to Act
 *   To have the passion to Encourage the Heart
 
-Above all, we expect them to lead with an **Others-Centric** mindset: to put others before themselves in their leadership journey.
+Above all, we expect them to lead with an&nbsp;**Others-Centric**&nbsp;mindset: to put others before themselves in their leadership journey.
 
 The five practices translate into the following student commitment or behavior indicators as defined by Kouzes and Posner:
 
@@ -34,7 +34,7 @@ The five practices translate into the following student commitment or behavior i
 |   ***Enable Others to Act***   | Foster collaboration by promoting cooperative goals and building trust. <br><br>Strengthen others by sharing power and discretion.           |
 |    ***Encourage the Heart***   | Recognise contributions by showing appreciation for individual excellence.           |
 
-To maximize leadership opportunities, our students across all levels have three avenues in which to they are given the chance to develop their leadership skills. 
+To maximize leadership opportunities, our students across all levels have three avenues in which to they are given the chance to develop their leadership skills.&nbsp;
 
 These three avenues are in the classroom, in their respective CCAs, as well as through the Prefectorial Board.
 
@@ -54,8 +54,8 @@ These three avenues are in the classroom, in their respective CCAs, as well as t
 
 | Leadership Position     | Primary Duties       |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ***Sports & Games***<br>- Captain <br>- Vice-Captain             | - Assist the teacher-in-charge in taking attendance of CCA members. <br>- Assist in maintaining the discipline of CCA members. <br>- Assist in the coaching/modelling of sport skills to be learnt. <br>- Conduct orientation for new members. <br>- Encourage active participation by members. |
-| ***Clubs & Societies***<br>- President <br>- Vice-President<br>  | - Assist the teacher-in-charge in taking attendance of CCA members. <br>- Assist in maintaining the discipline of CCA members. <br>- Assist in the coaching/modelling of skills to be learnt. <br>- Conduct orientation for new members. <br>- Encourage active participation by members.           |
+| ***Sports &amp; Games***<br>- Captain <br>- Vice-Captain             | - Assist the teacher-in-charge in taking attendance of CCA members. <br>- Assist in maintaining the discipline of CCA members. <br>- Assist in the coaching/modelling of sport skills to be learnt. <br>- Conduct orientation for new members. <br>- Encourage active participation by members. |
+| ***Clubs &amp; Societies***<br>- President <br>- Vice-President<br>  | - Assist the teacher-in-charge in taking attendance of CCA members. <br>- Assist in maintaining the discipline of CCA members. <br>- Assist in the coaching/modelling of skills to be learnt. <br>- Conduct orientation for new members. <br>- Encourage active participation by members.           |
 
 ### Prefectorial Board
 
@@ -66,13 +66,13 @@ These three avenues are in the classroom, in their respective CCAs, as well as t
   
 Head Perfect: Lim Xiao Tian (6 Re)  
 
-Assistant Head Prefects: Mukeshmithran Samithurai (6 Hu) & Muhammad Rai’yaan Arshad (5 Re)  
+Assistant Head Prefects: Mukeshmithran Samithurai (6 Hu) &amp; Muhammad Rai’yaan Arshad (5 Re)  
   
-Prefect Mentors: Low Yeen Jaan (6 Hu) & Goh Quan Feng (6 Re)  
+Prefect Mentors: Low Yeen Jaan (6 Hu) &amp; Goh Quan Feng (6 Re)  
   
 P6 Level Executive: Charis Yak En Qi (6 Re)  
   
-P5 Level Executives: Amanda Yow Lye Teng (5 Hn) & Chea Hom Tao Triven (5 Hn)  
+P5 Level Executives: Amanda Yow Lye Teng (5 Hn) &amp; Chea Hom Tao Triven (5 Hn)  
   
 P4 Level Executive: Celine Kor Shu Han (4 Re)
 
@@ -90,7 +90,7 @@ P4 Level Executive: Celine Kor Shu Han (4 Re)
 
 <p style="text-align: justify;">Our prefects helped to usher and act as guides during the kindergarten visit on 18th May 2017. They brought the different groups of children to tour around the school and gave them a brief introduction of the various special rooms in the school compound. Some of our prefects even prepared stickers to give to the young visitors. It had been a memorable experience for our prefects</p>  
 
-<b><u>Values Brief by Prefects</u></b> 
+<b><u>Values Brief by Prefects</u></b>&nbsp;
 
 <p style="text-align: justify;">Every week, prefects will take turn to share with the other pupils on values of the week. These presentations will be done every Tuesday and Wednesday before assembly programme. The Powerpoint slides and scripts are prepared by them based on their understanding of the values that can be found in every pupil’s handbook.</p>
 

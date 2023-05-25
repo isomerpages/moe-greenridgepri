@@ -2,15 +2,14 @@
 title: Programmes
 permalink: /departments/English-and-Social-Studies/programmes/
 description: ""
-third_nav_title: English and Social Studies
+third_nav_title: English Department
 ---
 # Programmes
 **Primary 1 And 2**   
 **P1 Speech and Drama 2022**
 
 <figure>
-	<a href="https://drive.google.com/drive/folders/1myp0MrFt4bOFvMTY7BJkSjaXbQE6MPtk" target = "_blank"> <img src="/images/Departments/English%20and%20Social%20Studies/Programmes/P1SpeechDrama2022.jpeg"
-     style="width:100%"></a>
+	<a href="https://drive.google.com/drive/folders/1myp0MrFt4bOFvMTY7BJkSjaXbQE6MPtk" target="_blank"> <img src="/images/Departments/English%20and%20Social%20Studies/Programmes/P1SpeechDrama2022.jpeg" style="width:100%"></a>
 <figcaption>
 	Click on the picture above to view the performances
 	</figcaption>
@@ -28,7 +27,7 @@ third_nav_title: English and Social Studies
 
 ![](/images/Departments/English%20and%20Social%20Studies/Programmes/v2.jpg)
 
-**Speech & Drama**
+**Speech &amp; Drama**
 
 <p style="text-align: justify;">The lower primary Speech and Drama programme is part of the English curriculum that complements the school’s English programme. It engages students in activities that develop students’ confidence and speaking skills so that they are more articulate and expressive. With skills that they have learnt over the span of two years, the primary 2 students put up a fantastic performance for their parents and peers.</p>
 

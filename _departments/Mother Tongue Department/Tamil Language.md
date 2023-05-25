@@ -6,7 +6,15 @@ third_nav_title: Mother Tongue Department
 ---
 # Tamil Language
 
-### Tamil Language Committee Members
+#### Vision
+
+We aspire to make the learning of the language, culture and values fun and meaningful for all our pupils  
+  
+#### Mission  
+We strive to nurture confident language learners who have the love for the culture  
+
+
+#### Department Staff
 
 
 |       Designation / Teaching Subjects       |                         Name                         |
@@ -15,15 +23,6 @@ third_nav_title: Mother Tongue Department
 |                 Level Rep P4 &amp; P5                | Mrs Walter<br>[kalaiselvi_krishna_samy@moe.edu.sg](mailto:kalaiselvi_krishna_samy@moe.edu.sg)<br> |
 |               Level Rep P2 &amp; P6FTL             |  Mdm Kamisah<br>[kamisah_abdul_rajah@moe.edu.sg](mailto:kamisah_abdul_rajah@moe.edu.sg)<br>   |
 |           Level Rep P1, P3 &amp; P5FTL         |   Ms Preyaa<br>[v_s_mohanapreyaa@moe.edu.sg](mailto:v_s_mohanapreyaa@moe.edu.sg)    |
-
-### Vision &amp; Mission
-
-#### Vision
-
-We aspire to make the learning of the language, culture and values fun and meaningful for all our pupils  
-  
-#### Mission  
-We strive to nurture confident language learners who have the love for the culture  
 
 
 ### Programmes (2022)

@@ -2,7 +2,7 @@
 title: Student Well Being Overview
 permalink: /departments/Student-Well-Being/student-well-being-overview/
 description: ""
-third_nav_title: Student Well Being
+third_nav_title: Student Devt & Well Being
 ---
 # Student Development and Well-Being
 

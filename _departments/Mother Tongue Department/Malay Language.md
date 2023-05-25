@@ -5,7 +5,16 @@ description: ""
 third_nav_title: Mother Tongue Department
 ---
 # Malay Language
-#### Malay Language Committee Members
+
+
+#### Vision
+We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
+
+#### Mission
+We strive to nurture confident language learners who have the love for the culture.
+
+
+#### Department Staff
 
 
 | Teachers               | Designation                                         |
@@ -18,15 +27,6 @@ third_nav_title: Mother Tongue Department
 | Ms Siti Nurhamizah     | P3 Level Rep<br>P5 FML Level representative         |
 | Ms Syahiratul Wathiqah | P4 HMT Level Rep  <br> P6 FMT Level representative |
 
-
-### Vision &amp; Mission
-
-#### Vision
-We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
-
-#### Mission
-We strive to nurture confident language learners who have the love for the culture.
-  
 
 ### Programmes (Level)
 
@@ -63,9 +63,3 @@ To celebrate the festive season of Hari Raya Puasa, selected pupils from P1 to P
 <b><u>Oratorical Showcase</u></b>
 
 The P3 and P4 pupils went through a story telling showcase during the MT curriculum time. With the theme Harmony, pupils prepared a story to showcase to their peers.
-
-### Resources
-
-|                |                                    |
-|:--------------:|:----------------------------------:|
-| Portal e-Cekap | https://www.mtl.moe.edu.sg/ecekap/ |
