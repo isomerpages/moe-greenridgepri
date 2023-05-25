@@ -6,8 +6,6 @@ third_nav_title: Mother Tongue Department
 ---
 # Chinese Language
 
-### Vision &amp; Mission
-
 #### Vision
 We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
 
@@ -15,7 +13,7 @@ We aspire to make the learning of language, culture and values fun and meaningfu
 We strive to nurture confident language learners who have the love for the culture.
 
 
-### Department Teachers
+#### Department Staff
 
 |           Designation          |                                                                   Name                                                                  |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
