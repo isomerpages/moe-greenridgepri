@@ -28,6 +28,3 @@ To nurture every child to be a concerned citizen and active contributor
 #### [2. Citizenship Education](https://greenridgepri.moe.edu.sg/cce2/)
 
 #### [3. Character Education](https://greenridgepri.moe.edu.sg/cce3/)
-
-
-
