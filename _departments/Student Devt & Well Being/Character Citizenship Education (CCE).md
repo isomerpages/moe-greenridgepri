@@ -13,6 +13,7 @@ A Gracious Child, a Responsible leader, a Public-spirited citizen
 To nurture every child to be a concerned citizen and active contributor  
 
 #### Department Staff
+
 |     Designation    |                                                                                 Name                                                                                 |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Head of Department | Mr Arivalagan                                                                                                                                                        |
