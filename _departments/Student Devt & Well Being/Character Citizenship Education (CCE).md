@@ -1,6 +1,6 @@
 ---
 title: Character Citizenship Education (CCE)
-permalink: /departments/student-devt-and-well-being/permalink/
+permalink: /departments/student-devt-and-well-being/cce/
 description: ""
 third_nav_title: Student Devt & Well Being
 ---
