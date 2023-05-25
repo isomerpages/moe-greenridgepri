@@ -13,11 +13,9 @@ Every Greenridgean will&nbsp;RISE and EXCEL&nbsp;
 (Be Exemplary, Caring and Engaged Leader)  
 
 ####  Mission
-
 To inculcate life-long skills and nurture each Greenridgean with&nbsp;Social-Emotional Competencies  
 
 #### Values
-
 Integrity, Graciousness, Responsibility and Public-Spiritedness
 
 
