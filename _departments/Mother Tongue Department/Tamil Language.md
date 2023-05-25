@@ -25,9 +25,6 @@ We aspire to make the learning of the language, culture and values fun and meani
 #### Mission  
 We strive to nurture confident language learners who have the love for the culture  
 
-*   **Stretch Goal:**&nbsp;to be the Language and Culture Learning Centre of the Nation
-*   **Long-Term Goal:**&nbsp;to be the model of teaching and learning practices in the West Zone.
-*   **Short-Term Goal:**&nbsp;To maintain Quality &amp; Quantity passes above national average in the PSLE.
 
 ### Programmes (2022)
 
