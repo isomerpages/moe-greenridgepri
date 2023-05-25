@@ -13,19 +13,16 @@ A Gracious Child, a Responsible leader, a Public-spirited citizen
 To nurture every child to be a concerned citizen and active contributor  
 
 #### Department Staff
+
+
 |     Designation    |                                                                                 Name                                                                                 |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Head of Department | Mr Arivalagan                                                                                                                                                        |
-| Subject Heads      | Mrs Tay Kin Keong Vivian (NE/SS)                                                                                                                                     |
-| Members            | Ms Chu Li Jung <br><br>Mdm Deborah<br><br>Mdm Harpal Kaur<br><br>Ms Loh Shi Ting<br><br>Ms Mariati<br><br>Mdm Siti Badariah<br><br>Ms Wong Hui Lin<br><br>Mdm Zuleha |
+| Head of Department | Mr Arivalagan                                                                                             
+| Subject Heads      | Mrs Tay Kin Keong Vivian (NE/SS)                                                               
+| Members            | Ms Chu Li Jung <br>Mdm Deborah<br>Mdm Harpal Kaur<br>Ms Loh Shi Ting<br>Ms Mariati<br>Mdm Siti Badariah<br>Ms Wong Hui Lin<br>Mdm Zuleha
 
 
-1. CCE Department Framework
-2. Citizenship Education
-3. Character Education
-
-
-### 1. CCE Department Framework
+# 1. CCE Framework
 
 ![](/images/Departments/CCE%20Department/Framework.jpg)
 
@@ -44,7 +41,7 @@ All these efforts enable our pupils to attain our school vision of being an ‘E
 3 - Responsibility (MOE &amp; School), Resilience (MOE), Integrity (MOE)
 
 
-# Citizenship Education
+# 2. Citizenship Education
 ### Commemorating NE Core events
 
 <u><b>1) Total Defence Day</b></u>
@@ -85,7 +82,7 @@ National Day was celebrated in our school on 7 August.
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuEbHpfbelTbHyw-01maKg-vT3bbZBZEsXfJwrIIunOoYwkKbQAlhUuT9aBZV3-2aVY8OgkLJDdq6a/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
-# Character Education
+# 3. Character Education
 
 <u><b>Journey to the True Heart (JTTH)</b></u>
 
