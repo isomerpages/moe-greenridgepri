@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - Departments.md
-      - English/.keep
-      - English/English Department.md
-      - English/Vision & Mission.md
-      - English/Stellar Curriculum.md
-      - English/Programmes.md
-      - English/Reading Programmes.md
-      - English/Highlights and Achievements.md
-      - English/Parents' Workshops.md
-      - English/Resources.md
+      - English Department/.keep
+      - English Department/English Department.md
+      - English Department/Vision & Mission.md
+      - English Department/Stellar Curriculum.md
+      - English Department/Programmes.md
+      - English Department/Reading Programmes.md
+      - English Department/Highlights and Achievements.md
+      - English Department/Parents' Workshops.md
+      - English Department/Resources.md
       - Mother Tongue Department/.keep
       - Mother Tongue Department/Mother Tongue Department.md
       - Mother Tongue Department/Chinese Language.md
