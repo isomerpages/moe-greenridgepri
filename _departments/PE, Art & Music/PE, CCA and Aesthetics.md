@@ -4,7 +4,7 @@ permalink: /departments/PE-CCA-and-Aesthetics/pe-cca-and-aesthetics/
 description: ""
 third_nav_title: PE, Art & Music
 ---
-# PE, CCA and Aesthetics
+# PE, Art &amp; Music
 
 ### [Click here to view](/cca/art-expression-club/) our CCAs.
 
