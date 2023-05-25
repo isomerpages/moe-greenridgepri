@@ -22,10 +22,10 @@ third_nav_title: Mother Tongue Department
 ### Vision &amp; Mission
 
 #### Vision
-We strive to nurture confident language learners who have the love for the culture.
+We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
 
 #### Mission
-We aspire to make the learning of language, culture and values fun and meaningful for all our pupils.  
+We strive to nurture confident language learners who have the love for the culture.
   
 
 ### Programmes (Level)
