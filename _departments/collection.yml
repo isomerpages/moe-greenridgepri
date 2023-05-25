@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - Departments.md
-      - English and Social Studies/.keep
-      - English and Social Studies/English Department.md
-      - English and Social Studies/Vision & Mission.md
-      - English and Social Studies/Stellar Curriculum.md
-      - English and Social Studies/Programmes.md
-      - English and Social Studies/Reading Programmes.md
-      - English and Social Studies/Highlights and Achievements.md
-      - English and Social Studies/Parents' Workshops.md
-      - English and Social Studies/Resources.md
+      - English/.keep
+      - English/English Department.md
+      - English/Vision & Mission.md
+      - English/Stellar Curriculum.md
+      - English/Programmes.md
+      - English/Reading Programmes.md
+      - English/Highlights and Achievements.md
+      - English/Parents' Workshops.md
+      - English/Resources.md
       - Mother Tongue Department/.keep
       - Mother Tongue Department/Mother Tongue Department.md
       - Mother Tongue Department/Chinese Language.md
