@@ -22,4 +22,4 @@ SEN Officer | Ms Donna Lim Wei Yi
 | Star Class Award                         | Ms Shimmie Ramachandran<br>Ms Junainah Bte Sadar<br>Ms Donna Lim Wei Yi       |
 | Praise Mail           | Mdm Nur Jannah Juri<br>Mr Muhd Khairon Bin Yunus                |  |
 | Senses in Harmony                    | Ms Shimmie Ramachandran<br>Ms Donna Lim Wei Yi             |
-| P6 Motivation Programme              | Mr See Kok Ching 
+| P6 Motivation Programme              | Mr See Kok Ching
