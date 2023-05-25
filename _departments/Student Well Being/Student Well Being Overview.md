@@ -4,13 +4,13 @@ permalink: /departments/Student-Well-Being/student-well-being-overview/
 description: ""
 third_nav_title: Student Well Being
 ---
-# Student Well-Being Overview
-![](/images/Departments/Student%20Well%20Being/STUDENT%20WELL-BEING_P1.jpg)
+# Student Development and Well-Being
+
 
 
 |        Designation         | Name        |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| <u><b>Positive Education @ GRPS</b></u><br>Year Head P1 & P2<br>Assistant Year Head P2<br>Year Head P3 & P4<br>Assistant Year Head P4<br>Year Head P5 & P6 <br>Assistant Year Head P6 |      <br>Mdm Pek Shu San<br>Ms Mariati Ngahtemin<br>Mdm Nur Jannah Juri<br>Mr Poh Choon Wee<br>Mr See Kok Ching<br>Mdm Wang Yingshan |
+| <u><b>Positive Education @ GRPS</b></u><br>Year Head P1 &amp; P2<br>Assistant Year Head P2<br>Year Head P3 &amp; P4<br>Assistant Year Head P4<br>Year Head P5 &amp; P6 <br>Assistant Year Head P6 |      <br>Mdm Pek Shu San<br>Ms Mariati Ngahtemin<br>Mdm Nur Jannah Juri<br>Mr Poh Choon Wee<br>Mr See Kok Ching<br>Mdm Wang Yingshan |
 |  Subject Head Discipline                  | Mr Yeo Wi Kiat           |
 | Case Management Team (CMT)                 | Mr Muhd Khairon Bin Yunus                                                                                                            |
 |  School Counsellor          | Ms Shimmie Ramachandran            |
