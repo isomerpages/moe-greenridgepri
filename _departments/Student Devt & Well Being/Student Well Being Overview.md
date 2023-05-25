@@ -10,7 +10,7 @@ third_nav_title: Student Devt & Well Being
 
 |        Designation         | Name        |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| <u><b>Positive Education @ GRPS</b></u><br>Year Head P1 &amp; P2<br>Assistant Year Head P2<br>Year Head P3 &amp; P4<br>Assistant Year Head P3 &amp; P4<br>Year Head P5 &amp; P6 <br>Assistant Year Head P5 &amp; P6 |      <br>Mdm Pek Shu San<br>Mr Prabu Selvaraj<br>Mdm Nur Jannah Juri<br>Mr Poh Choon Wee<br>Mr See Kok Ching<br>Mdm Kalaiselvi |
+|Year Head P1 &amp; P2<br>Assistant Year Head P2<br>Year Head P3 &amp; P4<br>Assistant Year Head P3 &amp; P4<br>Year Head P5 &amp; P6 <br>Assistant Year Head P5 &amp; P6 |  Mdm Pek Shu San<br>Mr Prabu Selvaraj<br>Mdm Nur Jannah Juri<br>Mr Poh Choon Wee<br>Mr See Kok Ching<br>Mdm Kalaiselvi |
 |  Head of Department and Student Leadership                 | Mr Yeo Wi Kiat           |
 | Head of Department SEN                 | Mr Muhd Khairon Bin Yunus                                                                                                            |
 |  School Counsellor          | Ms Shimmie Ramachandran            |
