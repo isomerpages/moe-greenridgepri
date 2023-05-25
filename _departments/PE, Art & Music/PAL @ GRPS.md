@@ -1,6 +1,6 @@
 ---
 title: PAL @ GRPS
-permalink: /departments/PE-CCA-and-Aesthetics/pal-at-grps/
+permalink: /departments/pe-art-music/pal-grps/
 description: ""
 third_nav_title: PE, Art & Music
 ---
