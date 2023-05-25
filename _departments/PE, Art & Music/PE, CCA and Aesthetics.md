@@ -8,7 +8,17 @@ third_nav_title: PE, Art & Music
 
 ### [Click here to view](/cca/art-expression-club/) our CCAs.
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/PE%20main%20page.jpg)
+
+#### Vision
+
+Talented Learners, Passionate Leaders
+
+#### Mission
+
+Engaging and nurturing passionate pupils to enliven and enhance their talents and character through PE, Art &amp; Music
+
+
+#### Department Staff
 
 |        Designation        |                                                                                     Name                                                                                    |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
