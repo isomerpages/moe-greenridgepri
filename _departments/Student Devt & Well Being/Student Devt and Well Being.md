@@ -1,10 +1,10 @@
 ---
-title: Student Well Being
-permalink: /departments/Student-Well-Being/student-well-being/
+title: Student Devt and Well Being
+permalink: /departments/student-well-being/student-devt-well-being/
 description: ""
 third_nav_title: Student Devt & Well Being
 ---
-# Student Development And Well-Being
+# Student Development and Well-Being
 
 The Student Development &amp; Well-Being Department undertakes to nurture Social and Emotional competencies, strengthen positive Teacher Student Relationship and promote the mental well-being of students within a caring and supportive learning and school environment, involving all teachers. To facilitate the acquisition of SE competencies, our school has used a variety of existing platforms:
 
@@ -31,19 +31,3 @@ Drawing on the PERMA model, together with our Character and Citizenship Educatio
 ![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_2.jpg)
 
 ![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_3.jpg)
-
-![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_4.jpg)
-
-### Fostering Positivity and Meaning in Schools
-
-Our school was featured in an article on the March 2018 issue on Fostering Positivity and Meaning for SingTeach.
-
-![](/images/Departments/Student%20Well%20Being/SingTeachMag.jpg)
-
-To read them, please click on the links provided;  
-
-1)&nbsp;[Online Version](http://singteach.nie.edu.sg/issue64-classroom01/)
-
-2)&nbsp;[Printed Version](/files/Departments/Student%20well%20being/SingTeach_Issue64.pdf)
-
-Thank you.
