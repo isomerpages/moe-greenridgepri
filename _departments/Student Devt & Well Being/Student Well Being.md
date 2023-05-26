@@ -4,9 +4,9 @@ permalink: /departments/Student-Well-Being/student-well-being/
 description: ""
 third_nav_title: Student Devt & Well Being
 ---
-# Student Well-Being
+# Student Development And Well-Being
 
-**The Student Well-Being Department**&nbsp;undertakes&nbsp;to nurture Social and Emotional competencies, strengthen positive Teacher Student Relationship and promote the mental well-being of students within a caring and supportive learning and school environment, involving all teachers. To facilitate the acquisition of SE competencies, our school has used a variety of existing platforms:
+**The Student Development &amp; Well-Being Department**&nbsp;undertakes&nbsp;to nurture Social and Emotional competencies, strengthen positive Teacher Student Relationship and promote the mental well-being of students within a caring and supportive learning and school environment, involving all teachers. To facilitate the acquisition of SE competencies, our school has used a variety of existing platforms:
 
 
 \-&nbsp;&nbsp;The explicit teaching of SEL as part of the Character and Citizenship Education (CCE); and through Guidance Areas which include Education and Career Guidance, Sexuality Education and the Cyber Wellness curriculum;  
