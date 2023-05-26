@@ -31,5 +31,3 @@ Drawing on the PERMA model, together with our Character and Citizenship Educatio
 ![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_2.jpg)
 
 ![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_3.jpg)
-
-![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_4.jpg)
