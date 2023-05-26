@@ -4,7 +4,6 @@ permalink: /departments/ICT-MRL-ALP/
 description: ""
 third_nav_title: ICT, MRL, ALP
 ---
-
 # ICT/MRL/ALP
 
 <p style="text-align: center;"><u><b>The Fourth Masterplan for ICT in Education [2015 – current]</b></u></p>
@@ -34,7 +33,6 @@ For students engaged in collaborative learning, there will be:
 
 <figure>
 	<img src="/images/Departments/ICT,%20MRL,%20ALP/ict2.png">
-<figcaption>
-	Source: <a href="http://ictconnection.edumall.sg/">The ICT Connection</a>
-	</figcaption>
 </figure>
+
+![](/images/Departments/ICT,%20MRL,%20ALP/sls_scaffold.jpg)
