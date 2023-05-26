@@ -33,17 +33,3 @@ Drawing on the PERMA model, together with our Character and Citizenship Educatio
 ![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_3.jpg)
 
 ![](/images/Departments/Student%20Well%20Being/Student%20Well-Being_4.jpg)
-
-### Fostering Positivity and Meaning in Schools
-
-Our school was featured in an article on the March 2018 issue on Fostering Positivity and Meaning for SingTeach.
-
-![](/images/Departments/Student%20Well%20Being/SingTeachMag.jpg)
-
-To read them, please click on the links provided;  
-
-1)&nbsp;[Online Version](http://singteach.nie.edu.sg/issue64-classroom01/)
-
-2)&nbsp;[Printed Version](/files/Departments/Student%20well%20being/SingTeach_Issue64.pdf)
-
-Thank you.
