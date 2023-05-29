@@ -2,4 +2,4 @@ collections:
   infohub:
     output: true
     order:
-      - Info Hub.md
+      - Main.md
