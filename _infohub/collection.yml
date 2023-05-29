@@ -2,6 +2,7 @@ collections:
   infohub:
     output: true
     order:
+      - Parents Gateway.md
       - Student ICON (Google Classroom).md
       - Student Learning Space (SLS).md
       - Home Based Learning (HBL).md
