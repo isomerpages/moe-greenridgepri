@@ -1,4 +1,5 @@
 collections:
   infohub:
     output: true
-    order: []
+    order:
+      - Info Hub.md
