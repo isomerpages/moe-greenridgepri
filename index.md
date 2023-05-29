@@ -10,12 +10,12 @@ sections:
       background: /images/homepagebg.png
       key_highlights:
         - title: Info Hub
-          description: Information & resources hub
+          description: Information & Resources
           url: https://greenridgepri.moe.edu.sg/main/
         - title: GRPS E-Open House Website
           description: Click to visit our GRPS E-Open House site
           url: https://sites.google.com/moe.edu.sg/grps-eopenhouse/main
         - title: Quick Links
-          description: For Staff and Students
+          description: For Staff & Students
           url: https://greenridgepri.moe.edu.sg/quick-links/
 ---

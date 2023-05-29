@@ -34,14 +34,19 @@ description: ""
     <td>My Skill Future (Pri)</td>
     <td><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank">For Pri School Students</a><br></td>
   </tr>
+		<tr>
+    <td>Parents Gateway</td>
+    <td><a href="https://pg.moe.edu.sg/" target="_blank">https://pg.moe.edu.sg/</a><br></td>
+  </tr>
   <tr>
     <td>DSA (P6 Only)</td>
     <td><a href="https://www.moe.gov.sg/secondary/dsa/application">Direct School Admission</a></td>
   </tr>
-  <tr>
-    <td>Parents Gateway</td>
-    <td><a href="https://pg.moe.edu.sg/" target="_blank">https://pg.moe.edu.sg/</a><br></td>
-  </tr></tbody></table>
+		 <tr>
+    <td>KooBits</td>
+    <td><a href="https://www.koobits.com/">https://www.koobits.com/</a></td>
+  </tr>
+  </tbody></table>
 
 
 #### For Staff
