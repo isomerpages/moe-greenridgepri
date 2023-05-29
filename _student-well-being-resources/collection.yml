@@ -1,9 +1,0 @@
-collections:
-  student-well-being-resources:
-    output: true
-    order:
-      - Positive Discipline (Chapter Summary).md
-      - Share A Story.md
-      - Good Classroom Practices.md
-      - What is Positive Discipline?.md
-      - Positive Classroom Climate.md

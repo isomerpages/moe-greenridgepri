@@ -1,6 +1,6 @@
 ---
-title: Links for Staff
-permalink: /partners-in-education/links-for-staff/
+title: Quick Links
+permalink: /quick-links/
 description: ""
 ---
 ### Quick Links 
