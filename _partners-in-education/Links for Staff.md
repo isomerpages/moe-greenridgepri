@@ -58,10 +58,14 @@ description: ""
     <td><a href="https://intranet.moe.gov.sg/">https://intranet.moe.gov.sg </a></td>
   </tr>
   <tr>
-    <td>MIMS Portal</td>
-    <td><a href="https://portal.mims.moe.gov.sg/">https://portal.mims.moe.gov.sg</a> </td>
+    <td>MOE Applications</td>
+    <td><a href="https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx">List of MOE Applications</a> </td>
   </tr>
   <tr>
+    <td>MIMS Portal<br></td>
+    <td><a href="https://portal.mims.moe.gov.sg/" target="_blank">https://portal.mims.moe.gov.sg/</a> </td>
+  </tr>
+		 <tr>
     <td>School Cockpit <br></td>
     <td><a href="https://schoolcockpit.moe.gov.sg/" target="_blank">https://schoolcockpit.moe.gov.sg</a> </td>
   </tr>
