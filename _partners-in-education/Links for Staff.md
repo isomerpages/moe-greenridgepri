@@ -5,7 +5,7 @@ description: ""
 ---
 ### Quick Links 
 
-#### For Student
+#### For Students
 
 <table>
 	<thead>
