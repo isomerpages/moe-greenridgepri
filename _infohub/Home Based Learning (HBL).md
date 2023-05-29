@@ -3,21 +3,20 @@ title: Home Based Learning (HBL)
 permalink: /partners-in-education/home-based-learning-hbl/
 description: ""
 ---
-
 # Home Based Learning (HBL)
 
-###  Online Tools for Learning
+### &nbsp;Online Tools for Learning
 
 
 SLS: <a href="https://vle.learning.moe.edu.sg/" target="_blank">https://vle.learning.moe.edu.sg/</a>
-    
-Zoom: <a href="https://zoom.us/" target="_blank">https://zoom.us/</a>
-   
-eZhishi: <a href="https://www.ezhishi.net/" target="_blank">https://www.ezhishi.net/</a>  
+&nbsp;&nbsp;  
+Zoom:&nbsp;<a href="https://zoom.us/" target="_blank">https://zoom.us/</a>
+&nbsp;  
+eZhishi:&nbsp;<a href="https://www.ezhishi.net/" target="_blank">https://www.ezhishi.net/</a>  
 
-### Learning Devices 
+### Learning Devices&nbsp;
 
-Please provide your child with the means to access instructions and learning activities. 
+Please provide your child with the means to access instructions and learning activities.&nbsp;
 
 *   Personal Learning Device (computer, laptop, tablet or smartphone)
     

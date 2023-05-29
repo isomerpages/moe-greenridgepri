@@ -15,4 +15,7 @@ sections:
         - title: GRPS E-Open House Website
           description: Click to visit our GRPS E-Open House site
           url: https://sites.google.com/moe.edu.sg/grps-eopenhouse/main
+        - title: Info Hub
+          description: Information & resources hub
+          url: ""
 ---

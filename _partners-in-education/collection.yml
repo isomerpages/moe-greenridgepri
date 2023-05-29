@@ -2,11 +2,6 @@ collections:
   partners-in-education:
     output: true
     order:
-      - OPAC & School eResource Repository.md
-      - Home Based Learning (HBL).md
-      - Parents Gateway.md
-      - Student Learning Space (SLS).md
-      - Student ICON (Google Classroom).md
       - GRPS 25th Anniversary/.keep
       - GRPS 25th Anniversary/GRPS 25th Anniversary.md
       - GRPS 25th Anniversary/Greenridge QR Code.md

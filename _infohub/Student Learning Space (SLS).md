@@ -15,9 +15,9 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
   
 Click on the title to watch and learn more about  
   
-a. <a href="https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg" target="_blank">What is SLS?</a>
+a.&nbsp;<a href="https://www.youtube.com/watch?time_continue=80&amp;v=F0FTP2FveSg" target="_blank">What is SLS?</a>
   
-b. <a href="https://www.youtube.com/watch?v=JZhjECbHmiE&feature=youtu.be" target="_blank">What are the resources inside SLS that can support Self-Directed Learning?</a>
+b.&nbsp;<a href="https://www.youtube.com/watch?v=JZhjECbHmiE&amp;feature=youtu.be" target="_blank">What are the resources inside SLS that can support Self-Directed Learning?</a>
   
 **2\. How can I access SLS?**  
   
@@ -26,9 +26,9 @@ SLS can be accessed from <a href="https://learning.moe.edu.sg" target="_blank">h
 The username is the student's first five letters of their name and last five characters of their ID. The SLS password had been given to the student through their teacher.  
   
 **3\. If you have forgotten your password, what should you do?**  
-You can request to reset via the school's <a href="https://form.gov.sg/6125b8165dda700012951c3f" target="_blank">SLS/Student ICON Account Password Reset Form</a>.  Alternatively you can also contact the school based helpline and SLS helpdesk. Please refer to the operating hours listed below.  
+You can request to reset via the school's&nbsp;<a href="https://form.gov.sg/6125b8165dda700012951c3f" target="_blank">SLS/Student ICON Account Password Reset Form</a>.  Alternatively you can also contact the school based helpline and SLS helpdesk. Please refer to the operating hours listed below.&nbsp;&nbsp;
 
-**4. SLS Support for HBL**  
+**4.&nbsp;SLS Support for HBL**  
   
 <u>School Operating Hours</u>
 
@@ -40,11 +40,11 @@ Email: grps@moe.edu.sg
 
 <u>Non-School Operating Hours</u>
 
-Students can only contact the SLS Helpdesk outside the school operating hours.  
+Students can only contact the SLS Helpdesk outside the school operating hours. &nbsp;
 
 SLS Helpdesk: 6702 6513   
 Mondays - Fridays: 4:00 pm - 9:00 pm   
 Saturdays: 9:00 am - 9:00 pm   
-\*Closed on Sundays & Public Holidays
+\*Closed on Sundays &amp; Public Holidays
 
 For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
