@@ -2,7 +2,6 @@ collections:
   partners-in-education:
     output: true
     order:
-      - Parents Gateway.md
       - GRPS 25th Anniversary/.keep
       - GRPS 25th Anniversary/GRPS 25th Anniversary.md
       - GRPS 25th Anniversary/Greenridge QR Code.md
