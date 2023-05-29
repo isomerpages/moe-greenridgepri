@@ -1,0 +1,4 @@
+collections:
+  infohub:
+    output: true
+    order: []
