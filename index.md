@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/homepagebg.png
+      key_highlights:
+        - title: Quick Links
+          description: ""
+          url: https://greenridgepri.moe.edu.sg/quick-links/
   - infobar:
       title: GRPS E-Open House Website
       description: Click on the link below to visit our GRPS E-Open House website now.
