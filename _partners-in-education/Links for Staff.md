@@ -3,7 +3,10 @@ title: Links for Staff
 permalink: /partners-in-education/links-for-staff/
 description: ""
 ---
-# Links for Staff
+### Quick Links 
+
+#### For Student
+
 <table>
 	<thead>
   <tr>
@@ -11,7 +14,46 @@ description: ""
     <th></th>
   </tr>
 </thead>
+  <tbody><tr>
+    <td>SLS</td>
+    <td><a href="https://vle.learning.moe.edu.sg/">Student Learning Space</a>   <br></td>
+  </tr>
   <tr>
+    <td>Student ICON</td>
+    <td><a href="https://icon.moe.edu.sg/">Google Dashboard</a></td>
+  </tr>
+  <tr>
+    <td>OPAC</td>
+    <td><a href="https://schoolibrary.moe.edu.sg/greenridgepri">School Library GRPS</a> </td>
+  </tr>
+  <tr>
+    <td>School eResource Repository (SERR)</td>
+    <td><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">School eResource Repository (SERR)</a></td>
+  </tr>
+  <tr>
+    <td>My Skill Future (Pri)</td>
+    <td><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank">For Pri School Students</a><br></td>
+  </tr>
+  <tr>
+    <td>DSA (P6 Only)</td>
+    <td><a href="https://www.moe.gov.sg/secondary/dsa/application">Direct School Admission</a></td>
+  </tr>
+  <tr>
+    <td>Parents Gateway</td>
+    <td><a href="https://pg.moe.edu.sg/" target="_blank">https://pg.moe.edu.sg/</a><br></td>
+  </tr></tbody></table>
+
+
+#### For Staff
+
+<table>
+	<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+  <tbody><tr>
     <td>MOE Intranet</td>
     <td><a href="https://intranet.moe.gov.sg/">https://intranet.moe.gov.sg </a></td>
   </tr>
@@ -21,7 +63,7 @@ description: ""
   </tr>
   <tr>
     <td>School Cockpit <br></td>
-    <td><a href="https://schoolcockpit.moe.gov.sg/"  target="_blank">https://schoolcockpit.moe.gov.sg</a> </td>
+    <td><a href="https://schoolcockpit.moe.gov.sg/" target="_blank">https://schoolcockpit.moe.gov.sg</a> </td>
   </tr>
   <tr>
     <td>SC Mobile</td>
@@ -42,23 +84,15 @@ description: ""
   <tr>
     <td>OPAL 2.0<br></td>
     <td><a href="https://opal2.moe.edu.sg/">https://opal2.moe.edu.sg/</a></td>
-  <tr>
+  </tr><tr>
     <td>Discipline Resource Portal<br></td>
-    <td><a href="https://tinyurl.com/discipline-portal"  target="_blank">https://tinyurl.com/discipline-portal</a></td>
+    <td><a href="https://tinyurl.com/discipline-portal" target="_blank">https://tinyurl.com/discipline-portal</a></td>
   </tr>
   <tr>
-  </tr>
-  <tr>
-    <td>Student Learning Space (SLS)<br></td>
-    <td><a href="https://vle.learning.moe.edu.sg/">https://vle.learning.moe.edu.sg</a>                              </td>
   </tr>
   <tr>
     <td>Icon 2.0</td>
     <td><a href="https://icon.moe.edu.sg/">https://icon.moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Parents Gateway (PG)</td>
-    <td><a href="https://pg.moe.edu.sg/">https://pg.moe.edu.sg/</a> </td>
   </tr>
   <tr>
     <td>Resource Booking Schedule (RBS)</td>
@@ -66,7 +100,7 @@ description: ""
   </tr>
   <tr>
     <td>GRPS S-Cube</td>
-    <td><a href="https://tinyurl.com/grps-s-cube"  target="_blank">https://tinyurl.com/grps-s-cube</a><br></td>
+    <td><a href="https://tinyurl.com/grps-s-cube" target="_blank">https://tinyurl.com/grps-s-cube</a><br></td>
   </tr>
   <tr>
     <td>National School Games</td>
@@ -74,5 +108,5 @@ description: ""
   </tr>
   <tr>
     <td>All EARS Form Builder</td>
-    <td><a href="https://forms.moe.edu.sg/"  target="_blank">https://forms.moe.edu.sg/</a><br></td>
-  </tr>
+    <td><a href="https://forms.moe.edu.sg/" target="_blank">https://forms.moe.edu.sg/</a><br></td>
+  </tr></tbody></table>
