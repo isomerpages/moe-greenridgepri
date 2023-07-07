@@ -2,6 +2,7 @@ collections:
   joy-of-learning:
     output: true
     order:
+      - Peer Support & Relationships (PSR).md
       - High Ability Learners (HAL).md
       - Enriching & Enhancing Experience (E3).md
       - Applied Learning Programme (ALP).md
