@@ -2,5 +2,6 @@ collections:
   joy-of-learning:
     output: true
     order:
+      - High Ability Learners (HAL).md
       - Enriching & Enhancing Experience (E3).md
       - Applied Learning Programme (ALP).md
