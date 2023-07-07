@@ -2,7 +2,6 @@ collections:
   student-learning-platforms:
     output: true
     order:
-      - Main.md
       - Student Learning Space (SLS).md
       - Student ICON (Google Classroom).md
       - Parents Gateway.md
