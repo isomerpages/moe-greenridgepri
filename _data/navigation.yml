@@ -2,9 +2,7 @@ logo: /images/school-logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Departments
-    collection: departments
-  - title: Achievements
-    collection: achievements
+  - title: Joy of Learning
+    collection: joy-of-learning
   - title: Partners in Education
     collection: partners-in-education
