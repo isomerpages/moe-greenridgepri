@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Publication.md
+      - History.md
       - Principal's Message.md
       - Mission, Vision & Values.md
-      - School Crest, School Song.md
-      - History.md
-      - School Virtual Tour.md
       - Staff.md
-      - Student Care Centre.md
+      - School Crest, School Song.md
+      - School Virtual Tour.md
+      - Publication.md
       - Contact Us.md
+      - Student Care Centre.md
       - FAQ.md
       - Terms of Use.md
       - Privacy Statement.md
