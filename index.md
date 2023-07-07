@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/homepagebg.png
       key_highlights:
-        - title: ""
-          description: ""
+        - title: Info Hub
+          description: Announcements & Notifications
           url: ""
         - title: GRPS E-Open House Website
           description: Click to visit our GRPS E-Open House site
