@@ -1,5 +1,5 @@
 collections:
-  infohub:
+  student-learning-platforms:
     output: true
     order:
       - Main.md
