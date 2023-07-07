@@ -2,13 +2,13 @@ title: Greenridge Primary School
 url: https://greenridgepri.moe.edu.sg
 favicon: /images/school-logo.png
 colors:
-  primary-color: "#d7c80a"
+  primary-color: "#f8e71c"
   secondary-color: "#2a7105"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#417505"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
