@@ -31,8 +31,10 @@ When you know your best character traits, you can improve your life and thrive. 
 
 **(iii)** **Growth Mindset**
 
-
+![](/images/Joy%20of%20Learning/POS%20ED/pos_ed_2023_2.jpg)
 
  In Greenridge Primary School, we want to instill in our students a Growth Mindset. Students with a Growth Mindset will have a positive view of challenge that helps to fuel a spirit of curiosity, giving them the confidence to engage fully with the learning process and develop their problem-solving skills all while having fun. 
  
 Students achieve more because their goal is to learn is to learn despite challenges and discover something new in doing so. We know that life can be difficult sometimes. If students understand that the price of learning something new means making a few mistakes here and there, they can focus on becoming who they want to be.
+
+![](/images/Joy%20of%20Learning/POS%20ED/pos_ed_2023_3.jpg)
