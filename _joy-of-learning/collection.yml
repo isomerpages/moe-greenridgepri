@@ -2,6 +2,7 @@ collections:
   joy-of-learning:
     output: true
     order:
+      - Positive Education.md
       - Co Curricular Activities (CCA).md
       - Programme for Active Learning (PAL).md
       - Peer Support & Relationships (PSR).md
