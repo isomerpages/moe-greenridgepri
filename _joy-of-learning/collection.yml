@@ -2,4 +2,5 @@ collections:
   joy-of-learning:
     output: true
     order:
+      - Enriching & Enhancing Experience (E3).md
       - Applied Learning Programme (ALP).md
