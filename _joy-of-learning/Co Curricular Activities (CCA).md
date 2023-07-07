@@ -9,7 +9,6 @@ description: ""
 
 Co-curricular activities or CCA is strongly encouraged for primary school students as it helps students to have a more well-rounded schooling experience. Being in a CCA not only exposes students to areas of their interests but also as an avenue to cultivate and instil the soft skills e.g. critical thinking, teamwork etc. It also opens students to more experiences and more often than not, their involvement in CCAs influence their livelong involvement in physical activities and other interests.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zkphDzpjtiM" height="400" width="650"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zkphDzpjtiM" height="315" width="560"></iframe>
 
 ### [Click here to view](https://www.greenridgepri.moe.edu.sg/cca/art-expression-club/)&nbsp;our CCAs.
-
