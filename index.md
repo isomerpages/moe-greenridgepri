@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Info Hub
           description: Announcements & Notifications
-          url: ""
+          url: https://greenridgepri.moe.edu.sg/infohub/
         - title: GRPS E-Open House Website
           description: Click to visit our GRPS E-Open House site
           url: https://sites.google.com/moe.edu.sg/grps-eopenhouse/main
