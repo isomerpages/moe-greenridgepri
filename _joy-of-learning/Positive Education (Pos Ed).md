@@ -25,6 +25,8 @@ As part of the school’s effort in nurturing a culture of positivity, Greenridg
 
 **(ii)** **Character Strengths**
 
+![](/images/Joy%20of%20Learning/POS%20ED/character%20strengths%20card.jpeg)
+
 Character strengths are the positive parts of your personality that impact how you think, feel and behave. Knowing and applying your highest character strengths is the key to you being your best self. 
 
 When you know your best character traits, you can improve your life and thrive. In Greenridge, during Orientation at the beginning of the year, the class builds class identity and relationships by working together to develop class strengths. This enhances good character and the students flourish by doing so.
