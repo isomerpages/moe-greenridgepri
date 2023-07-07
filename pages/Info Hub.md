@@ -9,6 +9,11 @@ description: ""
 3. [Term 3](/files/2023_term3_notificationletter.pdf)
 
 
-### **Publications**
+#### **Publications**
 
 [Click here to view our publications](https://www.greenridgepri.moe.edu.sg/publication/)
+
+
+#### **Parents Gateway (PG)**
+
+[Click here to view more info and on setting up PG](https://www.greenridgepri.moe.edu.sg/pg/)
