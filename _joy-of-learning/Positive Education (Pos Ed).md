@@ -40,3 +40,12 @@ When you know your best character traits, you can improve your life and thrive. 
 Students achieve more because their goal is to learn is to learn despite challenges and discover something new in doing so. We know that life can be difficult sometimes. If students understand that the price of learning something new means making a few mistakes here and there, they can focus on becoming who they want to be.
 
 ![](/images/Joy%20of%20Learning/POS%20ED/pos_ed_2023_3.jpg)
+
+
+**(iv)** **Senses of Harmony**
+
+![](/images/Joy%20of%20Learning/POS%20ED/posed_senses1a.jpg)
+
+Senses in Harmony is a 5-minute mindfulness activity that students engage in at the start of the day. Mindfulness focuses on being present in the here and now and encourages students to start the day right by calming them down and relaxing their mind and body. This calm state will in turn help students focus better in class. As the name suggests, students focus on a particular sense each day by performing a mindfulness activity. Besides getting them ready for the day, Senses in Harmony also equips students with essential coping skills to regulate their emotions when necessary.
+
+![](/images/Joy%20of%20Learning/POS%20ED/posed_senses2.jpg)
