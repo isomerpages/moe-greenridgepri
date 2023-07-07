@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning (HBL)
-permalink: /partners-in-education/home-based-learning-hbl/
+permalink: /slp/hbl/
 description: ""
 ---
 # Home Based Learning (HBL)

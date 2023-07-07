@@ -2,14 +2,14 @@ collections:
   partners-in-education:
     output: true
     order:
-      - GRPS 25th Anniversary/.keep
-      - GRPS 25th Anniversary/GRPS 25th Anniversary.md
-      - GRPS 25th Anniversary/Greenridge QR Code.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/Activities organised by PSG and School.md
       - Parent Support Group/Parent Engagement.md
       - Parent Support Group/Partnership & Outreach.md
-      - Useful Information/.keep
-      - Useful Information/Application Forms.md
-      - Useful Information/Canteen Menu and Price List.md
+      - Student Care Centre.md
+      - GRPS 25th Anniversary/.keep
+      - GRPS 25th Anniversary/GRPS 25th Anniversary.md
+      - GRPS 25th Anniversary/Greenridge QR Code.md
+      - Canteen.md
+      - FAQ.md

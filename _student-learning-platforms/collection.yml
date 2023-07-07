@@ -1,10 +1,8 @@
 collections:
-  infohub:
+  student-learning-platforms:
     output: true
     order:
-      - Main.md
-      - Publication.md
       - Student Learning Space (SLS).md
-      - Student ICON (Google Classroom).md
+      - Student ICON.md
       - Parents Gateway.md
       - Home Based Learning (HBL).md

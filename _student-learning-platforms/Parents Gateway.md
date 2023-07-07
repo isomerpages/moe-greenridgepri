@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /partners-in-education/parents-gateway/
+permalink: /slp/pg/
 description: ""
 ---
 # Parents Gateway

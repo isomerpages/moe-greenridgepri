@@ -1,6 +1,6 @@
 ---
 title: Publication
-permalink: /about-us/publication/
+permalink: /publication/
 description: ""
 ---
 <b>1)&nbsp;<u>Newsletters</u></b>
