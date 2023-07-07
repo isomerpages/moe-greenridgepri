@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Main.md
-      - Publication.md
       - Student Learning Space (SLS).md
       - Student ICON (Google Classroom).md
       - Parents Gateway.md
