@@ -2,10 +2,10 @@ collections:
   joy-of-learning:
     output: true
     order:
-      - Positive Education.md
-      - Co Curricular Activities (CCA).md
+      - Applied Learning Programme (ALP).md
+      - Enriching & Enhancing Experience (E3).md
       - Programme for Active Learning (PAL).md
       - Peer Support & Relationships (PSR).md
       - High Ability Learners (HAL).md
-      - Enriching & Enhancing Experience (E3).md
-      - Applied Learning Programme (ALP).md
+      - Positive Education.md
+      - Co Curricular Activities (CCA).md
