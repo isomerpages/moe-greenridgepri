@@ -12,6 +12,7 @@ Our ALP Curriculum is aligned to the Ministry of Education’s initiative of ena
 ##### **Primary 1**
 Our Primary 1 students will be introduced to the exciting world of coding through a friendly robot called Kubo. Kubo is specifically designed to make coding fun and accessible for young learners. Students will embark on interactive activities and puzzles that will teach them the basics of coding logic and sequencing. They will learn how to program Kubo to navigate mazes, play games, and solve challenges, all while developing their problem-solving and critical thinking skills.
 
+
 ##### **Primary 2**
 In Primary 2, students will progress to Scratch Junior, a beginner-friendly programming language that allows them to create their own interactive stories, animations, and games. Through colorful and engaging coding blocks, students will learn how to code characters and objects, add sounds and animations, and create their own unique projects. They will discover the joy of creating and sharing their interactive creations while honing their creativity and computational thinking skills.
 
