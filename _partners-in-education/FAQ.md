@@ -98,7 +98,3 @@ Tel: 64655959
 Shirley Seasons Wear  
 7030 Ang Mo Kio Ave 5, #04-55, Northstar, Singapore 569880  
   
-
-**8\. Are student care services available in GRPS?**
-
-We are pleased to inform you that Star Campus Pte Ltd has been awarded to operate the Student Care Centre in Greenridge Primary School.&nbsp;For any enquiries, kindly email to:&nbsp;[greenridgescc@starcampus.org](https://greenridgepri.moe.edu.sg/about-us/greenridgescc@starcampus.org)
