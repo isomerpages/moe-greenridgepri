@@ -21,7 +21,7 @@ Within the curriculum, HA students experience differentiated instruction either 
 
 The school participates in the Math and Science Olympiads and the SOTA, GEB Creative Writing Programme and ACJC Debates Masterclass for English to name a few. Students are also exposed to various inter-school and national competitions throughout the year.
 
-![](/images/Joy%20of%20Learning/HAL/hal_2023_b.png)
+![](/images/Joy%20of%20Learning/HAL/hal_2023_a2.png)
 
 ##### **(ii)** **Programmes & Activities**
 
