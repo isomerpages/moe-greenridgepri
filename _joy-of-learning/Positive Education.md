@@ -11,9 +11,9 @@ A positive school culture is an integral part of education for students to feel 
 
 Through the implementation of the school’s Positive Education programme, pupils learn life skills beyond the classroom to increase their learning capacity and help them build happy and successful lives.
 
-**Programmes:**
+##### **Programmes:**
 
-**(i)** **Gratitude Package**
+###### **(i)** **Gratitude Package**
 
 As part of the school’s effort in nurturing a culture of positivity, Greenridge Primary School uses a **Gratitude Package**. The package comprises various practical tips and tools tailored to cater to the different needs of primary school children:
 
@@ -30,6 +30,8 @@ Character strengths are the positive parts of your personality that impact how y
 When you know your best character traits, you can improve your life and thrive. In Greenridge, during Orientation at the beginning of the year, the class builds class identity and relationships by working together to develop class strengths. This enhances good character and the students flourish by doing so.
 
 **(iii)** **Growth Mindset**
+
+
 
  In Greenridge Primary School, we want to instill in our students a Growth Mindset. Students with a Growth Mindset will have a positive view of challenge that helps to fuel a spirit of curiosity, giving them the confidence to engage fully with the learning process and develop their problem-solving skills all while having fun. 
  
