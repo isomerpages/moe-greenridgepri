@@ -2,7 +2,7 @@ collections:
   student-learning-platforms:
     output: true
     order:
-      - KooBits.md
       - Student Learning Space (SLS).md
       - Student ICON.md
+      - KooBits.md
       - Home Based Learning (HBL).md
