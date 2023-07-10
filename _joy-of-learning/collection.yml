@@ -2,6 +2,7 @@ collections:
   joy-of-learning:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
       - Enriching & Enhancing Experience (E3).md
       - Programme for Active Learning (PAL).md
