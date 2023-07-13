@@ -15,6 +15,3 @@ There are various non-profit organizations in Singapore providing financial assi
 2. [Chinese Development Assistance Council (CDAC)](https://www.cdac.org.sg/en/)
 3. [MENDAKI](https://www.mendaki.org.sg/assistance_landing/education-trust-fund-school-assistance-scheme-etf-sas/)
 4. [SINDA (Singapore Indian Development Association)](http://www.sinda.org.sg/scholarshipsbursaries/)
-
-
-
