@@ -17,3 +17,15 @@ description: ""
 #### **Parents Gateway (PG)**
 
 [Click here to view more info and on setting up PG](https://www.greenridgepri.moe.edu.sg/pg/)
+
+
+#### **Financial Assistance Scheme (FAS)**
+
+[Click here to view more info on FAS](https://greenridgepri.moe.edu.sg/fas/)
+
+
+#### **Useful Links**
+
+1. [Subject-based Banding for Primary School](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
+2. [Transition from Primary to Secondary education](https://www.moe.gov.sg/secondary/transition-to-secondary)
+3. [Changes to PSLE Scoring and Sec 1 Posting From 2021](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html)
