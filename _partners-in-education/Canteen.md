@@ -10,3 +10,4 @@ description: ""
 
 #### **Stall Vacancy**
 
+![](/images/Partners%20in%20Education/canteenvacancy.jpg)
