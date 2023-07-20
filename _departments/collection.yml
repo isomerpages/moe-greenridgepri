@@ -2,14 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Devt & Well Being/.keep
-      - Student Devt & Well Being/Vision, Mission & Values.md
-      - Student Devt & Well Being/Character Citizenship Education (CCE).md
-      - Student Devt & Well Being/Student Devt and Well Being.md
-      - Student Devt & Well Being/Student Leadership.md
-      - Student Devt & Well Being/Student Discipline.md
-      - Student Devt & Well Being/Growth Mindset.md
-      - Student Devt & Well Being/MOE Sexuality Education 2023.md
       - PE, Art & Music/.keep
       - PE, Art & Music/PE, Art & Music.md
       - PE, Art & Music/Level Programme.md
