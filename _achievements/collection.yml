@@ -1,7 +1,0 @@
-collections:
-  achievements:
-    output: true
-    order:
-      - Students/.keep
-      - Students/Star Class Awards.md
-      - Staff.md
