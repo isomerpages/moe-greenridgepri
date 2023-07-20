@@ -2,11 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue Department/.keep
-      - Mother Tongue Department/Mother Tongue Department.md
-      - Mother Tongue Department/Chinese Language.md
-      - Mother Tongue Department/Malay Language.md
-      - Mother Tongue Department/Tamil Language.md
       - Mathematics Department/.keep
       - Mathematics Department/Vision & Mission.md
       - Mathematics Department/Programmes.md
