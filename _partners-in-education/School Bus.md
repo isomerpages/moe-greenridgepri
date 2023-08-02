@@ -15,17 +15,14 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 ##### **Application Procedure**
 
-1\. [Complete the Call for Proposal – Annex A](/files/Partners%20in%20Education/call%20for%20proposal%20-%20annex%20a.pdf)
+1\. [Complete the Call for Proposal – Annex A](https://docs.google.com/document/d/1jptAZr2ace1OxXF-lN4_50GFSyBT1hdx/edit?usp=drive_link&amp;ouid=118409054432203474902&amp;rtpof=true&amp;sd=true)
 
 2\. Submit the completed Call for Proposal – Annex A by closing date, 14 August 2023, via email OR to the School’s General Office.
 
 Address: 11 Jelapang Road Road, Singapore 677744
-
-Contact No: 6760 4265
-
-Email: muhammad_irsadi_munaris@moe.edu.sg
-
-Contact Person: Mr Muhammad Irsadi Bin Munaris
+<br>Contact No: 6760 4265
+<br>Email: [muhammad_irsadi_munaris@moe.edu.sg](mailto:muhammad_irsadi_munaris@moe.edu.sg)
+<br>Contact Person: Mr Muhammad Irsadi Bin Munaris
 
 ##### **How to get there?**
 
