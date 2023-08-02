@@ -21,7 +21,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 Address: 11 Jelapang Road Road, Singapore 677744
 <br>Contact No: 6760 4265
-<br>Email: muhammad_irsadi_munaris@moe.edu.sg
+<br>Email: [muhammad_irsadi_munaris@moe.edu.sg](mailto:muhammad_irsadi_munaris@moe.edu.sg)
 <br>Contact Person: Mr Muhammad Irsadi Bin Munaris
 
 ##### **How to get there?**
