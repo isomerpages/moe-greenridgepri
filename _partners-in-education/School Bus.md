@@ -9,13 +9,13 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 ##### **Service Requirements**
 
-1\. Call for Proposal
+1\. [Call for Proposal](/files/Partners%20in%20Education/call%20for%20proposal.pdf)
 
-2\. Agreement for Appointment of School Bus Operator
+2\. [Agreement for Appointment of School Bus Operator](/files/Partners%20in%20Education/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 
 ##### **Application Procedure**
 
-1\. Complete the Call for Proposal – Annex A
+1\. [Complete the Call for Proposal – Annex A](/files/Partners%20in%20Education/call%20for%20proposal%20-%20annex%20a.pdf)
 
 2\. Submit the completed Call for Proposal – Annex A by closing date, 14 August 2023, via email OR to the School’s General Office.
 
