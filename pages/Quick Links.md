@@ -101,7 +101,7 @@ description: ""
   </tr>
   <tr>
     <td>Icon 2.0</td>
-    <td><a href="https://icon.moe.edu.sg/">https://icon.moe.edu.sg</a></td>
+    <td><a href="https://workspace.google.com/dashboard">https://workspace.google.com/dashboard</a></td>
   </tr>
   <tr>
     <td>Resource Booking Schedule (RBS)</td>
