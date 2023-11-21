@@ -6,13 +6,13 @@ variant: markdown
 ---
 #### **P1 Orientation Slides**
 Here are the slides for the P1 Orientation dated 20 November 2023
-1. Introduction
-2. Principal Briefing
-3. General Matters
-4. Discipline
-5. Cyber Wellness
-6. Partnership
-7. SCC Info Kit
+1. [Introduction](/files/P1_Orientation_20112023/1_Introduction.pdf)
+2. [Principal's Briefing](/files/P1_Orientation_20112023/2_Principal_s_Briefing.pdf)
+3. [General Matters](/files/P1_Orientation_20112023/3_General_Matters.pdf)
+4. [Discipline](/files/P1_Orientation_20112023/4_Discipline.pdf)
+5. [Cyber Wellness](/files/P1_Orientation_20112023/5_Cyber_Wellness.pdf)
+6. [Partnership](/files/P1_Orientation_20112023/6_Partnership.pdf)
+7. [SCC Info Kit](/files/P1_Orientation_20112023/7_SCC_Info_Kit.pdf)
 
 
 
