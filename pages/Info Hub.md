@@ -6,8 +6,8 @@ variant: markdown
 ---
 #### **P1 Orientation Slides**
 Here are the slides for the P1 Orientation dated 20 November 2023
-1. Introduction Slides
-2. Principal Speech
+1. Introduction
+2. Principal Briefing
 3. General Matters
 4. Discipline
 5. Cyber Wellness
