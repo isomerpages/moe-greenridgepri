@@ -2,9 +2,11 @@
 title: Publication
 permalink: /publication/
 description: ""
+variant: markdown
 ---
 <b>1)&nbsp;<u>Newsletters</u></b>
 
+<p style="text-align: center;"><a href="https://online.fliphtml5.com/opptc/mfgl/#p=1" target="_blank"> <img src="/images/About%20Us/Publication/Newsletter2022.png" style="width:50%"></a></p>
 <p style="text-align: center;"><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target="_blank"> <img src="/images/About%20Us/Publication/Newsletter2022.png" style="width:50%"></a></p>
 <p style="text-align: center;"><a href="https://drive.google.com/file/d/1GZyAbg9VJArC2H4sjWYwufVREW-YHGkP/view?usp=sharing" target="_blank"> <img src="/images/About%20Us/Publication/grpsheartbeat2022.jpg" style="width:50%"></a></p><table>
   <tbody><tr>
