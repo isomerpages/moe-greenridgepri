@@ -2,6 +2,7 @@
 title: FAQ
 permalink: /about-us/faq/
 description: ""
+variant: markdown
 ---
 # FAQ
 **1\. What are the operating hours of the general office?**&nbsp;
@@ -96,5 +97,6 @@ Tel: 64655959
 **7\. Who is the vendor of the school uniform &amp; PE attire?**
 
 Shirley Seasons Wear  
-7030 Ang Mo Kio Ave 5, #04-55, Northstar, Singapore 569880  
-  
+7030 Ang Mo Kio Ave 5, #04-55, Northstar, Singapore 569880
+
+[Click here on the FAQs on the new school uniform](https://greenridgepri.moe.edu.sg/partners-in-education/uniform/)
