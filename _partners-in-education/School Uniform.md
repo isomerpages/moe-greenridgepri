@@ -4,7 +4,7 @@ permalink: /partners-in-education/uniform/
 variant: markdown
 description: ""
 ---
-### Frequently Asked Questions (FAQ) on the new School Uniform
+### Frequently Asked Questions (FAQ) on the new school uniform
 
 **1. Did the uniform vendor change? How can I make purchase/ contact? How can I visit the uniform vendor to try out the uniform size?**
 
