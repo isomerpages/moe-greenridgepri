@@ -2,7 +2,6 @@ collections:
   partners-in-education:
     output: true
     order:
-      - School Uniform.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Engagement.md
       - Parent Support Group/Parent Support Group.md
@@ -12,5 +11,6 @@ collections:
       - GRPS 25th Anniversary/GRPS 25th Anniversary.md
       - GRPS 25th Anniversary/Greenridge QR Code.md
       - School Bus.md
+      - School Uniform.md
       - Canteen.md
       - FAQ.md
