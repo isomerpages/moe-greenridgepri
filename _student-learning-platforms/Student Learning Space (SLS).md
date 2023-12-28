@@ -27,13 +27,10 @@ SLS can be accessed from <a href="https://learning.moe.edu.sg" target="_blank">h
 The username is the student's first five letters of their name and last five characters of their ID. The SLS password had been given to the student through their teacher.  
 
 **3\. Getting Started with SLS**  
-Please click on this link to access the SLS guide, instructions and FAQs for students and parents. 
+[Please click on this link](/files/Annex_A.pdf) to access the SLS guide, instructions and FAQs for students and parents. 
 
-  
-**4\. If you have forgotten your password, what should you do?**  
-You can also contact the school based helpline and SLS helpdesk. Please see the information below.
 
-**5.&nbsp;SLS Support for HBL**  
+**4\. SLS Support for HBL**  
   
 <u>School Operating Hours</u>
 
