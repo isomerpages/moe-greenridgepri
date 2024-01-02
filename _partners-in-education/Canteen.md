@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### **Canteen Menu and Price List**
 
-[Click here for GRPS Canteen Menu and Price List](https://drive.google.com/file/d/1bPrNx9GkvrS3g0dQAbNC-JrUo7Bp1308/view?usp=share_link)
+[Click here for 2024 GRPS Canteen Menu and Price List](/files/Partners%20in%20Education/_02_1_2024__Update_of_Stall_Menu_2024.pdf)
