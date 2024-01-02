@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### **Canteen Menu and Price List**
 
-[Click here for 2024 GRPS Canteen Menu and Price List](/files/Partners%20in%20Education/_02_1_2024__Update_of_Stall_Menu_2024.pdf)
+[Click here for the 2024 Canteen Menu and Price List](https://drive.google.com/file/d/1Nzbl1Mxy5dHv0lYPWkTc6sgNp0IA0CXc/view?usp=sharing)
