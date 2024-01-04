@@ -2,6 +2,7 @@
 title: Co Curricular Activities (CCA)
 permalink: /joy-of-learning/cca/
 description: ""
+variant: markdown
 ---
 #### **Co-Curricular Activities (CCA)**
 
@@ -11,6 +12,3 @@ Co-curricular activities or CCA is strongly encouraged for primary school studen
 
 
 #### [Click here to view](https://www.greenridgepri.moe.edu.sg/cca/art-expression-club/)&nbsp;our list of CCAs.
-
-
-#### [Click here to view](https://www.youtube.com/watch?v=zkphDzpjtiM)&nbsp;our CCA open house video
