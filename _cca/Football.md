@@ -2,10 +2,10 @@
 title: Football
 permalink: /cca/football/
 description: ""
+variant: markdown
 ---
 # Football
-![](/images/GRPS_FB1.jpg)
 
-![](/images/GRPS_FB2.jpg)
-
-![](/images/GRPS_FB3.jpg)
+![](/images/CCAs/Football/2024_Football_Slide1.JPG)
+![](/images/CCAs/Football/2024_Football_Slide2.JPG)
+![](/images/CCAs/Football/2024_Football_Slide3.JPG)
