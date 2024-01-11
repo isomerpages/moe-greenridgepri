@@ -2,14 +2,12 @@
 title: Library Club
 permalink: /cca/libraryclub/
 description: ""
+variant: markdown
 ---
-
 # Library Club
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/Slide1%20(2).jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/Slide2%20(2).jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/Slide4%20(2).jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Library%20and%20NE%20Club/Slide5%20(2).jpg)
+![](/images/CCAs/LibClub/2024_LibClub_Slide1.JPG)
+![](/images/CCAs/LibClub/2024_LibClub_Slide2.JPG)
+![](/images/CCAs/LibClub/2024_LibClub_Slide3.JPG)
+![](/images/CCAs/LibClub/2024_LibClub_Slide4.JPG)
+![](/images/CCAs/LibClub/2024_LibClub_Slide5.JPG)

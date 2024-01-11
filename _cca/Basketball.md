@@ -2,8 +2,11 @@
 title: Basketball
 permalink: /cca/basketball/
 description: ""
+variant: markdown
 ---
-![](/images/GRPS_Basketball%201.jpg)
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Basketball/GRPS_Basketball%202.jpg)
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Basketball/GRPS_Basketball%203.jpg)# Basketball
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Basketball/GRPS_Basketball%204.jpg)
+# Basketball
+
+![](/images/CCAs/Basketball/2024_Basketball_Slide1.JPG)
+![](/images/CCAs/Basketball/2024_Basketball_Slide2.JPG)
+![](/images/CCAs/Basketball/2024_Basketball_Slide3.JPG)
+![](/images/CCAs/Basketball/2024_Basketball_Slide4.JPG)

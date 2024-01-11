@@ -2,12 +2,11 @@
 title: Badminton
 permalink: /cca/badminton/
 description: ""
+variant: markdown
 ---
 # Badminton
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Badminton/GRPS_Badminton%201.jpg)
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Badminton/GRPS_Badminton%202.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Badminton/GRPS_Badminton%203.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Badminton/GRPS_Badminton%204.jpg)
+![](/images/CCAs/Badminton/2024_Badminton_Slide1.JPG)
+![](/images/CCAs/Badminton/2024_Badminton_Slide2.JPG)
+![](/images/CCAs/Badminton/2024_Badminton_Slide3.JPG)
+![](/images/CCAs/Badminton/2024_Badminton_Slide4.JPG)
