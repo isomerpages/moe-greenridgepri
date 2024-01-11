@@ -6,7 +6,8 @@ variant: markdown
 ---
 # Netball
 
-![](/images/CCAs/Scouts/2024_Scouts_Slide1.JPG)
-![](/images/CCAs/Scouts/2024_Scouts_Slide2.JPG)
-![](/images/CCAs/Scouts/2024_Scouts_Slide3.JPG)
-![](/images/CCAs/Scouts/2024_Scouts_Slide4.JPG)
+![](/images/CCAs/Netball/2024_Netball_Slide1.JPG)
+![](/images/CCAs/Netball/2024_Netball_Slide2.JPG)
+![](/images/CCAs/Netball/2024_Netball_Slide3.JPG)
+![](/images/CCAs/Netball/2024_Netball_Slide4.JPG)
+![](/images/CCAs/Netball/2024_Netball_Slide5.JPG)
