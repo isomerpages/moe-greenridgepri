@@ -2,12 +2,11 @@
 title: Drama Club
 permalink: /cca/drama-club/
 description: ""
+variant: markdown
 ---
 # Drama Club
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Drama%20Club/GRPS_DC1.jpg)
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Drama%20Club/GRPS_DC2.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Drama%20Club/GRPS_DC3.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Drama%20Club/GRPS_DC4.jpg)
+![](/images/CCAs/DramaClub/2024_DramaClub_Slide1.jpg)
+![](/images/CCAs/DramaClub/2024_DramaClub_Slide2.jpg)
+![](/images/CCAs/DramaClub/2024_DramaClub_Slide3.jpg)
+![](/images/CCAs/DramaClub/2024_DramaClub_Slide4.jpg)
