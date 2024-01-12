@@ -2,13 +2,11 @@
 title: Science Club
 permalink: /cca/science-club/
 description: ""
+variant: markdown
 ---
 # Science Club
 
-![](/images/Slide1%20(6).jpg)
-
-![](/images/Slide2%20(6).jpg)
-
-![](/images/Slide3%20(4).jpg)
-
-![](/images/Slide4%20(6).jpg)
+![](/images/CCAs/SciCLub/2024_SciClub_Slide1.JPG)
+![](/images/CCAs/SciCLub/2024_SciClub_Slide2.JPG)
+![](/images/CCAs/SciCLub/2024_SciClub_Slide3.JPG)
+![](/images/CCAs/SciCLub/2024_SciClub_Slide4.JPG)
