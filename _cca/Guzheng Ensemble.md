@@ -2,15 +2,12 @@
 title: Guzheng Ensemble
 permalink: /cca/guzheng-ensemble/
 description: ""
+variant: markdown
 ---
 # Guzheng Ensemble
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Guzheng/GRPS_GE1.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Guzheng/GRPS_GE2.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Guzheng/GRPS_GE3.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Guzheng/GRPS_GE4.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Guzheng/GRPS_GE5.jpg)
+![](/images/CCAs/Guzheng/2024_Guzheng_Slide1.JPG)
+![](/images/CCAs/Guzheng/2024_Guzheng_Slide2.JPG)
+![](/images/CCAs/Guzheng/2024_Guzheng_Slide3.JPG)
+![](/images/CCAs/Guzheng/2024_Guzheng_Slide4.JPG)
+![](/images/CCAs/Guzheng/2024_Guzheng_Slide5.JPG)

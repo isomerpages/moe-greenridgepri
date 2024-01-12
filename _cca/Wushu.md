@@ -2,15 +2,11 @@
 title: Wushu
 permalink: /cca/wushu/
 description: ""
+variant: markdown
 ---
 # Wushu
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Wushu/Slide1%20(9).jpg)
-
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Wushu/Slide2%20(8).jpg)
-
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Wushu/Slide3%20(7).jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Wushu/Slide4%20(8).jpg)
+![](/images/CCAs/Wushu/2024_Wushu_Slide1.JPG)
+![](/images/CCAs/Wushu/2024_Wushu_Slide2.JPG)
+![](/images/CCAs/Wushu/2024_Wushu_Slide3.JPG)
+![](/images/CCAs/Wushu/2024_Wushu_Slide4.JPG)

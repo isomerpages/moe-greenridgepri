@@ -2,21 +2,16 @@
 title: Robotics
 permalink: /cca/robotics/
 description: ""
+variant: markdown
 ---
 # Robotics
 
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide1%20(5).jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/slide2%20(51).jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/RC%201.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/comp2023.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/Slide4%20(5).jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/RC2.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/RC3.jpg)
-
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Robotics/RC4.jpg)
+![](/images/CCAs/Robotics/2024_Robotics_Slide1.JPG)
+![](/images/CCAs/Robotics/2024_Robotics_Slide2.JPG)
+![](/images/CCAs/Robotics/2024_Robotics_Slide3.JPG)
+![](/images/CCAs/Robotics/2024_Robotics_Slide4.JPG)
+![](/images/CCAs/Robotics/2024_Robotics_Slide5.JPG)
+![](/images/CCAs/Robotics/2024_Robotics_Slide6.JPG)
+![](/images/CCAs/Robotics/2024_Robotics_Slide7.JPG)
+![](/images/CCAs/Robotics/2024_Robotics_Slide8.JPG)
+![](/images/CCAs/Robotics/2024_Robotics_Slide9.JPG)

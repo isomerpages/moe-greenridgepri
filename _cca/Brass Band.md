@@ -2,11 +2,13 @@
 title: Brass Band
 permalink: /cca/brass-band/
 description: ""
+variant: markdown
 ---
 # Brass Band
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/GRPS_Brass%20Band%201.jpg)
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/GRPS_Brass%20Band%202.jpg)
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/GRPS_Brass%20Band%203.jpg)
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/GRPS_Brass%20Band%204.jpg)
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/GRPS_Brass%20Band%205.jpg)
-![](/images/Departments/PE,%20CCA%20and%20Aesthetics/Cca/Brass%20Band/GRPS_Brass%20Band%206.jpg)
+
+![](/images/CCAs/Brass%20Band/2024_BrassBand_Slide1.JPG)
+![](/images/CCAs/Brass%20Band/2024_BrassBand_Slide2.JPG)
+![](/images/CCAs/Brass%20Band/2024_BrassBand_Slide3.JPG)
+![](/images/CCAs/Brass%20Band/2024_BrassBand_Slide4.JPG)
+![](/images/CCAs/Brass%20Band/2024_BrassBand_Slide5.JPG)
+![](/images/CCAs/Brass%20Band/2024_BrassBand_Slide6.JPG)
