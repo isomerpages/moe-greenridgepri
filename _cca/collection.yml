@@ -1,0 +1,23 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Art Expression Club.md
+      - Badminton.md
+      - Basketball.md
+      - Boys’ & Girls’ Brigade.md
+      - Brass Band.md
+      - Drama Club.md
+      - Football.md
+      - Green and Innovation Club.md
+      - Guzheng Ensemble.md
+      - Hockey.md
+      - Infocomm Club.md
+      - International Dance.md
+      - Library Club.md
+      - Netball.md
+      - Robotics.md
+      - Science Club.md
+      - Sport Climbing.md
+      - Scouts.md
+      - Wushu.md
