@@ -4,23 +4,16 @@ permalink: /infohub/
 description: ""
 variant: markdown
 ---
-#### **P1 Orientation Slides**
-Here are the slides for the P1 Orientation dated 20 November 2023
-1. [Introduction](/files/P1_Orientation_20112023/1_Introduction.pdf)
-2. [Principal's Briefing](/files/P1_Orientation_20112023/2_Principal_s_Briefing.pdf)
-3. [General Matters](/files/P1_Orientation_20112023/3_General_Matters.pdf)
-4. [Discipline](/files/P1_Orientation_20112023/4_Discipline.pdf)
-5. [Cyber Wellness](/files/P1_Orientation_20112023/5_Cyber_Wellness.pdf)
-6. [Partnership](/files/P1_Orientation_20112023/6_Partnership.pdf)
-7. [SCC Info Kit](/files/P1_Orientation_20112023/7_SCC_Info_Kit.pdf)
-
+#### **Parent Teacher Briefing **
+Here are the slides for the Parent Teacher Briefing dated 26 January 2024
+1. Principal's Slides
+2. P2 & P3 Year Head Slides
+3. P3 & P4 Year Head Slides
+4. P5 & P6 Year Head Slides
 
 
 #### **Notification Letter**
-1. [Term 1](/files/2023_term_1_notification%20letter.pdf)
-2. [Term 2](/files/2023_term2_notification_letter.pdf)
-3. [Term 3](/files/2023_term3_notificationletter.pdf)
-4. [Term 4](/files/2023_term4_notification_letter.pdf)
+1. [Term 1](/files/2024_Term_1_Notification_Letter.pdf)
 
 
 #### **Publications**
