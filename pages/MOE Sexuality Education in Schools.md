@@ -4,8 +4,8 @@ permalink: /sed/
 variant: tiptap
 description: ""
 ---
-<p>1.&nbsp; Sexuality Education (SEd) in schools aims to enable students
-to understand the physiological, social and emotional changes they experience
+<p>1.&nbsp;Sexuality Education (SEd) in schools aims to enable students to
+understand the physiological, social and emotional changes they experience
 as they mature, develop healthy and rewarding relationships with others,
 including those with members of the opposite sex, and make wise, informed
 and responsible decisions on sexuality matters.</p>
@@ -40,7 +40,7 @@ foundation for strong families);</p>
 <p>d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>You may <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
@@ -53,9 +53,9 @@ Sexual Behaviour, and, Culture, Society and Law.</p>
 <p>You may <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
-<p>5. The subjects that incorporate topics on sexuality include:</p>
-<p>a) Science</p>
-<p>b) Character and Citizenship Education (CCE)</p>
+<p>5. The subjects that incorporate topics on sexuality include:
+<br>a) Science
+<br>b) Character and Citizenship Education (CCE)</p>
 <p></p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
@@ -81,3 +81,25 @@ wise, informed and responsible decisions to keep themselves safe from sexuality-
 risks.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED/2024sed_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED/2024sed_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED/2024sed_3.png">
+</div>
+<p><strong>Information for Parents</strong>
+</p>
+<p>8.&nbsp;Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education programmes by MOE-approved external
+providers.</p>
+<p></p>
+<p>9.&nbsp;Parents who wish to opt their children out of the Sexuality Education
+lessons <a href="https://form.gov.sg/65b6d85e7ed92f925059b3e5" rel="noopener noreferrer nofollow" target="_blank">need to complete an online opt-out form</a>,
+to be submitted by 16 Feb 2024</p>
+<p></p>
+<p>10.&nbsp;Parents can contact the school at 67604265 or <a rel="noopener noreferrer nofollow" target="_blank">grps@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
