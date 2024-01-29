@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### **Parent Teacher Briefing **
 Here are the slides for the Parent Teacher Briefing dated 26 January 2024
-1. Principal's Slides
+1. Principal's  Slides
 2. P2 & P3 Year Head Slides
 3. P3 & P4 Year Head Slides
 4. P5 & P6 Year Head Slides
