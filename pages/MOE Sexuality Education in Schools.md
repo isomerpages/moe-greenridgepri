@@ -4,6 +4,7 @@ permalink: /sed/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Moe Sexuality Education in Schools</strong><br></h3>
 <p>1.&nbsp;Sexuality Education (SEd) in schools aims to enable students to
 understand the physiological, social and emotional changes they experience
 as they mature, develop healthy and rewarding relationships with others,
