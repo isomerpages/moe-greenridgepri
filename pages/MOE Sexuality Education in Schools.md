@@ -14,7 +14,7 @@ This means encouraging healthy, heterosexual marriages and stable nuclear
 family units with extended family support. The teaching and learning of
 SEd is based on respect for the values and beliefs of the different ethnic
 and religious communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are:</p>
@@ -27,7 +27,7 @@ sexuality matters.</p>
 <p>c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
@@ -100,6 +100,5 @@ providers.</p>
 lessons <a href="https://form.gov.sg/65b6d85e7ed92f925059b3e5" rel="noopener noreferrer nofollow" target="_blank">need to complete an online opt-out form</a>,
 to be submitted by 16 Feb 2024</p>
 <p></p>
-<p>10.&nbsp;Parents can contact the school at 67604265 or <a rel="noopener noreferrer nofollow" target="_blank">grps@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>10.&nbsp;Parents can contact the school at 67604265 or <a rel="noopener noreferrer nofollow" target="_blank">grps@moe.edu.sg</a> for discussion or
+to seek clarification about the school’s Sexuality Education programme.</p>
