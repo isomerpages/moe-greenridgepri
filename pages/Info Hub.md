@@ -4,42 +4,36 @@ permalink: /infohub/
 description: ""
 variant: markdown
 ---
-#### **P1 Orientation Slides**
-Here are the slides for the P1 Orientation dated 20 November 2023
-1. [Introduction](/files/P1_Orientation_20112023/1_Introduction.pdf)
-2. [Principal's Briefing](/files/P1_Orientation_20112023/2_Principal_s_Briefing.pdf)
-3. [General Matters](/files/P1_Orientation_20112023/3_General_Matters.pdf)
-4. [Discipline](/files/P1_Orientation_20112023/4_Discipline.pdf)
-5. [Cyber Wellness](/files/P1_Orientation_20112023/5_Cyber_Wellness.pdf)
-6. [Partnership](/files/P1_Orientation_20112023/6_Partnership.pdf)
-7. [SCC Info Kit](/files/P1_Orientation_20112023/7_SCC_Info_Kit.pdf)
+#### **Parent Teacher Briefing**
+Here are the slides for the Parent Teacher Briefing dated 26 January 2024
 
+* [Principal's Slides](https://drive.google.com/file/d/1WlBum_XgwZERLggj8CWkADdydSJYhY--/view?usp=sharing)
+*  P2 & P3 Year Head Slides
+*  P3 & P4 Year Head Slides
+* [P5 & P6 Year Head Slides](https://drive.google.com/file/d/1wz9HoOcBgiga1v3NRI-RFmWuyT18pD0A/view?usp=sharing)
 
 
 #### **Notification Letter**
-1. [Term 1](/files/2023_term_1_notification%20letter.pdf)
-2. [Term 2](/files/2023_term2_notification_letter.pdf)
-3. [Term 3](/files/2023_term3_notificationletter.pdf)
-4. [Term 4](/files/2023_term4_notification_letter.pdf)
+* [Term 1](/files/Notification%20Letters/2024_Term_1_Notification_Letter.pdf)
 
 
 #### **Publications**
 
-[Click here to view our publications](https://www.greenridgepri.moe.edu.sg/publication/)
+* [Click here to view our publications](https://www.greenridgepri.moe.edu.sg/publication/)
 
 
 #### **Parents Gateway (PG)**
 
-[Click here to view more info and on setting up PG](https://www.greenridgepri.moe.edu.sg/pg/)
+* [Click here to view more info and on setting up PG](https://www.greenridgepri.moe.edu.sg/pg/)
 
 
 #### **Financial Assistance Scheme (FAS)**
 
-[Click here to view more info on FAS](https://greenridgepri.moe.edu.sg/fas/)
+* [Click here to view more info on FAS ](https://greenridgepri.moe.edu.sg/fas/)
 
 
 #### **Useful Links**
 
-1. [Subject-based Banding for Primary School](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
-2. [Transition from Primary to Secondary education](https://www.moe.gov.sg/secondary/transition-to-secondary)
-3. [Changes to PSLE Scoring and Sec 1 Posting From 2021](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html)
+* [Subject-based Banding for Primary School](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
+* [Transition from Primary to Secondary education](https://www.moe.gov.sg/secondary/transition-to-secondary)
+* [Changes to PSLE Scoring and Sec 1 Posting From 2021](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html)
