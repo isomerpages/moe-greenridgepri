@@ -7,14 +7,14 @@ variant: markdown
 #### **Parent Teacher Briefing**
 Here are the slides for the Parent Teacher Briefing dated 26 January 2024
 
-*  Principal's  Slides
+* [Principal's Slides](https://drive.google.com/file/d/1WlBum_XgwZERLggj8CWkADdydSJYhY--/view?usp=sharing)
 *  P2 & P3 Year Head Slides
 *  P3 & P4 Year Head Slides
-*  P5 & P6 Year Head Slides
+* [P5 & P6 Year Head Slides](https://drive.google.com/file/d/1wz9HoOcBgiga1v3NRI-RFmWuyT18pD0A/view?usp=sharing)
 
 
 #### **Notification Letter**
-* [Term 1](/files/2024_Term_1_Notification_Letter.pdf)
+* [Term 1](/files/Notification%20Letters/2024_Term_1_Notification_Letter.pdf)
 
 
 #### **Publications**
