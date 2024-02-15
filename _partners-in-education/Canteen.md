@@ -10,3 +10,4 @@ variant: markdown
 
 
 ![](/images/CanteenVacancy.jpg)
+![](/images/Western_Food_Stall__Halal_.jpg)
