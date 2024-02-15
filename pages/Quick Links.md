@@ -2,6 +2,7 @@
 title: Quick Links
 permalink: /quick-links/
 description: ""
+variant: markdown
 ---
 ### Quick Links 
 
@@ -112,8 +113,8 @@ description: ""
     <td><a href="https://myexamduty.seab.gov.sg/">https://myexamduty.seab.gov.sg</a></td>
   </tr>
   <tr>
-    <td>GRPS S-Cube</td>
-    <td><a href="https://tinyurl.com/grps-s-cube" target="_blank">https://tinyurl.com/grps-s-cube</a><br></td>
+    <td>iCart</td>
+    <td><a href="https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx" target="_blank">https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx</a><br></td>
   </tr>
   <tr>
     <td>National School Games</td>
