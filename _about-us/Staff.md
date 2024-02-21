@@ -2,9 +2,10 @@
 title: Staff
 permalink: /about-us/staff/
 description: ""
+variant: markdown
 ---
 # Staff
-### [Click here to view our Staff ](https://docs.google.com/spreadsheets/d/1UKGIL8hq6YPdiryjl6FsA6lP0jq8G_02xEKwe9Jxhcw/edit#gid=1772193230)
+### [Click here to view our Staff](/files/About%20Us/GRPS_Staff_2024___PDF_version.pdf)
 
 
 We aim to develop Competent and Engaged Staff with the necessary competencies and dispositions to engage in professional discourse and viewpoints that enhance and challenge professional learning.
@@ -12,5 +13,3 @@ We aim to develop Competent and Engaged Staff with the necessary competencies an
 Guided by the Singapore Teaching Practice, the framework presents a comprehensive approach for our staff to develop their Professionalism, enhance their competencies through various modes of Engagement and professional Learning, as well as to ensure that their Aspirations are met and due Recognition is given to their efforts.
 
 ![](/images/About%20Us/stafflearningengagement.jpg)
-
-
