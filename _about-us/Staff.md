@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 # Staff
-### [Click here to view our Staff](/files/About%20Us/GRPS_Staff_2024___PDF_version.pdf)
+### [Click here to view our Staff](/files/About%20Us/GRPS_Staff_2024_PDF.pdf)
 
 
 We aim to develop Competent and Engaged Staff with the necessary competencies and dispositions to engage in professional discourse and viewpoints that enhance and challenge professional learning.
