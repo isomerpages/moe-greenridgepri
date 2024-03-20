@@ -15,6 +15,7 @@ Here are the slides for the Parent Teacher Briefing dated 26 January 2024
 
 #### **Notification Letter**
 * [Term 1](/files/Notification%20Letters/2024_Term_1_Notification_Letter.pdf)
+* [Term 2](/files/Notification%20Letters/2024_Term_2_Notification_Letter.pdf)
 
 
 #### **Publications**
