@@ -8,6 +8,4 @@ variant: markdown
 
 #### [Click here for the 2024 Canteen Menu and Price List](https://drive.google.com/file/d/1Nzbl1Mxy5dHv0lYPWkTc6sgNp0IA0CXc/view?usp=sharing)
 
-
-![](/images/CanteenVacancy.jpg)
-![](/images/Western_Food_Stall__Halal_.jpg)
+![](/images/Canteen_Vacancy.png)
