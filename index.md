@@ -19,7 +19,7 @@ sections:
           description: For Staff & Students
           url: https://greenridgepri.moe.edu.sg/quick-links/
       variant: center
-      button: Click Here
+      button: Click Here!
       url: https://youtu.be/rayuYrlbi9A
       size: sm
       alignment: right
