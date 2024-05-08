@@ -19,4 +19,7 @@ sections:
           description: For Staff & Students
           url: https://greenridgepri.moe.edu.sg/quick-links/
       variant: center
+      button: Why our student leaders love Greenridge Primary School - Click Here to
+        Find Out
+      url: https://youtu.be/rayuYrlbi9A
 ---
