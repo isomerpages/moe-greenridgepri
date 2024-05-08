@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepagebg.png
+      background: /images/JOIN_US___4_.jpg
       key_highlights:
         - title: Info Hub
           description: For Parents
@@ -18,4 +18,8 @@ sections:
         - title: Quick Links
           description: For Staff & Students
           url: https://greenridgepri.moe.edu.sg/quick-links/
+      variant: center
+      button: Why our student leaders love Greenridge Primary School - Click Here to
+        Find Out
+      url: https://youtu.be/rayuYrlbi9A
 ---
