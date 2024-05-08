@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BANNER.jpg
+      background: /images/JOIN_US_11.jpg
       key_highlights:
         - title: Info Hub
           description: For Parents
