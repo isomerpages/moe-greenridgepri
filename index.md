@@ -27,7 +27,6 @@ sections:
   - textcards:
       title: Our GRPS Voices
       id: textcards
-      description: Text card description
       cards:
         - title: Student Voices
           description: ""
