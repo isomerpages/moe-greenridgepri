@@ -18,7 +18,7 @@ sections:
         - title: Quick Links
           description: For Staff & Students
           url: https://greenridgepri.moe.edu.sg/quick-links/
-      variant: image
+      variant: floating
       button: Click Here!
       url: https://youtu.be/rayuYrlbi9A
       size: sm
