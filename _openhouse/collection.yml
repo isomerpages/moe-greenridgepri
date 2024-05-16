@@ -2,5 +2,6 @@ collections:
   openhouse:
     output: true
     order:
+      - Alumni Voices.md
       - Student Voices.md
       - Stakeholder Voices.md
