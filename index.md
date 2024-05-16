@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BAN2024.jpg
+      background: /images/JOIN_US___1900_x_400_px___1200_x_400_px___1_.png
       key_highlights:
         - title: Info Hub
           description: For Parents
@@ -18,7 +18,7 @@ sections:
         - title: Quick Links
           description: For Staff & Students
           url: https://greenridgepri.moe.edu.sg/quick-links/
-      variant: center
+      variant: floating
       button: Click Here!
       url: https://youtu.be/rayuYrlbi9A
       size: sm
