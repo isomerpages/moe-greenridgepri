@@ -21,7 +21,7 @@ sections:
       variant: floating
       button: Click Here!
       url: https://youtu.be/rayuYrlbi9A
-      size: md
+      size: sm
       alignment: left
       backgroundColor: gray
   - textcards:
@@ -44,11 +44,4 @@ sections:
           description: ""
           linktext: Click here to view
           url: https://greenridgepri.moe.edu.sg/alumni-voices/
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
