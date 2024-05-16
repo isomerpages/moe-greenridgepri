@@ -18,6 +18,9 @@ sections:
         - title: Quick Links
           description: For Staff & Students
           url: https://greenridgepri.moe.edu.sg/quick-links/
+        - title: Our Student Voices
+          description: ""
+          url: https://greenridgepri.moe.edu.sg/student-voices/
       variant: center
       button: Click Here!
       url: https://youtu.be/rayuYrlbi9A
