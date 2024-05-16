@@ -18,13 +18,27 @@ sections:
         - title: Quick Links
           description: For Staff & Students
           url: https://greenridgepri.moe.edu.sg/quick-links/
-        - title: Our Student Voices
-          description: ""
-          url: https://greenridgepri.moe.edu.sg/student-voices/
       variant: center
       button: Click Here!
       url: https://youtu.be/rayuYrlbi9A
       size: sm
       alignment: right
       backgroundColor: gray
+  - textcards:
+      title: Our GRPS Voices
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Student Voices
+          description: ""
+          linktext: Click here to view
+          url: https://greenridgepri.moe.edu.sg/student-voices/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
