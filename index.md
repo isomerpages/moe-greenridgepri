@@ -33,12 +33,16 @@ sections:
           description: ""
           linktext: Click here to view
           url: https://greenridgepri.moe.edu.sg/student-voices/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Staff Voices
+          description: ""
+          linktext: Click here to view
+          url: https://greenridgepri.moe.edu.sg/staff-voices/
+        - title: Stakeholder Voices
+          description: ""
+          linktext: Click here to view
+          url: https://greenridgepri.moe.edu.sg/stakeholder-voices/
+        - title: Alumni Voices
+          description: ""
+          linktext: Click here to view
+          url: https://greenridgepri.moe.edu.sg/alumni-voices/
 ---
