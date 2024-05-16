@@ -22,7 +22,7 @@ sections:
       button: Click Here!
       url: https://youtu.be/rayuYrlbi9A
       size: sm
-      alignment: right
+      alignment: left
       backgroundColor: gray
   - textcards:
       title: Our GRPS Voices
