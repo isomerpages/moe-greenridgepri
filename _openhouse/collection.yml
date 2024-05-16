@@ -1,0 +1,8 @@
+collections:
+  openhouse:
+    output: true
+    order:
+      - Student Voices.md
+      - Staff Voices.md
+      - Alumni Voices.md
+      - Stakeholder Voices.md
