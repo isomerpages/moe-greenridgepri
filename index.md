@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1755__1_.png
+      background: /images/130524.png
       key_highlights:
         - title: Info Hub
           description: For Parents
@@ -21,7 +21,7 @@ sections:
       variant: floating
       button: Click Here!
       url: https://youtu.be/rayuYrlbi9A
-      size: sm
+      size: md
       alignment: left
       backgroundColor: gray
   - textcards:
