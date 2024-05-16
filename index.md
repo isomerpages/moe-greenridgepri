@@ -25,7 +25,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - textcards:
-      title: Our GRPS Voice
+      title: Our GRPS Voices
       id: textcards
       cards:
         - title: Student Voices
