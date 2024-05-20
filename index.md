@@ -23,12 +23,12 @@ sections:
           url: https://greenridgepri.moe.edu.sg/alumni-voices/
       variant: floating
       button: Click Here!
-      url: https://youtu.be/rayuYrlbi9A
+      url: https://youtu.be/SDFlHOLqsRM
       size: sm
       alignment: left
       backgroundColor: gray
   - textcards:
-      title: Highlights
+      title: Our Highlights
       id: textcards
       cards:
         - title: InfoHub
