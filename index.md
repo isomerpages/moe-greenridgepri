@@ -4,7 +4,7 @@ title: Greenridge Primary School
 description: Brief site description here
 image: /images/school-logo.png
 permalink: /
-notification: ""
+notification: hello
 sections:
   - hero:
       background: /images/assdsf.png
