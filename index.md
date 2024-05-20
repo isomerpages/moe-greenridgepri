@@ -21,7 +21,7 @@ sections:
         - title: Alumni Voices
           description: Click here to view
           url: https://greenridgepri.moe.edu.sg/alumni-voices/
-      variant: image
+      variant: center
       size: sm
       alignment: right
       backgroundColor: gray
