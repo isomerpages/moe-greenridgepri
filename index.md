@@ -25,7 +25,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - textcards:
-      title: Our GRPS Voices
+      title: Our Quick Links
       id: textcards
       cards:
         - title: Student Voices
@@ -44,4 +44,20 @@ sections:
           description: ""
           linktext: Click here to view
           url: https://greenridgepri.moe.edu.sg/alumni-voices/
+  - textcards:
+      title: Our Quick Links
+      id: textcards
+      cards:
+        - title: InfoHub
+          description: For Parents
+          linktext: Click here
+          url: https://greenridgepri.moe.edu.sg/infohub/
+        - title: GRPS Open House Website
+          description: ""
+          linktext: Click to visit our open house website
+          url: https://sites.google.com/moe.edu.sg/grps-eopenhouse/main
+        - title: Quick Links
+          description: For Staff and Students
+          linktext: Click here
+          url: https://greenridgepri.moe.edu.sg/quick-links/
 ---
