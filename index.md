@@ -43,4 +43,12 @@ sections:
           description: For Staff and Students
           linktext: Click here
           url: https://greenridgepri.moe.edu.sg/quick-links/
+  - infopic:
+      title: Why We Love Greenridge Primary
+      id: infopic
+      description: Our student leaders sharing on their love for GRPS. Do visit our
+        open house happening on Friday 24 June 2024.
+      button: Click here to view video
+      url: https://www.youtube.com/watch?v=SDFlHOLqsRM
+      image: /images/Screenshot_2024_05_20_132500.png
 ---
