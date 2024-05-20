@@ -45,7 +45,7 @@ sections:
           linktext: Click here to view
           url: https://greenridgepri.moe.edu.sg/alumni-voices/
   - textcards:
-      title: Our Quick Links
+      title: Highlights
       id: textcards
       cards:
         - title: InfoHub
@@ -53,8 +53,8 @@ sections:
           linktext: Click here
           url: https://greenridgepri.moe.edu.sg/infohub/
         - title: GRPS Open House Website
-          description: ""
-          linktext: Click to visit our open house website
+          description: Visit our open house website for more information
+          linktext: Click here
           url: https://sites.google.com/moe.edu.sg/grps-eopenhouse/main
         - title: Quick Links
           description: For Staff and Students
