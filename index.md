@@ -28,7 +28,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - textcards:
-      title: Highlights
+      title: Our Highlights
       id: textcards
       cards:
         - title: InfoHub
