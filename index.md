@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/113052412.png
+      background: /images/assdsf.png
       key_highlights:
         - title: Student Voices
           description: Click here to view
@@ -25,7 +25,7 @@ sections:
       button: Click Here!
       url: https://youtu.be/SDFlHOLqsRM
       size: sm
-      alignment: left
+      alignment: right
       backgroundColor: gray
   - textcards:
       title: Our Highlights
