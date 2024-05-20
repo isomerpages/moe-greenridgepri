@@ -33,6 +33,7 @@ sections:
       button: Click here to view video
       url: https://www.youtube.com/watch?v=SDFlHOLqsRM
       image: /images/Screenshot_2024_05_20_132500.png
+      alt: Get to know us!
   - textcards:
       title: Our Highlights
       id: textcards
