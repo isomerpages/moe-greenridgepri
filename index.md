@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GRPS_MOE.png
+      background: /images/355.png
       key_highlights:
         - title: Student Voices
           description: Click here to view
