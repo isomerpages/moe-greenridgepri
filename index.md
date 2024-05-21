@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/888.png
+      background: /images/999.png
       key_highlights:
         - title: Student Voices
           description: Click here to view
@@ -29,7 +29,7 @@ sections:
       title: Why We Love Greenridge Primary
       id: infopic
       description: Our student leaders sharing on why they love GRPS. Do visit our
-        school's open house on Friday 24 June 2024!
+        school's open house on Friday 24 June 2024.
       button: Click here to view video
       url: https://www.youtube.com/watch?v=SDFlHOLqsRM
       image: /images/Screenshot_2024_05_20_132500.png
