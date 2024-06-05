@@ -2,10 +2,11 @@
 title: Learning for Life Programme (LLP)
 permalink: /joy-of-learning/llp/
 description: ""
+variant: markdown
 ---
 ### **Values in Action @ GRPS**
 
-In 2015, our school applied and was successfully awarded the Learning for Life Programme (LLP) in the category of **Community Service & Student Leadership**. Our school has always aspired to develop engaged learners who would use the knowledge and leadership skills to bring a positive difference and happiness to people’s life. 
+In 2015, our school applied and was successfully awarded the Learning for Life Programme (LLP) in the category of **Community Service & Student Leadership**. Our LLP aims to nurture ethical and effective future-ready leaders with 21st century competencies such as communication and collaboration skills, critical and inventive thinking as well as civic literacy. We aspire for our students to use the knowledge and leadership skills to make a positive difference and contribute to the well-being of others.
 
 Our school’s Learning for Life Programme is aligned with the school’s vision, mission and values and are age appropriate. The learning experiences aptly fit the renewed 2021 Character and Citizenship Education (CCE) domains, developmental milestones and learning outcomes.
 
