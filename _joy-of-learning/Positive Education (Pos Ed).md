@@ -56,7 +56,7 @@ Parents play an important role in nurturing a growth mindset too! GM postings ar
 ![](/images/Joy%20of%20Learning/POS%20ED/PosEd2024_2.png)
 
 **(iv)**&nbsp;**Senses of Harmony**
-![](/images/Joy%20of%20Learning/POS%20ED/posed_senses1a.jpg)
+![](/images/Joy%20of%20Learning/POS%20ED/Senses_in_Harmony_Pic.png)
 
 Senses in Harmony is a 5-minute mindfulness activity that students engage in at the start of the day. Mindfulness focuses on being present in the here and now and encourages students to start the day right by calming them down and relaxing their mind and body. This calm state will in turn help students focus better in class. As the name suggests, students focus on a particular sense each day by performing a mindfulness activity. Besides getting them ready for the day, Senses in Harmony also equips students with essential coping skills to regulate their emotions when necessary.
 
