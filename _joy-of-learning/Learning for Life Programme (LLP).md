@@ -14,6 +14,8 @@ Our school’s Learning for Life Programme is aligned with the school’s vision
 
 The school’s student leadership development program is based on Kouzes and Posner’s “Leadership Challenge”. We endeavour to inculcate in our students the principles behind Modelling the Way, Inspiring a Shared Vision, Challenging the Process, Enabling Others to Act and Encouraging the Heart. At the P4 and P5 levels the will be put through leadership workshops that will aim to help them nurture and develop their leadership traits, the workshops will be focusing on their “self-leadership” and “team leadership” respectively. Currently, our prefects in the prefectorial board, peer support leaders and class monitors all receive leadership training to equip them for the role that they play in our school.
 
+![](/images/Joy%20of%20Learning/LLP/LLP_1.jpg)
+
 ##### **Primary 1 - Clean Hands @ GRPS**
 
 ![](/images/Joy%20of%20Learning/LLP/llp_p1.jpg)
