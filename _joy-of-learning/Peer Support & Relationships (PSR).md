@@ -2,6 +2,7 @@
 title: Peer Support & Relationships (PSR)
 permalink: /joy-of-learning/psr/
 description: ""
+variant: markdown
 ---
 #### **Enhancing the Peer Support Culture at Greenridge Primary**
 
@@ -23,3 +24,5 @@ As an inclusive school, we recognise the demands and stressors faced by our stud
 We are heartened and proud of the progress made by our PSL in their journey to be Caring Leaders thus far.
 
 ![](/images/Joy%20of%20Learning/PSR/psr2023_3.jpg)
+
+![](/images/Joy%20of%20Learning/PSR/Peer_Support_in_GRPS.png)
