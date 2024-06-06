@@ -12,3 +12,8 @@ Co-curricular activities or CCA is strongly encouraged for primary school studen
 
 
 #### [Click here to view](https://www.greenridgepri.moe.edu.sg/cca/art-expression-club/)&nbsp;our list of CCAs.
+
+
+Find out more about the CCAs that we offer!&nbsp;
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zkphDzpjtiM?si=OKbLIkbX4ZdwdvmI" height="400" width="600"></iframe>
