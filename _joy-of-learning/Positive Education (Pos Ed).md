@@ -51,7 +51,7 @@ At the P4 level, students embarked on a Growth Mindset Class BINGO this year, wh
 
 **(iv)**&nbsp;**Growth Mindset @ Home**
 
-Parents play an important role in nurturing a growth mindset too! GM postings are shared regularly on our school’s official [Facebook](https://www.facebook.com/Greenridge.Primary.Official/) account, to guide parents in fostering a home environment that values effort, learning and resilience, helping their child to lay a foundation for lifelong learning and fulfillment. Check out some of our GM A-Z posters for parents!
+Parents play an important role in nurturing a growth mindset too! GM postings are shared regularly on our school’s official [Facebook](https://www.facebook.com/Greenridge.Primary.Official/) and [Instagram](https://www.instagram.com/greenridge.primary.official/) account, to guide parents in fostering a home environment that values effort, learning and resilience, helping their child to lay a foundation for lifelong learning and fulfillment. Check out some of our GM A-Z posters for parents!
 
 ![](/images/Joy%20of%20Learning/POS%20ED/PosEd2024_2.png)
 
