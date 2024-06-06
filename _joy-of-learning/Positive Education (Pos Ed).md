@@ -2,6 +2,7 @@
 title: Positive Education (Pos Ed)
 permalink: /joy-of-learning/pos-ed/
 description: ""
+variant: markdown
 ---
 #### **Positive Education @ GRPS**
 
@@ -23,27 +24,38 @@ As part of the school’s effort in nurturing a culture of positivity, Greenridg
 
 *   **Gratitude Letter**: Students express their gratitude by writing thank-you letters to any person of their choice. This encourages them to write in a positive and insightful manner. Showing appreciation to someone is a simple act of kindness that strengthens relationships and increases positive emotions. This is part of resilience-building, which leads to better stress management and overall well-being.
 
-**(ii)** **Character Strengths**
+![](/images/Joy%20of%20Learning/POS%20ED/pos_ed_2023_3.jpg)
 
+**(ii)** **Character Strengths**
 ![](/images/Joy%20of%20Learning/POS%20ED/character%20strengths%20card.jpeg)
 
 Character strengths are the positive parts of your personality that impact how you think, feel and behave. Knowing and applying your highest character strengths is the key to you being your best self. 
 
 When you know your best character traits, you can improve your life and thrive. In Greenridge, during Orientation at the beginning of the year, the class builds class identity and relationships by working together to develop class strengths. This enhances good character and the students flourish by doing so.
 
-**(iii)**&nbsp;**Growth Mindset**
+Check out some of these Class Strengths identified by our classes:
 
+![](/images/Joy%20of%20Learning/POS%20ED/PosEd2024.png)
+
+**(iii)**&nbsp;**Growth Mindset**
 ![](/images/Joy%20of%20Learning/POS%20ED/pos_ed_2023_2.jpg)
 
 &nbsp;In Greenridge Primary School, we want to instill in our students a Growth Mindset. Students with a Growth Mindset will have a positive view of challenge that helps to fuel a spirit of curiosity, giving them the confidence to engage fully with the learning process and develop their problem-solving skills all while having fun. 
  
 Students achieve more because their goal is to learn is to learn despite challenges and discover something new in doing so. We know that life can be difficult sometimes. If students understand that the price of learning something new means making a few mistakes here and there, they can focus on becoming who they want to be.
 
-![](/images/Joy%20of%20Learning/POS%20ED/pos_ed_2023_3.jpg)
+At the P4 level, students embarked on a Growth Mindset Class BINGO this year, where they work together as a class to complete the BINGO challenges together. These challenges help to reinforce positive thinking and allow them to put into practice the Growth Mindset messages they have learnt.
 
+![](/images/Joy%20of%20Learning/POS%20ED/POSEd1.jpg)
+
+
+**(iv)**&nbsp;**Growth Mindset @ Home**
+
+Parents play an important role in nurturing a growth mindset too! GM postings are shared regularly on our school’s official [Facebook](https://www.facebook.com/Greenridge.Primary.Official/) account, to guide parents in fostering a home environment that values effort, learning and resilience, helping their child to lay a foundation for lifelong learning and fulfillment. Check out some of our GM A-Z posters for parents!
+
+![](/images/Joy%20of%20Learning/POS%20ED/PosEd2024_2.png)
 
 **(iv)**&nbsp;**Senses of Harmony**
-
 ![](/images/Joy%20of%20Learning/POS%20ED/posed_senses1a.jpg)
 
 Senses in Harmony is a 5-minute mindfulness activity that students engage in at the start of the day. Mindfulness focuses on being present in the here and now and encourages students to start the day right by calming them down and relaxing their mind and body. This calm state will in turn help students focus better in class. As the name suggests, students focus on a particular sense each day by performing a mindfulness activity. Besides getting them ready for the day, Senses in Harmony also equips students with essential coping skills to regulate their emotions when necessary.
