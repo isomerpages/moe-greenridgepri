@@ -52,7 +52,7 @@ Building upon their knowledge from the previous levels, Primary 5 students will 
 
 ##### Makerspace@COVE
 
-Our school’s ALP focuses on STEM to provide students a learning experience where they explore freely through hands-on activities while applying the concepts and skills which they have learnt in real world contexts. We have creatively converted the school bookshop into a makerspace. Our staff and students have casted their votes and named it COVE - Caring Oasis for Values Education. Many students have been visiting the COVE during recess and also signed up for the termly Special Interest Group (SIG) held every Mondays and Wednesdays by a group of dedicated teachers to further ignite the passion in making and STEM.
+Our school’s ALP focuses on STEM to provide students a learning experience where they explore freely through hands-on activities while applying the concepts and skills which they have learnt in real world contexts. We have creatively converted the school bookshop into a makerspace. Our staff and students have casted their votes and named it COVE - Caring Oasis for Values Education. Many students have been visiting the COVE during recess and also signed up for the termly Special Interest Group (SIG) held every Mondays and Thursdays by a group of dedicated teachers to further ignite the passion in making and STEM.
 
 ##### Makers@Recess
 
