@@ -10,7 +10,7 @@ sections:
       background: /images/1.png
       key_highlights:
         - title: Student Voices
-          description: Click here to view
+          description: Click here
           url: https://greenridgepri.moe.edu.sg/student-voices/
         - title: Staff Voices
           description: Click here to view
