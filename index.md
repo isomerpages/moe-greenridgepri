@@ -7,19 +7,19 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1920_x_721.png
+      background: /images/1.png
       key_highlights:
         - title: Student Voices
-          description: Click here to view
+          description: Click here
           url: https://greenridgepri.moe.edu.sg/student-voices/
         - title: Staff Voices
-          description: Click here to view
+          description: Click here
           url: https://greenridgepri.moe.edu.sg/staff-voices/
         - title: Stakeholder Voices
-          description: Click here to view
+          description: Click here
           url: https://greenridgepri.moe.edu.sg/stakeholder-voices/
         - title: Alumni Voices
-          description: Click here to view
+          description: Click here
           url: https://greenridgepri.moe.edu.sg/alumni-voices/
       variant: center
       size: sm
