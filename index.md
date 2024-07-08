@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1.png
+      background: /images/1920_x_720_For_Website.png
       key_highlights:
         - title: Student Voices
           description: Click here
