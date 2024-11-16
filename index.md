@@ -26,6 +26,16 @@ sections:
       alignment: right
       backgroundColor: gray
   - infopic:
+      title: GRPS Prize Giving Day Photos
+      subtitle: Add an image and text
+      id: infopic
+      description: All photos from our GRPS prize giving days held on 12th, 13th and
+        15th November 2024
+      button: Scan or click here to access
+      url: https://drive.google.com/drive/folders/1b_2Qxg8BOWBfxyH94eua-ocHKWcQt61j?usp=sharing
+      image: /images/PGD2024.png
+      alt: Image alt text
+  - infopic:
       title: Why We Love Greenridge Primary
       id: infopic
       description: Our student leaders sharing on why they love GRPS. Do visit our
