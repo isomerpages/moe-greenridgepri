@@ -27,7 +27,6 @@ sections:
       backgroundColor: gray
   - infopic:
       title: GRPS Prize Giving Day Photos
-      subtitle: Add an image and text
       id: infopic
       description: All photos from our GRPS prize giving days held on 12th, 13th and
         15th November 2024
