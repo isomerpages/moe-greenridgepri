@@ -30,9 +30,9 @@ sections:
       id: infopic
       description: All photos from our GRPS prize giving days held on 12th, 13th and
         15th November 2024
-      button: Scan or click here to access
-      url: https://drive.google.com/drive/folders/1b_2Qxg8BOWBfxyH94eua-ocHKWcQt61j?usp=sharing
-      image: /images/PGD2024.png
+      button: Click here to access
+      url: https://go.gov.sg/grpspgd2024
+      image: /images/PGD2024v3.jpg
       alt: Image alt text
   - infopic:
       title: Why We Love Greenridge Primary
