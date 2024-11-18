@@ -7,7 +7,7 @@ variant: markdown
 #### **P1 Orientation Slides**
 Here are the slides for the P1 Orientation slides for 18 November 2024
 
-* [Principal's Slides](/files/P1%20Orientation/Principal.pdf)
+* [Principal's Briefing](/files/P1%20Orientation/Principal.pdf)
 *  [General Matters](/files/P1%20Orientation/General_Matters.pdf)
 *  [Discipline](/files/P1%20Orientation/Discipline.pdf)
 *  [Cyber Wellness](/files/P1%20Orientation/Cyber_Wellness.pdf)
