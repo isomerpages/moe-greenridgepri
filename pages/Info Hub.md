@@ -7,10 +7,10 @@ variant: markdown
 #### **P1 Orientation Slides**
 Here are the slides for the P1 Orientation slides for 18 November 2024
 
-* [Principal's Slides](https://drive.google.com/file/d/1WlBum_XgwZERLggj8CWkADdydSJYhY--/view?usp=sharing)
-*  [General Matters](https://drive.google.com/file/d/1XpVH1UUk3Vj03kaRYslr7qVIUAOT3nga/view?usp=sharing)
-*  [Discipline Matters](https://drive.google.com/file/d/1itB50mY_Y7ZFjkt8N7pqKvVGyeSP6pf1/view?usp=sharing)
-* [P5 & P6 Year Head S](https://drive.google.com/file/d/1wz9HoOcBgiga1v3NRI-RFmWuyT18pD0A/view?usp=sharing)
+* [Principal's Slides](/files/P1%20Orientation/Principal.pdf)
+*  [General Matters](/files/P1%20Orientation/General_Matters.pdf)
+*  [Discipline](/files/P1%20Orientation/Discipline.pdf)
+*  [Cyber Wellness](/files/P1%20Orientation/Cyber_Wellness.pdf)
 
 
 
