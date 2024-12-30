@@ -26,13 +26,14 @@ sections:
       alignment: right
       backgroundColor: gray
   - infopic:
-      title: GRPS Prize Giving Day Photos
+      title: Happenings @ Greenridge Primary
       id: infopic
-      description: All photos from our GRPS prize giving days held on 12th, 13th and
-        15th November 2024
+      description: An ETD showcase of educational tools that cultivate students'
+        computational thinking, coding skills, and real-world problem-solving
+        abilities.
       button: Click here to access
-      url: https://go.gov.sg/grpspgd2024
-      image: /images/PGD2024v3.jpg
+      url: https://www.youtube.com/watch?v=RjrSipwIgNQ
+      image: /images/ETD2.png
       alt: Image alt text
   - infopic:
       title: Why We Love Greenridge Primary
