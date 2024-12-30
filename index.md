@@ -31,7 +31,7 @@ sections:
       description: An ETD showcase of educational tools that cultivate students'
         computational thinking, coding skills, and real-world problem-solving
         abilities.
-      button: Click here to access
+      button: Click here to view
       url: https://www.youtube.com/watch?v=RjrSipwIgNQ
       image: /images/ETD2.png
       alt: Image alt text
@@ -39,7 +39,7 @@ sections:
       title: Why We Love Greenridge Primary
       id: infopic
       description: Our student leaders sharing on why they love GRPS.
-      button: Click here to view video
+      button: Click here to view
       url: https://www.youtube.com/watch?v=SDFlHOLqsRM
       image: /images/Screenshot_2024_05_20_132500.png
       alt: Get to know us!
