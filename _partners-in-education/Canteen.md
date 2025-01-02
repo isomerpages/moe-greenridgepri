@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### **Canteen Menu and Price List**
 
-##### [Click here for the latest Canteen Menu and Price List](/files/Canteen_Menu_2024.pdf)
+##### [Click here for the latest Canteen Menu and Price List](/files/Canteen_Menu_2025.pdf)
