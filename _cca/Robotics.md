@@ -6,12 +6,14 @@ variant: markdown
 ---
 # Robotics
 
-![](/images/CCAs/Robotics/2024_Robotics_Slide1.JPG)
-![](/images/CCAs/Robotics/2024_Robotics_Slide2.JPG)
-![](/images/CCAs/Robotics/2024_Robotics_Slide3.JPG)
-![](/images/CCAs/Robotics/2024_Robotics_Slide4.JPG)
-![](/images/CCAs/Robotics/2024_Robotics_Slide5.JPG)
-![](/images/CCAs/Robotics/2024_Robotics_Slide6.JPG)
-![](/images/CCAs/Robotics/2024_Robotics_Slide7.JPG)
-![](/images/CCAs/Robotics/2024_Robotics_Slide8.JPG)
-![](/images/CCAs/Robotics/2024_Robotics_Slide9.JPG)
+![](/images/CCAs/Robotics/Slide1.jpg)
+![](/images/CCAs/Robotics/Slide2.jpg)
+![](/images/CCAs/Robotics/Slide3.jpg)
+![](/images/CCAs/Robotics/Slide4.jpg)
+![](/images/CCAs/Robotics/Slide5.jpg)
+![](/images/CCAs/Robotics/Slide6.jpg)
+![](/images/CCAs/Robotics/Slide7.jpg)
+![](/images/CCAs/Robotics/Slide8.jpg)
+![](/images/CCAs/Robotics/Slide9.jpg)
+![](/images/CCAs/Robotics/Slide10.jpg)
+![](/images/CCAs/Robotics/Slide11.jpg)
