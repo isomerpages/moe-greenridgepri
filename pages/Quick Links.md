@@ -88,10 +88,6 @@ variant: markdown
     <td><a href="https://iexams.seab.gov.sg/login">https://iexams.seab.gov.sg/login</a><br></td>
   </tr>
   <tr>
-    <td>SSOE Portal </td>
-    <td><a href="https://ssoe2.moe.edu.sg/">https://ssoe2.moe.edu.sg</a><br></td>
-  </tr>
-  <tr>
     <td>OPAL 2.0<br></td>
     <td><a href="https://opal2.moe.edu.sg/">https://opal2.moe.edu.sg</a></td>
   </tr><tr>
