@@ -92,7 +92,7 @@ variant: markdown
     <td><a href="https://opal2.moe.edu.sg/">https://opal2.moe.edu.sg</a></td>
   </tr><tr>
     <td>Discipline Resource Portal<br></td>
-    <td><a href="https://tinyurl.com/discipline-portal" target="_blank">https://tinyurl.com/discipline-portal</a></td>
+    <td><a href="https://go.gov.sg/discipline-resource-portal" target="_blank">https://go.gov.sg/discipline-resource-portal</a></td>
   </tr>
   <tr>
   </tr>
