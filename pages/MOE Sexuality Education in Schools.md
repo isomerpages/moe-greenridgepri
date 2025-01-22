@@ -4,7 +4,7 @@ permalink: /sed/
 variant: tiptap
 description: ""
 ---
-<h4><strong>MOE Sexuality Education in Schools</strong></h4>
+<h4><strong>Moe Sexuality Education in Schools</strong></h4>
 <p></p>
 <p>1.&nbsp;Sexuality Education (SEd) in schools aims to enable students to
 understand the physiological, social and emotional changes they experience
@@ -46,7 +46,7 @@ ones.</p>
 <p>You may <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Greenridge Primary School’s Sexuality Education Programme for 2024</strong>
+<p><strong><u>Overview of Greenridge Primary School’s Sexuality Education Programme for 2025</u></strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -55,7 +55,9 @@ Sexual Behaviour, and, Culture, Society and Law. You may <a href="https://go.gov
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 <p>5. The subjects that incorporate topics on sexuality include:
+<br>
 <br>a) Science
+<br>
 <br>b) Character and Citizenship Education (CCE)</p>
 <p></p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
@@ -79,25 +81,20 @@ with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED/2024sed_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED/2024sed_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED/2024sed_3.png">
-</div>
-<p><strong>Information for Parents</strong>
+<p><strong>Click here to view the following Sexuality Education lessons will be taught at Greenridge Primary School in 2025</strong>
 </p>
-<p>8.&nbsp;Parents may opt their children out of Sexuality Education lessons,
-and/or supplementary Sexuality Education programmes by MOE-approved external
-providers.</p>
 <p></p>
-<p>9.&nbsp;Parents who wish to opt their children out of the Sexuality Education
-lessons <a href="https://form.gov.sg/65b6d85e7ed92f925059b3e5" rel="noopener noreferrer nofollow" target="_blank">need to complete an online opt-out form</a>,
-to be submitted by 16 Feb 2024</p>
-<p></p>
-<p>10.&nbsp;Parents can contact the school at 67604265 or <a rel="noopener noreferrer nofollow" target="_blank">grps@moe.edu.sg</a> for discussion or
-to seek clarification about the school’s Sexuality Education programme.</p>
+<p><strong><u>Information for Parents</u></strong>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
+children out of Sexuality Education lessons, and/or supplementary Sexuality
+Education programmes by MOE-approved external providers.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
+opt their children out of the Sexuality Education lessons need to complete
+an opt-out form. This form will be communicated &nbsp;to parents at the
+start of the year and is also <a href="https://go.gov.sg/grps-sed-2025" rel="noopener noreferrer nofollow" target="_blank">downloadable here</a>. The completed
+opt-out form is to be submitted by 14/02/2025.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at 67604265 or <a rel="noopener noreferrer nofollow" target="_blank">grps@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
