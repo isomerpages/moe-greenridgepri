@@ -4,13 +4,13 @@ permalink: /infohub/
 description: ""
 variant: markdown
 ---
-#### **Parent Teacher Briefing (PTB)**
+#### **Parent-Teacher Briefing (PTB)**
 Here are the slides for the Parent Teacher Briefing for 24 January 2025
 
-* [Principal's Briefing](/files/P1%20Orientation/Principal.pdf)
-*  [General Matters](/files/P1%20Orientation/General_Matters.pdf)
-*  [Discipline](/files/P1%20Orientation/Discipline.pdf)
-*  [Cyber Wellness](/files/P1%20Orientation/Cyber_Wellness.pdf)
+* [Principal's Address](/files/InfoHub/PTB/PTB_P_address_2025_For_website.pdf)
+* [P1 & P2 Year Head's Briefing](/files/InfoHub/PTB/2025_P1P2_PTB_YH_Slides__incl_QnA_.pdf) 
+* [P3 & P4 Year Head's Briefing](/files/InfoHub/PTB/2025_P3P4_PTB_YH_Slides__incl_QnA_.pdf)
+* [P5 & P6 Year Head's Briefing](/files/InfoHub/PTB/2025_P5P6_PTB_YH_Slides__incl_QnA_.pdf) 
 
 
 #### **P1 Orientation Slides**
