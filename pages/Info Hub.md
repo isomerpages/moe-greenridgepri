@@ -27,6 +27,10 @@ Here are the slides for the P1 Orientation for 18 November 2024
 * [Click here to view our publications](https://www.greenridgepri.moe.edu.sg/publication/)
 
 
+#### **GRPS Sexuality Education (SEd)**
+* [Click here to view our GRPS Sexuality Education (SEd) Page](https://www.greenridgepri.moe.edu.sg/sed/)
+
+
 #### **Parents Gateway (PG)**
 
 * [Click here to view more info and on setting up PG](https://www.greenridgepri.moe.edu.sg/pg/)
