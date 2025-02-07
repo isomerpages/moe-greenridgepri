@@ -9,8 +9,6 @@ variant: markdown
 
 The school leaders meet up with different groups of parents every year to engage them in meaningful conversation to understand their concerns with regards to their children’s learning or development. Parents have used this platform to clarify policies implemented by MOE.
 
-TEst
-
 #### **Parent-Teacher Meeting & Parent-Teacher Conference**
 
 Parent-Teacher Meeting is conducted at the beginning of the year to create an opportunity for all parents to understand the current teaching trends, syllabus and assessment carried out in school. This meeting helps to close the gap between the school’s and parents’ expectation.
