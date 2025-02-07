@@ -78,14 +78,12 @@ Parents are allowed to drop off their children inside the school foyer before 7a
 
 **4\. When can parents/guardians buy things from the bookshop?**
 
-School Textbooks / Shoes / Stationery. Operating hours: Monday ~ Friday: 9 am to 4.00pm.  
-Website:&nbsp;[http://thecontinentalbookcentre.blogspot.com](http://thecontinentalbookcentre.blogspot.com/)  
+Parents/guardians may purchase these items from our school bookshop from Monday – Friday: 2 pm to 3 pm. [Click here to view the website for our bookshop](http://thecontinentalbookcentre.blogspot.com)
   
 
 **5\. What are the operating hours for the dental clinic?**
 
-Tel: 67662367  
-Operating hours: Monday - Friday: 8.00am to 5.00pm  
+Tel: 98396594. Operating hours: Monday - Friday: 8.00am to 5.00pm  
   
 
 **6\. Who is the vendor of the school's bus service?**&nbsp;
