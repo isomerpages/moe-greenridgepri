@@ -27,7 +27,6 @@ sections:
       backgroundColor: gray
   - infopic:
       title: GRPS Open House Website
-      subtitle: Add an image and text
       id: infopic
       description: Visit our open house website for more information
       button: Click here to view
