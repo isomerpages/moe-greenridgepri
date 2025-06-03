@@ -33,6 +33,7 @@ sections:
       button: Click here to view
       url: https://sites.google.com/moe.edu.sg/grps-eopenhouse
       image: /images/Open House/GRPSOpenHouseBanner2025.png
+      alt: open house site
   - infopic:
       title: Happenings @ Greenridge Primary
       id: infopic
