@@ -9,7 +9,7 @@ variant: markdown
 ![](/images/CCAs/Hockey/Hockey2024_Slide1.JPG)
 ![](/images/CCAs/Hockey/Hockey2024_Slide2.JPG)
 ![](/images/CCAs/Hockey/Hockey2024_Slide3.JPG)
-![](/images/CCAs/Hockey/Hockey2024_Slide4.JPG)
+![](/images/CCAs/Hockey/Hockey_Slide_2.jpg)
 ![](/images/CCAs/Hockey/Hockey2024_Slide5.JPG)
 ![](/images/CCAs/Hockey/Hockey2024_Slide6.JPG)
 ![](/images/CCAs/Hockey/Hockey2024_Slide7.JPG)
@@ -20,4 +20,3 @@ variant: markdown
 ![](/images/CCAs/Hockey/Hockey2024_Slide12.JPG)
 ![](/images/CCAs/Hockey/Hockey2024_Slide13.JPG)
 ![](/images/CCAs/Hockey/Hockey2024_Slide14.JPG)
-
