@@ -7,7 +7,7 @@ variant: markdown
 # Boys’ & Girls’ Brigade
 
 ![](/images/CCAs/BBGB/2024_BBGB_Slide1_1.JPG)
-![](/images/CCAs/BBGB/2024_BBGB_Slide2.JPG)
+![](/images/CCAs/BBGB/BBGB_Slide_2.jpg)
 ![](/images/CCAs/BBGB/2024_BBGB_Slide3.JPG)
 ![](/images/CCAs/BBGB/2024_BBGB_Slide4.JPG)
 ![](/images/CCAs/BBGB/2024_BBGB_Slide5.JPG)
@@ -17,4 +17,3 @@ variant: markdown
 ![](/images/CCAs/BBGB/2024_BBGB_Slide9.JPG)
 ![](/images/CCAs/BBGB/2024_BBGB_Slide10.JPG)
 ![](/images/CCAs/BBGB/2024_BBGB_Slide11.JPG)
-
