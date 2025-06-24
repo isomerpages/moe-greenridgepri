@@ -2,6 +2,7 @@
 title: Financial Assistance
 permalink: /fas/
 description: ""
+variant: markdown
 ---
 #### **MOE Financial Assistance Scheme (FAS)**
 
@@ -13,4 +14,4 @@ There are various non-profit organizations in Singapore providing financial assi
 
 1. [Chinese Development Assistance Council (CDAC)](https://www.cdac.org.sg/en/)
 2. [MENDAKI](https://www.mendaki.org.sg/assistance_landing/education-trust-fund-school-assistance-scheme-etf-sas/)
-3. [SINDA (Singapore Indian Development Association)](http://www.sinda.org.sg/scholarshipsbursaries/)
+3. [SINDA (Singapore Indian Development Association)](https://www.sinda.org.sg/programme/sindabursary)
