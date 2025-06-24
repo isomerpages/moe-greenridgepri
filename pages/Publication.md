@@ -9,10 +9,8 @@ variant: markdown
 <p style="text-align: center;"><a href="https://heyzine.com/flip-book/958bf2ed34.html#page/1" target="_blank"> <img src="/images/About%20Us/Publication/grpshb2024.png" style="width:50%"></a></p>
 <p style="text-align: center;"><a href="https://online.fliphtml5.com/opptc/mfgl/#p=1" target="_blank"> <img src="/images/About%20Us/Publication/nl2023.png" style="width:50%"></a></p>
 <p style="text-align: center;"><a href="https://online.fliphtml5.com/ieuwj/slct/#p=1" target="_blank"> <img src="/images/About%20Us/Publication/Newsletter2022.png" style="width:50%"></a></p>
-<p style="text-align: center;"><a href="https://drive.google.com/file/d/1GZyAbg9VJArC2H4sjWYwufVREW-YHGkP/view?usp=sharing" target="_blank"> <img src="/images/About%20Us/Publication/grpsheartbeat2022.jpg" style="width:50%"></a></p><table>
-  <tbody><tr>
-		
-</tr></tbody></table><table>
+
+<table>
   <tbody><tr>
     <td><a href="https://heyzine.com/flip-book/ee8b43b9d8.html#page/2" target="_blank"> <img src="/images/About%20Us/Publication/Grps25Annv.png" style="width:50%"></a></td>
 																																					 
