@@ -109,8 +109,8 @@ variant: markdown
     <td><a href="https://myexamduty.seab.gov.sg/">https://myexamduty.seab.gov.sg</a></td>
   </tr>
   <tr>
-    <td>iCart</td>
-    <td><a href="https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx" target="_blank">https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx</a><br></td>
+    <td>GRPS S-Cube</td>
+    <td><a href="https://go.gov.sg/grpsscube" target="_blank">https://go.gov.sg/grpsscube</a><br></td>
   </tr>
   <tr>
     <td>National School Games</td>
