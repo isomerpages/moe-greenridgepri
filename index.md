@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BannerGRPS.png
+      background: /images/Open_House_Poster.png
       key_highlights:
         - title: Student Voices
           description: Click here
@@ -31,7 +31,7 @@ sections:
       description: Visit our open house website for more information and to register.
       button: Click here to view
       url: https://sites.google.com/moe.edu.sg/grps-eopenhouse
-      image: /images/Open House/GRPSOpenHouseBanner2025.png
+      image: /images/2025_Open_House_e_Poster.png
       alt: open house site
   - infopic:
       title: Happenings @ Greenridge Primary
