@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BannerGRPS.png
+      background: /images/Open_House_Poster.png
       key_highlights:
         - title: Student Voices
           description: Click here
