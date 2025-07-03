@@ -51,6 +51,13 @@ sections:
       url: https://www.youtube.com/watch?v=SDFlHOLqsRM
       image: /images/Screenshot_2024_05_20_132500.png
       alt: Get to know us!
+  - infopic:
+      title: GRPS in the News
+      id: infopic
+      description: News articles featuring GRPS
+      button: Click here to view
+      url: https://greenridgepri.moe.edu.sg/grps-in-the-news/
+      image: /images/RoadSafety2025.png
   - textcards:
       title: Our Highlights
       id: textcards
