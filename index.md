@@ -52,9 +52,9 @@ sections:
       image: /images/Screenshot_2024_05_20_132500.png
       alt: Get to know us!
   - infopic:
-      title: GRPS in the News
+      title: GRPS in the News!
       id: infopic
-      description: News articles featuring GRPS
+      description: News articles featuring Greenridge Primary School
       button: Click here to view
       url: https://greenridgepri.moe.edu.sg/grps-in-the-news/
       image: /images/RoadSafety2025.png
