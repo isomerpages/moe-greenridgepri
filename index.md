@@ -42,11 +42,11 @@ sections:
       button: Click here to view
       url: https://www.youtube.com/watch?v=RjrSipwIgNQ
       image: /images/ETD2.png
-      alt: Image alt text
+      alt: ETD showcase
   - infopic:
       title: Why We Love Greenridge Primary
       id: infopic
-      description: Our student leaders sharing on why they love GRPS.
+      description: Our student leaders sharing on why they love Greenridge Primary School.
       button: Click here to view
       url: https://www.youtube.com/watch?v=SDFlHOLqsRM
       image: /images/Screenshot_2024_05_20_132500.png
@@ -54,10 +54,11 @@ sections:
   - infopic:
       title: GRPS in the News!
       id: infopic
-      description: News articles featuring Greenridge Primary School
+      description: News articles featuring GRPS.
       button: Click here to view
       url: https://greenridgepri.moe.edu.sg/grps-in-the-news/
       image: /images/RoadSafety2025.png
+      alt: GRPS news articles
   - textcards:
       title: Our Highlights
       id: textcards
