@@ -50,3 +50,5 @@ a) that you may incur on account of using, visiting or relying on any statement,
 b) resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software;
 
 c) or the conduct or the views of any person who accesses or uses the website.
+
+Thank you.
