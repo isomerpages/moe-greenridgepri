@@ -1,12 +1,13 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 # Terms of Use
 
 **Agreement – Terms**
 
-1\. Thank you for visiting this website (“Greenridge Primary School's website”). The Website is owned and maintained by West View Primary School.
+1\. Thank you for visiting this website (“Greenridge Primary School's website”). The Website is owned and maintained by Greenridge Primary School.
 
 2\. All access of any area of Greenridge Primary School is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.
 
