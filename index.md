@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GRPS_EMAIL_HEADER_30TH_ANNIVERSARY11.png
+      background: /images/Open_House_Poster.png
       key_highlights:
         - title: Student Voices
           description: Click here
@@ -21,7 +21,7 @@ sections:
         - title: Alumni Voices
           description: Click here
           url: https://greenridgepri.moe.edu.sg/alumni-voices/
-      variant: image
+      variant: center
       size: sm
       alignment: right
       backgroundColor: gray
