@@ -4,22 +4,13 @@ permalink: /infohub/
 description: ""
 variant: markdown
 ---
-#### **Parent-Teacher Briefing (PTB)**
-Here are the slides for the Parent Teacher Briefing for 24 January 2025
-
-* [Principal's Address](/files/InfoHub/PTB/PTB_P_address_2025_For_website.pdf)
-* [P1 & P2 Year Head's Briefing](/files/InfoHub/PTB/2025_P1P2_PTB_YH_Slides__incl_QnA_.pdf) 
-* [P3 & P4 Year Head's Briefing](/files/InfoHub/PTB/2025_P3P4_PTB_YH_Slides__incl_QnA_.pdf)
-* [P5 & P6 Year Head's Briefing](/files/InfoHub/PTB/2025_P5P6_PTB_YH_Slides__incl_QnA_.pdf) 
-
-
 #### **P1 Orientation Slides**
-Here are the slides for the P1 Orientation for 18 November 2024
+Here are the slides for the P1 Orientation for 24 November 2025
 
-* [Principal's Briefing](/files/P1%20Orientation/Principal.pdf)
-*  [General Matters](/files/P1%20Orientation/General_Matters.pdf)
-*  [Discipline](/files/P1%20Orientation/Discipline.pdf)
-*  [Cyber Wellness](/files/P1%20Orientation/Cyber_Wellness.pdf)
+* [Principal's Briefing](/files/P1%20Orientation/2025_School_Leader_Slides.pdf)
+*  [General Matters](/files/P1%20Orientation/2025_GeneralMatters.pdf)
+*  [Student Well Being](/files/P1%20Orientation/2025_Student_Well_Being.pdf)
+*  [Cyber Wellness](/files/P1%20Orientation/2025_CyberWellness.pdf)
 
 
 #### **Publications**
