@@ -26,14 +26,6 @@ sections:
       alignment: right
       backgroundColor: gray
   - infopic:
-      title: GRPS Open House Website 2025
-      id: infopic
-      description: Visit our open house website for more information and to register.
-      button: Click here to view
-      url: https://sites.google.com/moe.edu.sg/grps-eopenhouse
-      image: /images/2025_Open_House_e_Poster.png
-      alt: open house site
-  - infopic:
       title: Happenings @ Greenridge Primary
       id: infopic
       description: An ETD showcase of educational tools that cultivate students'
