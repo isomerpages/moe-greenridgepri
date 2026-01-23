@@ -47,7 +47,7 @@ ones.</p>
 <p>You may <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong><u>Overview of Greenridge Primary School’s Sexuality Education Programme for 2025</u></strong>
+<p><strong><u>Overview of Greenridge Primary School’s Sexuality Education Programme for 2026</u></strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -81,7 +81,7 @@ with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong><a href="/files/SED_Pg3_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view the following Sexuality Education lessons will be taught at Greenridge Primary School in 2025</a></strong>
+<p><a href="/files/2026_SED_P5P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view the Sexuality Education lessons that will be taught at Greenridge Primary School in 2026</a>
 </p>
 <p></p>
 <p><strong><u>Information for Parents</u></strong>
@@ -92,7 +92,7 @@ Education programme by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also <a href="https://go.gov.sg/grps-sed-2025" rel="noopener noreferrer nofollow" target="_blank">downloadable here</a>.</p>
+start of the year and is also <a href="https://go.gov.sg/grps-sed-2026" rel="noopener noreferrer nofollow" target="_blank">downloadable here</a>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 67604265 or <a rel="noopener noreferrer nofollow" target="_blank">grps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
