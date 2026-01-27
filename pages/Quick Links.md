@@ -119,4 +119,7 @@ variant: markdown
   <tr>
     <td>All EARS Form Builder</td>
     <td><a href="https://forms.moe.edu.sg/" target="_blank">https://forms.moe.edu.sg</a><br></td>
+		</tr><tr>
+    <td>GRPS ICT Mentor Booking Form</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1XU7OlH2puxEoA8CoBW5aGZTV7SLbr1fUkIIi1H2PKIo/edit?gid=0#gid=0" target="_blank">Click here to view form</a><br></td>
   </tr></tbody></table>
