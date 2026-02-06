@@ -4,8 +4,8 @@ permalink: /infohub/
 description: ""
 variant: markdown
 ---
-#### **P1 Orientation Slides**
-Here are the slides for the P1 Orientation for 24 November 2025
+#### **Parent Teacher Briefing 2026**
+Here are the slides for the Parent Teacher Briefing (PTB) for 30 January 2026
 
 * [Principal's Briefing](/files/P1%20Orientation/2025_School_Leader_Slides.pdf)
 *  [General Matters](/files/P1%20Orientation/2025_GeneralMatters.pdf)
