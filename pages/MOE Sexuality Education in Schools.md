@@ -81,7 +81,7 @@ with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><a href="/files/2026_SED_P5P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view the Sexuality Education lessons that will be taught at Greenridge Primary School in 2026</a>
+<p><a href="/files/2026_SED_P5P6_Updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view the Sexuality Education lessons that will be taught at Greenridge Primary School in 2026</a>
 </p>
 <p></p>
 <p><strong><u>Information for Parents</u></strong>
