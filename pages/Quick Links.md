@@ -114,7 +114,7 @@ variant: markdown
   </tr>
   <tr>
     <td>National School Games</td>
-    <td><a href="https://nsg.moe.edu.sg/nis/#!/login">https://nsg.moe.edu.sg/nis/#!/login</a></td>
+    <td><a href="https://nsg.moe.edu.sg/nis/#/login">https://nsg.moe.edu.sg/nis/#/login</a></td>
   </tr>
   <tr>
     <td>All EARS Form Builder</td>
