@@ -60,7 +60,7 @@ d) If the above does not work, use Incognito mode on your browser to login. Upon
 
 **Q6. I receive the following message: “Your account is temporarily locked to prevent unauthorized use.. What should I do?**
 
-You can request to reset or unlock via the school's [GRPS Students SLS or MIMS Account Unlock/Reset Form](https://form.gov.sg/69dde0859ed84936dc7acf53)
+You can request to reset or unlock via the school's [GRPS Students SLS or MIMS Account Unlock/Reset Form](https://go.gov.sg/grps-studentreset)
 
 <b><u>Resources</u></b>
   
