@@ -2,6 +2,7 @@
 title: Student ICON
 permalink: /slp/student-icon/
 description: ""
+variant: markdown
 ---
 # Student ICON
 
@@ -59,7 +60,7 @@ d) If the above does not work, use Incognito mode on your browser to login. Upon
 
 **Q6. I receive the following message: “Your account is temporarily locked to prevent unauthorized use.. What should I do?**
 
-You can request to reset via the school's&nbsp;&nbsp;<a href="https://form.gov.sg/6125b8165dda700012951c3f" target="_blank">SLS/Student ICON Account Password Reset Form</a>.
+You can request to reset or unlock via the school's [GRPS Students SLS or MIMS Account Unlock/Reset Form](https://form.gov.sg/69dde0859ed84936dc7acf53)
 
 <b><u>Resources</u></b>
   
