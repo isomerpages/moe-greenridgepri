@@ -29,6 +29,8 @@ The username is the student's first five letters of their name and last five cha
 **3\. Getting Started with SLS**  
 [Please click on this link](/files/Annex_A.pdf) to access the SLS guide, instructions and FAQs for students and parents. 
 
+You can request to reset or unlock via the school's [GRPS Students SLS or MIMS Account Unlock/Reset Form](https://go.gov.sg/grps-studentreset)
+
 
 **4\. SLS Support for HBL**  
   
