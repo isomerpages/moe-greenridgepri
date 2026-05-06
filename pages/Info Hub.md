@@ -7,7 +7,7 @@ variant: markdown
 #### **DSA Briefing Slides 2026**
 Here are the slides for the Direct School Admission (DSA) briefing for 4 May 2026
 
-* Briefing Slides
+* [Briefing Slides](/files/InfoHub/2026_DSA_Briefing.pdf)
 
 
 #### **Parent Teacher Briefing 2026**
