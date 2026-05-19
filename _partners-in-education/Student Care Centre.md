@@ -2,6 +2,7 @@
 title: Student Care Centre
 permalink: /about-us/student-care-centre/
 description: ""
+variant: markdown
 ---
 #### **Student Care Centre**
 
@@ -16,4 +17,4 @@ The SCC service provider at Greenridge Primary School is Star Campus Pte Ltd. Fo
 
 Star Campus Pte Ltd  
 Tel: 87689011/ 80223080  
-Email: greenridgescc@starcampus.org
+Email: scpl.grps@gmail.com
