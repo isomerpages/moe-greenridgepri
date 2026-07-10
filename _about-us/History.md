@@ -2,6 +2,7 @@
 title: History
 permalink: /about-us/history/
 description: ""
+variant: markdown
 ---
 # History
 
@@ -29,4 +30,6 @@ The learning experiences are further enhanced with the construction of C.O.V.E. 
 
 The school's Learning for Life Programme (LLP) NE2+ started in 2015, which aims to Nurture Ethical and Effective Leaders with Positive Mind-sets. It incorporates the Head, Heart and Hands which enables students to acquire knowledge, internalize the learning and having the will to act and lead. 
 
-In the process, it includes inculcation of values, social emotional competencies and understanding of cultural diversity and community issues. The key programmes include Values-In-Action (VIA) as well as Student leadership programmes that anchors on five practices of exemplary leadership model by Kouzes and Posner.
+In the process, it includes inculcation of values, social emotional competencies and understanding of cultural diversity and community issues. 
+
+The key programmes include Values-In-Action (VIA) as well as Student leadership programmes that anchors on five practices of exemplary leadership model by Kouzes and Posner.
