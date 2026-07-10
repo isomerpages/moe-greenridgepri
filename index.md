@@ -34,6 +34,7 @@ sections:
       button: Click here to read further
       url: https://iamlearningbydesign.sg/resources/design-library/what-happens-when-learning-is-deeply-integrated-across-subjects/
       image: /images/GRPS_Article.jpg
+      alt: GRPS ALP article
   - infopic:
       title: Happenings @ Greenridge Primary
       id: infopic
