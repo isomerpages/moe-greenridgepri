@@ -27,7 +27,6 @@ sections:
       backgroundColor: gray
   - infopic:
       title: When Learning is Deeply Integrated Across Subjects
-      subtitle: Add an image and text
       id: infopic
       description: "GRPS answer: cohesive student development! We iteratively improved
         ALP with an interdisciplinary approach & student agency. How did they do
@@ -35,7 +34,6 @@ sections:
       button: Click here to read further
       url: https://iamlearningbydesign.sg/resources/design-library/what-happens-when-learning-is-deeply-integrated-across-subjects/
       image: /images/GRPS_Article.jpg
-      alt: Image alt text
   - infopic:
       title: Happenings @ Greenridge Primary
       id: infopic
